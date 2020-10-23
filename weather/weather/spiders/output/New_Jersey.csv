@@ -1,1 +1,376 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Atlantic City,"Fri, Oct 23",67,63,8,81,1,
+Atlantic City,"Sat, Oct 24",71,58,10,74,40,0.0
+Atlantic City,"Sun, Oct 25",59,51,16,74,72,0.12
+Atlantic City,"Mon, Oct 26",67,59,11,85,74,0.12
+Atlantic City,"Tue, Oct 27",62,54,10,83,62,0.22
+Atlantic City,"Wed, Oct 28",61,52,10,79,59,0.03
+Atlantic City,"Thu, Oct 29",62,54,12,93,80,0.59
+Atlantic City,"Fri, Oct 30",58,49,12,80,73,0.48
+Atlantic City,"Sat, Oct 31",55,40,11,59,4,
+Atlantic City,"Sun, Nov 1",59,47,2,76,6,
+Atlantic City,"Mon, Nov 2",56,48,24,86,59,0.11
+Atlantic City,"Tue, Nov 3",56,44,8,51,5,
+Atlantic City,"Wed, Nov 4",53,41,18,52,6,
+Atlantic City,"Thu, Nov 5",55,37,17,50,5,
+Atlantic City,"Fri, Nov 6",62,48,9,60,5,
+Middletown Township,"Fri, Oct 23",66,62,8,84,3,
+Middletown Township,"Sat, Oct 24",68,51,11,71,6,
+Middletown Township,"Sun, Oct 25",55,46,9,56,64,0.09
+Middletown Township,"Mon, Oct 26",64,55,9,88,67,0.11
+Middletown Township,"Tue, Oct 27",60,48,9,80,73,0.19
+Middletown Township,"Wed, Oct 28",54,46,7,76,6,
+Middletown Township,"Thu, Oct 29",56,52,5,81,81,0.39
+Middletown Township,"Fri, Oct 30",55,49,10,68,86,0.72
+Middletown Township,"Sat, Oct 31",51,44,3,43,4,
+Middletown Township,"Sun, Nov 1",54,47,3,64,6,
+Middletown Township,"Mon, Nov 2",53,49,22,79,45,0.03
+Middletown Township,"Tue, Nov 3",54,46,5,50,5,
+Middletown Township,"Wed, Nov 4",52,41,22,49,6,
+Middletown Township,"Thu, Nov 5",51,38,20,47,6,
+Middletown Township,"Fri, Nov 6",58,49,10,58,5,
+Perth Amboy,"Fri, Oct 23",68,62,8,78,4,
+Perth Amboy,"Sat, Oct 24",70,50,10,64,51,0.0
+Perth Amboy,"Sun, Oct 25",53,44,7,52,62,0.06
+Perth Amboy,"Mon, Oct 26",63,53,6,86,67,0.09
+Perth Amboy,"Tue, Oct 27",59,46,7,78,79,0.13
+Perth Amboy,"Wed, Oct 28",55,44,5,72,6,
+Perth Amboy,"Thu, Oct 29",58,51,3,72,63,0.24
+Perth Amboy,"Fri, Oct 30",56,50,7,63,85,0.64
+Perth Amboy,"Sat, Oct 31",53,39,4,37,3,
+Perth Amboy,"Sun, Nov 1",59,46,4,55,6,
+Perth Amboy,"Mon, Nov 2",57,49,15,70,47,0.02
+Perth Amboy,"Tue, Nov 3",58,44,5,45,5,
+Perth Amboy,"Wed, Nov 4",52,42,17,40,6,
+Perth Amboy,"Thu, Nov 5",52,38,15,41,6,
+Perth Amboy,"Fri, Nov 6",61,47,7,54,5,
+East Orange,"Fri, Oct 23",69,62,7,76,39,0.0
+East Orange,"Sat, Oct 24",70,49,9,62,9,
+East Orange,"Sun, Oct 25",53,43,6,48,53,0.02
+East Orange,"Mon, Oct 26",61,51,6,88,64,0.08
+East Orange,"Tue, Oct 27",57,45,7,77,77,0.21
+East Orange,"Wed, Oct 28",54,44,6,70,51,0.01
+East Orange,"Thu, Oct 29",59,49,1,64,60,0.15
+East Orange,"Fri, Oct 30",56,47,7,62,76,0.47
+East Orange,"Sat, Oct 31",54,39,3,31,3,
+East Orange,"Sun, Nov 1",58,44,6,51,5,
+East Orange,"Mon, Nov 2",57,45,12,63,39,0.0
+East Orange,"Tue, Nov 3",58,40,4,45,5,
+East Orange,"Wed, Nov 4",50,38,15,37,6,
+East Orange,"Thu, Nov 5",51,36,13,39,6,
+East Orange,"Fri, Nov 6",62,44,6,51,6,
+New Brunswick,"Fri, Oct 23",70,61,6,74,39,0.01
+New Brunswick,"Sat, Oct 24",71,48,8,64,53,0.01
+New Brunswick,"Sun, Oct 25",52,43,6,51,59,0.03
+New Brunswick,"Mon, Oct 26",64,52,5,85,67,0.08
+New Brunswick,"Tue, Oct 27",58,46,6,75,75,0.1
+New Brunswick,"Wed, Oct 28",55,44,5,73,6,
+New Brunswick,"Thu, Oct 29",60,48,3,71,63,0.2
+New Brunswick,"Fri, Oct 30",58,48,7,61,84,0.61
+New Brunswick,"Sat, Oct 31",55,39,3,30,3,
+New Brunswick,"Sun, Nov 1",60,43,4,54,6,
+New Brunswick,"Mon, Nov 2",57,45,13,65,6,
+New Brunswick,"Tue, Nov 3",58,41,5,49,5,
+New Brunswick,"Wed, Nov 4",52,39,14,38,6,
+New Brunswick,"Thu, Nov 5",52,36,13,40,6,
+New Brunswick,"Fri, Nov 6",62,42,7,54,6,
+Newark,"Fri, Oct 23",69,62,7,77,6,
+Newark,"Sat, Oct 24",70,49,9,62,51,0.0
+Newark,"Sun, Oct 25",53,43,6,49,55,0.03
+Newark,"Mon, Oct 26",62,51,7,87,62,0.09
+Newark,"Tue, Oct 27",58,46,7,78,77,0.23
+Newark,"Wed, Oct 28",54,45,6,71,51,0.01
+Newark,"Thu, Oct 29",59,50,1,64,59,0.17
+Newark,"Fri, Oct 30",56,49,7,61,76,0.5
+Newark,"Sat, Oct 31",54,39,3,31,3,
+Newark,"Sun, Nov 1",58,46,5,51,5,
+Newark,"Mon, Nov 2",57,47,13,64,39,0.0
+Newark,"Tue, Nov 3",57,43,4,44,5,
+Newark,"Wed, Nov 4",51,41,16,38,6,
+Newark,"Thu, Nov 5",52,41,14,39,6,
+Newark,"Fri, Nov 6",61,47,7,50,6,
+Morristown,"Fri, Oct 23",69,62,6,76,45,0.02
+Morristown,"Sat, Oct 24",69,46,9,63,52,0.01
+Morristown,"Sun, Oct 25",52,40,5,49,53,0.02
+Morristown,"Mon, Oct 26",60,49,4,88,64,0.08
+Morristown,"Tue, Oct 27",56,43,6,73,78,0.26
+Morristown,"Wed, Oct 28",53,43,4,72,50,0.01
+Morristown,"Thu, Oct 29",58,44,1,74,63,0.12
+Morristown,"Fri, Oct 30",55,43,6,70,75,0.45
+Morristown,"Sat, Oct 31",55,35,3,38,3,
+Morristown,"Sun, Nov 1",56,38,5,62,5,
+Morristown,"Mon, Nov 2",54,41,11,69,41,0.01
+Morristown,"Tue, Nov 3",56,35,4,56,6,
+Morristown,"Wed, Nov 4",48,34,13,45,6,
+Morristown,"Thu, Nov 5",49,31,12,47,6,
+Morristown,"Fri, Nov 6",60,37,6,61,6,
+Burlington,"Fri, Oct 23",73,62,7,71,3,
+Burlington,"Sat, Oct 24",72,51,9,66,55,0.02
+Burlington,"Sun, Oct 25",53,45,7,59,57,0.04
+Burlington,"Mon, Oct 26",66,51,7,83,64,0.08
+Burlington,"Tue, Oct 27",60,47,7,77,60,0.11
+Burlington,"Wed, Oct 28",56,46,6,75,6,
+Burlington,"Thu, Oct 29",57,49,5,84,71,0.38
+Burlington,"Fri, Oct 30",57,45,6,71,72,0.46
+Burlington,"Sat, Oct 31",57,38,4,39,3,
+Burlington,"Sun, Nov 1",58,41,5,59,6,
+Burlington,"Mon, Nov 2",54,44,12,67,46,0.02
+Burlington,"Tue, Nov 3",57,40,5,52,6,
+Burlington,"Wed, Nov 4",51,38,13,41,6,
+Burlington,"Thu, Nov 5",52,36,12,36,6,
+Burlington,"Fri, Nov 6",62,44,6,51,6,
+Seaside Heights,"Fri, Oct 23",66,61,8,87,2,
+Seaside Heights,"Sat, Oct 24",69,54,9,77,6,
+Seaside Heights,"Sun, Oct 25",57,49,12,70,66,0.12
+Seaside Heights,"Mon, Oct 26",65,57,12,88,67,0.09
+Seaside Heights,"Tue, Oct 27",61,50,12,87,74,0.19
+Seaside Heights,"Wed, Oct 28",57,47,8,80,55,0.01
+Seaside Heights,"Thu, Oct 29",57,53,12,88,79,0.37
+Seaside Heights,"Fri, Oct 30",56,51,12,72,83,0.75
+Seaside Heights,"Sat, Oct 31",51,45,9,52,4,
+Seaside Heights,"Sun, Nov 1",55,48,3,72,6,
+Seaside Heights,"Mon, Nov 2",53,51,27,82,59,0.11
+Seaside Heights,"Tue, Nov 3",55,48,7,49,5,
+Seaside Heights,"Wed, Nov 4",52,41,20,50,6,
+Seaside Heights,"Thu, Nov 5",52,38,18,44,6,
+Seaside Heights,"Fri, Nov 6",60,49,8,53,5,
+Trenton,"Fri, Oct 23",72,61,7,74,3,
+Trenton,"Sat, Oct 24",71,49,9,67,56,0.03
+Trenton,"Sun, Oct 25",52,43,7,58,57,0.06
+Trenton,"Mon, Oct 26",65,50,7,87,65,0.07
+Trenton,"Tue, Oct 27",58,46,6,80,72,0.12
+Trenton,"Wed, Oct 28",56,44,5,76,6,
+Trenton,"Thu, Oct 29",57,49,4,86,74,0.29
+Trenton,"Fri, Oct 30",57,44,7,72,72,0.56
+Trenton,"Sat, Oct 31",56,36,4,39,3,
+Trenton,"Sun, Nov 1",59,40,4,57,6,
+Trenton,"Mon, Nov 2",54,43,12,69,6,
+Trenton,"Tue, Nov 3",57,38,4,54,6,
+Trenton,"Wed, Nov 4",50,38,14,43,6,
+Trenton,"Thu, Nov 5",52,35,11,36,6,
+Trenton,"Fri, Nov 6",61,44,6,52,6,
+Edison,"Fri, Oct 23",70,61,6,74,6,
+Edison,"Sat, Oct 24",71,48,9,63,53,0.01
+Edison,"Sun, Oct 25",52,43,6,51,57,0.03
+Edison,"Mon, Oct 26",63,52,5,85,67,0.09
+Edison,"Tue, Oct 27",58,46,6,75,75,0.1
+Edison,"Wed, Oct 28",55,44,5,73,6,
+Edison,"Thu, Oct 29",60,48,2,70,62,0.2
+Edison,"Fri, Oct 30",58,48,7,61,84,0.61
+Edison,"Sat, Oct 31",55,39,3,30,3,
+Edison,"Sun, Nov 1",60,43,4,53,6,
+Edison,"Mon, Nov 2",57,45,13,65,40,0.01
+Edison,"Tue, Nov 3",58,41,5,48,5,
+Edison,"Wed, Nov 4",52,40,14,37,6,
+Edison,"Thu, Nov 5",53,36,13,40,6,
+Edison,"Fri, Nov 6",62,42,7,54,6,
+West Orange,"Fri, Oct 23",68,61,7,77,40,0.0
+West Orange,"Sat, Oct 24",68,47,10,61,9,
+West Orange,"Sun, Oct 25",51,41,6,49,52,0.02
+West Orange,"Mon, Oct 26",59,49,5,89,66,0.08
+West Orange,"Tue, Oct 27",56,43,7,75,77,0.23
+West Orange,"Wed, Oct 28",53,42,6,70,50,0.02
+West Orange,"Thu, Oct 29",58,47,1,66,61,0.13
+West Orange,"Fri, Oct 30",55,43,7,64,76,0.46
+West Orange,"Sat, Oct 31",55,36,3,32,3,
+West Orange,"Sun, Nov 1",58,42,6,52,5,
+West Orange,"Mon, Nov 2",56,44,11,64,39,0.0
+West Orange,"Tue, Nov 3",57,39,4,47,5,
+West Orange,"Wed, Nov 4",49,36,14,39,6,
+West Orange,"Thu, Nov 5",50,34,13,40,6,
+West Orange,"Fri, Nov 6",60,42,6,52,6,
+Union City,"Fri, Oct 23",69,62,7,76,38,0.0
+Union City,"Sat, Oct 24",70,49,9,62,9,
+Union City,"Sun, Oct 25",53,43,6,49,54,0.03
+Union City,"Mon, Oct 26",62,51,6,88,67,0.09
+Union City,"Tue, Oct 27",58,45,7,77,77,0.2
+Union City,"Wed, Oct 28",54,44,5,71,51,0.01
+Union City,"Thu, Oct 29",58,50,2,66,60,0.17
+Union City,"Fri, Oct 30",56,49,7,62,76,0.52
+Union City,"Sat, Oct 31",54,38,3,32,3,
+Union City,"Sun, Nov 1",58,46,5,51,5,
+Union City,"Mon, Nov 2",56,47,13,64,40,0.01
+Union City,"Tue, Nov 3",58,42,4,45,5,
+Union City,"Wed, Nov 4",51,40,15,38,6,
+Union City,"Thu, Nov 5",52,41,13,39,6,
+Union City,"Fri, Nov 6",61,46,7,52,5,
+Elizabeth,"Fri, Oct 23",69,62,7,77,6,
+Elizabeth,"Sat, Oct 24",70,49,10,63,10,
+Elizabeth,"Sun, Oct 25",53,44,6,49,58,0.04
+Elizabeth,"Mon, Oct 26",63,52,7,87,65,0.09
+Elizabeth,"Tue, Oct 27",58,46,7,78,77,0.2
+Elizabeth,"Wed, Oct 28",54,45,5,71,52,0.01
+Elizabeth,"Thu, Oct 29",59,51,2,67,59,0.2
+Elizabeth,"Fri, Oct 30",56,49,8,61,76,0.56
+Elizabeth,"Sat, Oct 31",54,39,3,33,3,
+Elizabeth,"Sun, Nov 1",58,47,5,52,5,
+Elizabeth,"Mon, Nov 2",57,48,14,66,45,0.02
+Elizabeth,"Tue, Nov 3",58,43,4,44,5,
+Elizabeth,"Wed, Nov 4",51,41,17,39,6,
+Elizabeth,"Thu, Nov 5",53,41,15,40,6,
+Elizabeth,"Fri, Nov 6",61,47,7,52,5,
+Old Bridge Township,"Fri, Oct 23",70,61,7,77,5,
+Old Bridge Township,"Sat, Oct 24",71,49,9,68,10,
+Old Bridge Township,"Sun, Oct 25",53,44,7,56,63,0.05
+Old Bridge Township,"Mon, Oct 26",64,53,6,89,66,0.09
+Old Bridge Township,"Tue, Oct 27",59,46,7,80,68,0.11
+Old Bridge Township,"Wed, Oct 28",55,44,5,75,6,
+Old Bridge Township,"Thu, Oct 29",55,51,4,79,63,0.28
+Old Bridge Township,"Fri, Oct 30",54,46,6,67,83,0.62
+Old Bridge Township,"Sat, Oct 31",51,40,4,40,3,
+Old Bridge Township,"Sun, Nov 1",56,42,4,61,6,
+Old Bridge Township,"Mon, Nov 2",53,47,15,72,45,0.03
+Old Bridge Township,"Tue, Nov 3",54,42,5,52,5,
+Old Bridge Township,"Wed, Nov 4",49,38,15,43,6,
+Old Bridge Township,"Thu, Nov 5",49,35,13,42,6,
+Old Bridge Township,"Fri, Nov 6",58,44,7,57,6,
+Freehold,"Fri, Oct 23",69,60,7,80,5,
+Freehold,"Sat, Oct 24",70,49,9,72,6,
+Freehold,"Sun, Oct 25",53,44,7,62,64,0.06
+Freehold,"Mon, Oct 26",65,53,7,92,65,0.06
+Freehold,"Tue, Oct 27",58,45,7,86,73,0.13
+Freehold,"Wed, Oct 28",55,42,6,81,6,
+Freehold,"Thu, Oct 29",56,49,5,88,79,0.31
+Freehold,"Fri, Oct 30",55,44,6,74,73,0.57
+Freehold,"Sat, Oct 31",53,38,4,46,3,
+Freehold,"Sun, Nov 1",58,41,4,68,6,
+Freehold,"Mon, Nov 2",53,44,16,77,44,0.01
+Freehold,"Tue, Nov 3",55,41,5,57,5,
+Freehold,"Wed, Nov 4",50,39,14,46,6,
+Freehold,"Thu, Nov 5",49,37,12,43,6,
+Freehold,"Fri, Nov 6",60,40,7,58,6,
+Paramus,"Fri, Oct 23",69,62,7,76,43,0.02
+Paramus,"Sat, Oct 24",70,48,9,62,60,0.02
+Paramus,"Sun, Oct 25",53,42,6,47,59,0.02
+Paramus,"Mon, Oct 26",60,51,5,87,58,0.07
+Paramus,"Tue, Oct 27",56,45,7,77,84,0.3
+Paramus,"Wed, Oct 28",53,44,6,70,52,0.01
+Paramus,"Thu, Oct 29",59,48,1,61,58,0.09
+Paramus,"Fri, Oct 30",57,47,7,61,78,0.44
+Paramus,"Sat, Oct 31",54,38,4,32,3,
+Paramus,"Sun, Nov 1",57,45,6,50,5,
+Paramus,"Mon, Nov 2",56,45,11,63,52,0.02
+Paramus,"Tue, Nov 3",57,47,4,46,5,
+Paramus,"Wed, Nov 4",49,38,15,40,6,
+Paramus,"Thu, Nov 5",50,36,13,39,6,
+Paramus,"Fri, Nov 6",61,45,6,51,6,
+Wildwood,"Fri, Oct 23",67,60,8,83,1,
+Wildwood,"Sat, Oct 24",70,59,7,79,50,0.0
+Wildwood,"Sun, Oct 25",59,50,13,80,75,0.19
+Wildwood,"Mon, Oct 26",67,60,8,88,70,0.1
+Wildwood,"Tue, Oct 27",62,55,9,84,63,0.07
+Wildwood,"Wed, Oct 28",60,53,8,84,69,0.03
+Wildwood,"Thu, Oct 29",64,54,13,96,90,0.94
+Wildwood,"Fri, Oct 30",59,50,12,76,65,0.24
+Wildwood,"Sat, Oct 31",56,39,10,61,4,
+Wildwood,"Sun, Nov 1",60,48,1,73,6,
+Wildwood,"Mon, Nov 2",57,47,23,83,45,0.09
+Wildwood,"Tue, Nov 3",56,42,10,57,5,
+Wildwood,"Wed, Nov 4",54,43,21,57,6,
+Wildwood,"Thu, Nov 5",55,43,17,50,5,
+Wildwood,"Fri, Nov 6",63,49,7,60,5,
+Jersey City,"Fri, Oct 23",68,63,7,78,5,
+Jersey City,"Sat, Oct 24",69,50,10,64,10,
+Jersey City,"Sun, Oct 25",53,44,7,49,60,0.04
+Jersey City,"Mon, Oct 26",62,52,8,86,63,0.09
+Jersey City,"Tue, Oct 27",58,46,8,78,77,0.24
+Jersey City,"Wed, Oct 28",54,45,6,72,52,0.01
+Jersey City,"Thu, Oct 29",59,51,1,64,60,0.2
+Jersey City,"Fri, Oct 30",56,50,8,60,77,0.52
+Jersey City,"Sat, Oct 31",54,39,3,32,4,
+Jersey City,"Sun, Nov 1",59,47,5,54,5,
+Jersey City,"Mon, Nov 2",57,48,15,66,45,0.02
+Jersey City,"Tue, Nov 3",58,50,4,44,5,
+Jersey City,"Wed, Nov 4",51,41,18,40,6,
+Jersey City,"Thu, Nov 5",53,40,16,39,6,
+Jersey City,"Fri, Nov 6",61,48,8,50,6,
+Passaic,"Fri, Oct 23",69,63,7,76,5,
+Passaic,"Sat, Oct 24",70,49,9,62,53,0.02
+Passaic,"Sun, Oct 25",53,42,6,47,58,0.02
+Passaic,"Mon, Oct 26",61,51,6,87,60,0.08
+Passaic,"Tue, Oct 27",57,45,7,77,84,0.28
+Passaic,"Wed, Oct 28",54,44,6,70,53,0.02
+Passaic,"Thu, Oct 29",59,49,1,62,62,0.12
+Passaic,"Fri, Oct 30",57,47,7,61,77,0.46
+Passaic,"Sat, Oct 31",54,38,3,31,3,
+Passaic,"Sun, Nov 1",58,45,6,51,5,
+Passaic,"Mon, Nov 2",56,46,12,63,42,0.01
+Passaic,"Tue, Nov 3",57,47,4,45,5,
+Passaic,"Wed, Nov 4",50,39,15,39,6,
+Passaic,"Thu, Nov 5",51,36,13,39,6,
+Passaic,"Fri, Nov 6",61,45,6,51,6,
+Williamstown,"Fri, Oct 23",72,60,7,72,2,
+Williamstown,"Sat, Oct 24",73,52,9,66,59,0.02
+Williamstown,"Sun, Oct 25",52,46,8,62,62,0.06
+Williamstown,"Mon, Oct 26",67,51,8,83,63,0.05
+Williamstown,"Tue, Oct 27",60,47,7,79,56,0.09
+Williamstown,"Wed, Oct 28",57,46,6,77,6,
+Williamstown,"Thu, Oct 29",61,53,7,86,78,0.45
+Williamstown,"Fri, Oct 30",60,50,6,72,71,0.5
+Williamstown,"Sat, Oct 31",56,40,4,40,3,
+Williamstown,"Sun, Nov 1",60,44,4,67,6,
+Williamstown,"Mon, Nov 2",56,48,13,66,6,
+Williamstown,"Tue, Nov 3",59,44,5,53,6,
+Williamstown,"Wed, Nov 4",53,41,12,43,6,
+Williamstown,"Thu, Nov 5",53,39,11,44,6,
+Williamstown,"Fri, Nov 6",64,45,5,55,5,
+Lakewood,"Fri, Oct 23",69,61,7,81,4,
+Lakewood,"Sat, Oct 24",71,51,8,73,6,
+Lakewood,"Sun, Oct 25",53,45,8,65,65,0.09
+Lakewood,"Mon, Oct 26",66,54,8,89,65,0.09
+Lakewood,"Tue, Oct 27",59,47,7,85,74,0.14
+Lakewood,"Wed, Oct 28",56,43,6,79,54,0.01
+Lakewood,"Thu, Oct 29",58,50,6,87,79,0.37
+Lakewood,"Fri, Oct 30",56,46,7,72,84,0.63
+Lakewood,"Sat, Oct 31",53,37,5,42,4,
+Lakewood,"Sun, Nov 1",59,43,2,65,6,
+Lakewood,"Mon, Nov 2",54,46,17,76,52,0.02
+Lakewood,"Tue, Nov 3",56,45,5,51,5,
+Lakewood,"Wed, Nov 4",50,39,15,45,6,
+Lakewood,"Thu, Nov 5",51,37,13,39,6,
+Lakewood,"Fri, Nov 6",61,43,6,52,5,
+Paterson,"Fri, Oct 23",69,63,7,75,5,
+Paterson,"Sat, Oct 24",70,48,9,62,54,0.02
+Paterson,"Sun, Oct 25",53,42,6,46,57,0.02
+Paterson,"Mon, Oct 26",60,51,5,87,61,0.09
+Paterson,"Tue, Oct 27",56,44,7,76,84,0.3
+Paterson,"Wed, Oct 28",53,44,6,70,53,0.01
+Paterson,"Thu, Oct 29",59,47,1,65,58,0.1
+Paterson,"Fri, Oct 30",55,46,7,65,77,0.44
+Paterson,"Sat, Oct 31",53,37,3,34,3,
+Paterson,"Sun, Nov 1",57,42,6,53,5,
+Paterson,"Mon, Nov 2",55,44,11,65,41,0.01
+Paterson,"Tue, Nov 3",56,38,4,49,5,
+Paterson,"Wed, Nov 4",49,36,14,41,6,
+Paterson,"Thu, Nov 5",50,34,12,41,6,
+Paterson,"Fri, Nov 6",61,42,6,53,6,
+Linden,"Fri, Oct 23",69,62,7,76,5,
+Linden,"Sat, Oct 24",70,49,10,63,51,0.0
+Linden,"Sun, Oct 25",53,44,6,51,59,0.04
+Linden,"Mon, Oct 26",63,52,6,87,67,0.09
+Linden,"Tue, Oct 27",58,46,7,78,78,0.18
+Linden,"Wed, Oct 28",54,44,5,71,52,0.01
+Linden,"Thu, Oct 29",58,51,2,68,60,0.21
+Linden,"Fri, Oct 30",56,49,7,62,76,0.59
+Linden,"Sat, Oct 31",53,39,3,34,3,
+Linden,"Sun, Nov 1",58,47,5,52,5,
+Linden,"Mon, Nov 2",57,48,14,67,45,0.02
+Linden,"Tue, Nov 3",58,43,5,44,5,
+Linden,"Wed, Nov 4",51,41,16,39,6,
+Linden,"Thu, Nov 5",52,41,14,40,6,
+Linden,"Fri, Nov 6",61,47,7,53,5,
+Pennsauken Township,"Fri, Oct 23",73,62,7,69,3,
+Pennsauken Township,"Sat, Oct 24",73,52,9,65,54,0.03
+Pennsauken Township,"Sun, Oct 25",52,46,7,58,56,0.06
+Pennsauken Township,"Mon, Oct 26",67,51,7,80,62,0.05
+Pennsauken Township,"Tue, Oct 27",60,49,7,72,60,0.11
+Pennsauken Township,"Wed, Oct 28",57,47,6,73,6,
+Pennsauken Township,"Thu, Oct 29",59,51,6,76,75,0.41
+Pennsauken Township,"Fri, Oct 30",59,48,7,62,75,0.43
+Pennsauken Township,"Sat, Oct 31",57,40,4,29,3,
+Pennsauken Township,"Sun, Nov 1",59,44,5,57,6,
+Pennsauken Township,"Mon, Nov 2",55,47,11,64,49,0.02
+Pennsauken Township,"Tue, Nov 3",58,43,5,48,6,
+Pennsauken Township,"Wed, Nov 4",52,40,14,38,6,
+Pennsauken Township,"Thu, Nov 5",52,39,12,34,6,
+Pennsauken Township,"Fri, Nov 6",62,45,6,48,5,

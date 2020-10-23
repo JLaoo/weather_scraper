@@ -1,1 +1,46 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Dover,"Fri, Oct 23",70,60,8,76,1,
+Dover,"Sat, Oct 24",73,56,9,69,60,0.02
+Dover,"Sun, Oct 25",54,47,9,70,62,0.07
+Dover,"Mon, Oct 26",68,52,8,78,58,0.04
+Dover,"Tue, Oct 27",60,51,8,81,61,0.09
+Dover,"Wed, Oct 28",58,51,7,78,57,0.02
+Dover,"Thu, Oct 29",59,52,10,94,80,0.56
+Dover,"Fri, Oct 30",61,49,10,74,73,0.39
+Dover,"Sat, Oct 31",56,38,6,49,4,
+Dover,"Sun, Nov 1",60,43,4,70,6,
+Dover,"Mon, Nov 2",55,46,17,69,6,
+Dover,"Tue, Nov 3",57,41,7,62,5,
+Dover,"Wed, Nov 4",52,41,16,52,6,
+Dover,"Thu, Nov 5",53,41,13,49,5,
+Dover,"Fri, Nov 6",63,42,6,57,5,
+Rehoboth Beach,"Fri, Oct 23",67,63,8,84,1,
+Rehoboth Beach,"Sat, Oct 24",72,60,7,78,55,0.02
+Rehoboth Beach,"Sun, Oct 25",60,52,13,82,81,0.44
+Rehoboth Beach,"Mon, Oct 26",70,60,6,82,73,0.13
+Rehoboth Beach,"Tue, Oct 27",65,57,9,82,53,0.06
+Rehoboth Beach,"Wed, Oct 28",63,56,7,83,60,0.02
+Rehoboth Beach,"Thu, Oct 29",65,58,9,98,91,1.04
+Rehoboth Beach,"Fri, Oct 30",60,52,15,78,71,0.36
+Rehoboth Beach,"Sat, Oct 31",57,45,11,64,5,
+Rehoboth Beach,"Sun, Nov 1",60,50,3,75,6,
+Rehoboth Beach,"Mon, Nov 2",56,50,26,82,50,0.04
+Rehoboth Beach,"Tue, Nov 3",56,47,11,63,5,
+Rehoboth Beach,"Wed, Nov 4",54,44,23,59,6,
+Rehoboth Beach,"Thu, Nov 5",55,44,15,50,5,
+Rehoboth Beach,"Fri, Nov 6",64,48,6,61,5,
+Wilmington,"Fri, Oct 23",72,61,8,71,2,
+Wilmington,"Sat, Oct 24",73,52,10,66,53,0.05
+Wilmington,"Sun, Oct 25",51,46,8,61,58,0.05
+Wilmington,"Mon, Oct 26",66,50,8,79,63,0.02
+Wilmington,"Tue, Oct 27",60,49,8,72,59,0.07
+Wilmington,"Wed, Oct 28",59,48,7,70,6,
+Wilmington,"Thu, Oct 29",58,52,6,84,78,0.5
+Wilmington,"Fri, Oct 30",58,47,7,68,74,0.44
+Wilmington,"Sat, Oct 31",55,40,4,35,3,
+Wilmington,"Sun, Nov 1",57,42,5,65,6,
+Wilmington,"Mon, Nov 2",55,45,12,67,51,0.02
+Wilmington,"Tue, Nov 3",57,42,5,57,6,
+Wilmington,"Wed, Nov 4",52,39,13,43,6,
+Wilmington,"Thu, Nov 5",52,38,11,42,6,
+Wilmington,"Fri, Nov 6",62,44,5,56,5,

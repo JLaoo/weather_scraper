@@ -1,1 +1,181 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Batesville,"Fri, Oct 23",82,60,7,66,97,0.37
+Batesville,"Sat, Oct 24",57,50,8,77,48,0.02
+Batesville,"Sun, Oct 25",67,53,5,80,6,
+Batesville,"Mon, Oct 26",79,56,7,73,50,0.09
+Batesville,"Tue, Oct 27",59,51,10,80,59,0.02
+Batesville,"Wed, Oct 28",65,49,9,78,75,0.42
+Batesville,"Thu, Oct 29",58,48,15,87,99,1.47
+Batesville,"Fri, Oct 30",63,44,12,60,2,
+Batesville,"Sat, Oct 31",65,40,4,59,4,
+Batesville,"Sun, Nov 1",66,44,8,58,4,
+Batesville,"Mon, Nov 2",69,45,7,57,3,
+Batesville,"Tue, Nov 3",68,45,4,51,4,
+Batesville,"Wed, Nov 4",69,46,10,54,4,
+Batesville,"Thu, Nov 5",71,46,4,38,2,
+Batesville,"Fri, Nov 6",70,47,6,50,4,
+Gulfport,"Fri, Oct 23",82,70,10,74,50,0.02
+Gulfport,"Sat, Oct 24",82,71,6,72,39,0.01
+Gulfport,"Sun, Oct 25",80,68,8,71,4,
+Gulfport,"Mon, Oct 26",82,70,9,71,5,
+Gulfport,"Tue, Oct 27",82,70,9,70,5,
+Gulfport,"Wed, Oct 28",78,68,11,80,89,0.68
+Gulfport,"Thu, Oct 29",75,65,13,67,50,0.02
+Gulfport,"Fri, Oct 30",75,61,11,52,4,
+Gulfport,"Sat, Oct 31",71,53,5,66,6,
+Gulfport,"Sun, Nov 1",77,57,7,58,6,
+Gulfport,"Mon, Nov 2",76,55,11,45,2,
+Gulfport,"Tue, Nov 3",77,55,1,44,2,
+Gulfport,"Wed, Nov 4",76,55,7,45,3,
+Gulfport,"Thu, Nov 5",77,56,4,45,3,
+Gulfport,"Fri, Nov 6",77,55,8,73,38,0.0
+Olive Branch,"Fri, Oct 23",82,55,9,66,99,0.51
+Olive Branch,"Sat, Oct 24",54,48,9,79,49,0.02
+Olive Branch,"Sun, Oct 25",65,51,6,81,6,
+Olive Branch,"Mon, Oct 26",72,52,8,81,54,0.08
+Olive Branch,"Tue, Oct 27",53,48,11,85,64,0.05
+Olive Branch,"Wed, Oct 28",66,47,10,75,65,0.24
+Olive Branch,"Thu, Oct 29",56,48,14,86,99,2.19
+Olive Branch,"Fri, Oct 30",63,44,12,59,2,
+Olive Branch,"Sat, Oct 31",65,42,5,63,4,
+Olive Branch,"Sun, Nov 1",65,49,12,61,5,
+Olive Branch,"Mon, Nov 2",62,49,7,57,3,
+Olive Branch,"Tue, Nov 3",62,49,5,50,4,
+Olive Branch,"Wed, Nov 4",62,49,10,52,4,
+Olive Branch,"Thu, Nov 5",64,51,5,44,2,
+Olive Branch,"Fri, Nov 6",64,50,8,52,3,
+Bay St. Louis,"Fri, Oct 23",80,72,10,78,48,0.0
+Bay St. Louis,"Sat, Oct 24",81,71,6,74,40,0.03
+Bay St. Louis,"Sun, Oct 25",79,68,8,75,4,
+Bay St. Louis,"Mon, Oct 26",81,70,9,78,6,
+Bay St. Louis,"Tue, Oct 27",80,69,8,76,8,
+Bay St. Louis,"Wed, Oct 28",77,67,9,84,89,0.74
+Bay St. Louis,"Thu, Oct 29",74,64,13,68,41,0.0
+Bay St. Louis,"Fri, Oct 30",75,60,11,54,5,
+Bay St. Louis,"Sat, Oct 31",72,52,4,66,6,
+Bay St. Louis,"Sun, Nov 1",77,58,8,58,6,
+Bay St. Louis,"Mon, Nov 2",75,55,11,47,2,
+Bay St. Louis,"Tue, Nov 3",76,55,1,45,2,
+Bay St. Louis,"Wed, Nov 4",76,55,7,48,3,
+Bay St. Louis,"Thu, Nov 5",77,55,5,52,3,
+Bay St. Louis,"Fri, Nov 6",76,55,10,75,39,0.0
+Hattiesburg,"Fri, Oct 23",85,64,5,64,99,0.39
+Hattiesburg,"Sat, Oct 24",78,65,7,72,65,0.34
+Hattiesburg,"Sun, Oct 25",80,62,4,66,4,
+Hattiesburg,"Mon, Oct 26",82,64,5,68,4,
+Hattiesburg,"Tue, Oct 27",84,64,5,64,6,
+Hattiesburg,"Wed, Oct 28",78,63,6,77,68,0.14
+Hattiesburg,"Thu, Oct 29",72,62,11,72,44,0.03
+Hattiesburg,"Fri, Oct 30",74,54,10,45,5,
+Hattiesburg,"Sat, Oct 31",76,47,3,60,6,
+Hattiesburg,"Sun, Nov 1",76,54,7,55,6,
+Hattiesburg,"Mon, Nov 2",76,51,8,48,3,
+Hattiesburg,"Tue, Nov 3",77,51,4,45,3,
+Hattiesburg,"Wed, Nov 4",76,50,6,51,3,
+Hattiesburg,"Thu, Nov 5",78,51,3,35,2,
+Hattiesburg,"Fri, Nov 6",78,51,4,53,5,
+Oxford,"Fri, Oct 23",82,62,6,65,82,0.26
+Oxford,"Sat, Oct 24",60,51,6,77,55,0.07
+Oxford,"Sun, Oct 25",69,53,5,77,6,
+Oxford,"Mon, Oct 26",79,59,6,71,50,0.07
+Oxford,"Tue, Oct 27",62,53,8,76,50,0.02
+Oxford,"Wed, Oct 28",66,51,8,76,75,0.36
+Oxford,"Thu, Oct 29",58,47,11,92,94,0.89
+Oxford,"Fri, Oct 30",65,44,9,53,3,
+Oxford,"Sat, Oct 31",66,41,3,62,5,
+Oxford,"Sun, Nov 1",66,44,7,55,5,
+Oxford,"Mon, Nov 2",69,43,6,55,3,
+Oxford,"Tue, Nov 3",69,44,4,49,4,
+Oxford,"Wed, Nov 4",69,44,8,49,4,
+Oxford,"Thu, Nov 5",71,45,3,36,2,
+Oxford,"Fri, Nov 6",71,45,5,48,3,
+Biloxi,"Fri, Oct 23",82,70,9,74,50,0.0
+Biloxi,"Sat, Oct 24",82,71,6,73,40,0.01
+Biloxi,"Sun, Oct 25",81,68,8,71,5,
+Biloxi,"Mon, Oct 26",82,69,9,73,4,
+Biloxi,"Tue, Oct 27",82,69,8,73,5,
+Biloxi,"Wed, Oct 28",77,68,10,82,88,0.63
+Biloxi,"Thu, Oct 29",75,68,12,66,55,0.02
+Biloxi,"Fri, Oct 30",75,62,11,53,4,
+Biloxi,"Sat, Oct 31",70,53,5,67,5,
+Biloxi,"Sun, Nov 1",76,56,6,57,5,
+Biloxi,"Mon, Nov 2",75,55,10,47,2,
+Biloxi,"Tue, Nov 3",76,56,2,45,3,
+Biloxi,"Wed, Nov 4",75,55,7,47,3,
+Biloxi,"Thu, Nov 5",77,56,4,46,3,
+Biloxi,"Fri, Nov 6",76,56,8,71,48,0.01
+Jackson,"Fri, Oct 23",84,66,4,58,55,0.07
+Jackson,"Sat, Oct 24",71,59,7,70,69,0.15
+Jackson,"Sun, Oct 25",76,58,6,66,4,
+Jackson,"Mon, Oct 26",83,63,7,59,6,
+Jackson,"Tue, Oct 27",78,61,9,64,6,
+Jackson,"Wed, Oct 28",75,56,7,68,77,0.3
+Jackson,"Thu, Oct 29",70,59,12,79,62,0.18
+Jackson,"Fri, Oct 30",72,53,11,45,6,
+Jackson,"Sat, Oct 31",73,50,5,49,4,
+Jackson,"Sun, Nov 1",72,54,8,46,4,
+Jackson,"Mon, Nov 2",74,52,9,49,3,
+Jackson,"Tue, Nov 3",74,52,5,41,3,
+Jackson,"Wed, Nov 4",74,52,8,54,4,
+Jackson,"Thu, Nov 5",75,53,2,24,1,
+Jackson,"Fri, Nov 6",75,53,4,44,4,
+Pascagoula,"Fri, Oct 23",83,71,10,70,50,0.02
+Pascagoula,"Sat, Oct 24",83,72,6,68,88,0.05
+Pascagoula,"Sun, Oct 25",83,69,7,67,5,
+Pascagoula,"Mon, Oct 26",84,69,9,67,3,
+Pascagoula,"Tue, Oct 27",84,69,8,66,5,
+Pascagoula,"Wed, Oct 28",80,71,12,75,78,0.37
+Pascagoula,"Thu, Oct 29",77,60,14,69,52,0.02
+Pascagoula,"Fri, Oct 30",75,58,11,63,5,
+Pascagoula,"Sat, Oct 31",73,50,5,68,6,
+Pascagoula,"Sun, Nov 1",76,54,8,60,5,
+Pascagoula,"Mon, Nov 2",75,52,12,53,2,
+Pascagoula,"Tue, Nov 3",76,52,3,50,3,
+Pascagoula,"Wed, Nov 4",75,52,8,53,3,
+Pascagoula,"Thu, Nov 5",77,52,5,59,3,
+Pascagoula,"Fri, Nov 6",76,53,10,67,6,
+Gautier,"Fri, Oct 23",84,69,9,69,19,
+Gautier,"Sat, Oct 24",84,71,6,68,87,0.03
+Gautier,"Sun, Oct 25",83,68,7,67,5,
+Gautier,"Mon, Oct 26",84,68,8,67,3,
+Gautier,"Tue, Oct 27",84,68,8,66,5,
+Gautier,"Wed, Oct 28",79,69,11,75,80,0.42
+Gautier,"Thu, Oct 29",77,60,13,69,53,0.02
+Gautier,"Fri, Oct 30",75,57,11,62,5,
+Gautier,"Sat, Oct 31",73,49,5,70,6,
+Gautier,"Sun, Nov 1",76,54,7,60,5,
+Gautier,"Mon, Nov 2",75,52,11,53,2,
+Gautier,"Tue, Nov 3",76,52,3,50,3,
+Gautier,"Wed, Nov 4",75,52,8,52,3,
+Gautier,"Thu, Nov 5",77,52,4,57,3,
+Gautier,"Fri, Nov 6",76,52,9,67,6,
+McComb,"Fri, Oct 23",83,67,5,64,94,0.12
+McComb,"Sat, Oct 24",76,63,7,70,42,0.06
+McComb,"Sun, Oct 25",80,60,6,63,3,
+McComb,"Mon, Oct 26",83,65,6,63,4,
+McComb,"Tue, Oct 27",83,65,6,58,39,0.01
+McComb,"Wed, Oct 28",77,62,6,76,69,0.25
+McComb,"Thu, Oct 29",72,60,8,75,59,0.04
+McComb,"Fri, Oct 30",73,54,9,50,5,
+McComb,"Sat, Oct 31",73,50,5,54,4,
+McComb,"Sun, Nov 1",74,54,6,51,4,
+McComb,"Mon, Nov 2",74,52,7,53,3,
+McComb,"Tue, Nov 3",75,52,4,47,3,
+McComb,"Wed, Nov 4",75,52,6,56,4,
+McComb,"Thu, Nov 5",75,52,3,39,2,
+McComb,"Fri, Nov 6",75,52,3,54,6,
+Vicksburg,"Fri, Oct 23",83,67,4,63,97,0.16
+Vicksburg,"Sat, Oct 24",70,58,7,75,47,0.06
+Vicksburg,"Sun, Oct 25",76,56,5,70,5,
+Vicksburg,"Mon, Oct 26",82,65,6,67,44,0.03
+Vicksburg,"Tue, Oct 27",73,58,9,70,40,0.01
+Vicksburg,"Wed, Oct 28",74,56,8,75,88,0.84
+Vicksburg,"Thu, Oct 29",67,53,11,83,67,0.18
+Vicksburg,"Fri, Oct 30",69,47,11,57,5,
+Vicksburg,"Sat, Oct 31",69,46,6,50,3,
+Vicksburg,"Sun, Nov 1",70,48,6,49,3,
+Vicksburg,"Mon, Nov 2",72,47,8,53,3,
+Vicksburg,"Tue, Nov 3",72,47,4,45,3,
+Vicksburg,"Wed, Nov 4",72,47,8,59,4,
+Vicksburg,"Thu, Nov 5",73,47,3,36,2,
+Vicksburg,"Fri, Nov 6",73,47,5,49,4,

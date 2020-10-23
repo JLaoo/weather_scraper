@@ -1,1 +1,346 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Bloomington,"Fri, Oct 23",75,48,11,73,91,0.07
+Bloomington,"Sat, Oct 24",53,42,9,53,6,
+Bloomington,"Sun, Oct 25",50,41,7,70,6,
+Bloomington,"Mon, Oct 26",51,43,8,75,87,0.71
+Bloomington,"Tue, Oct 27",49,42,5,73,60,0.09
+Bloomington,"Wed, Oct 28",55,36,6,61,4,
+Bloomington,"Thu, Oct 29",59,37,8,44,4,
+Bloomington,"Fri, Oct 30",59,36,8,50,4,
+Bloomington,"Sat, Oct 31",58,37,6,44,2,
+Bloomington,"Sun, Nov 1",53,39,7,84,60,0.17
+Bloomington,"Mon, Nov 2",57,39,3,58,5,
+Bloomington,"Tue, Nov 3",58,38,8,54,5,
+Bloomington,"Wed, Nov 4",58,37,6,52,5,
+Bloomington,"Thu, Nov 5",59,34,12,48,3,
+Bloomington,"Fri, Nov 6",59,35,11,54,4,
+Huntington,"Fri, Oct 23",73,47,16,80,57,0.1
+Huntington,"Sat, Oct 24",50,36,9,56,5,
+Huntington,"Sun, Oct 25",52,34,10,60,5,
+Huntington,"Mon, Oct 26",46,40,6,77,78,0.48
+Huntington,"Tue, Oct 27",46,36,5,74,72,0.13
+Huntington,"Wed, Oct 28",51,31,9,55,3,
+Huntington,"Thu, Oct 29",52,35,8,63,6,
+Huntington,"Fri, Oct 30",52,32,8,52,5,
+Huntington,"Sat, Oct 31",55,35,9,48,3,
+Huntington,"Sun, Nov 1",49,38,10,85,63,0.13
+Huntington,"Mon, Nov 2",53,38,3,65,6,
+Huntington,"Tue, Nov 3",54,37,11,57,6,
+Huntington,"Wed, Nov 4",54,34,8,54,4,
+Huntington,"Thu, Nov 5",57,34,19,44,5,
+Huntington,"Fri, Nov 6",57,39,14,62,6,
+Petersburg,"Fri, Oct 23",77,48,14,76,51,0.07
+Petersburg,"Sat, Oct 24",55,44,9,58,6,
+Petersburg,"Sun, Oct 25",53,44,7,75,6,
+Petersburg,"Mon, Oct 26",51,44,11,84,90,1
+Petersburg,"Tue, Oct 27",49,41,7,80,65,0.09
+Petersburg,"Wed, Oct 28",54,36,6,69,6,
+Petersburg,"Thu, Oct 29",59,39,12,45,4,
+Petersburg,"Fri, Oct 30",59,37,10,51,4,
+Petersburg,"Sat, Oct 31",58,33,6,42,2,
+Petersburg,"Sun, Nov 1",53,39,10,74,60,0.03
+Petersburg,"Mon, Nov 2",57,38,5,56,5,
+Petersburg,"Tue, Nov 3",58,38,9,50,5,
+Petersburg,"Wed, Nov 4",59,39,9,45,6,
+Petersburg,"Thu, Nov 5",58,34,14,47,3,
+Petersburg,"Fri, Nov 6",59,34,14,50,4,
+Elkhart,"Fri, Oct 23",71,45,16,83,71,0.14
+Elkhart,"Sat, Oct 24",49,38,8,60,6,
+Elkhart,"Sun, Oct 25",49,34,9,56,6,
+Elkhart,"Mon, Oct 26",44,38,9,78,64,0.09
+Elkhart,"Tue, Oct 27",43,33,5,71,51,0.03
+Elkhart,"Wed, Oct 28",49,29,13,49,3,
+Elkhart,"Thu, Oct 29",49,36,7,68,44,0.01
+Elkhart,"Fri, Oct 30",49,30,8,55,6,
+Elkhart,"Sat, Oct 31",54,34,12,48,3,
+Elkhart,"Sun, Nov 1",47,39,11,87,56,0.09
+Elkhart,"Mon, Nov 2",52,36,3,62,5,
+Elkhart,"Tue, Nov 3",52,36,12,67,6,
+Elkhart,"Wed, Nov 4",51,35,8,59,6,
+Elkhart,"Thu, Nov 5",57,34,18,43,5,
+Elkhart,"Fri, Nov 6",58,40,13,66,6,
+Indianapolis,"Fri, Oct 23",74,48,13,77,53,0.09
+Indianapolis,"Sat, Oct 24",51,42,9,56,6,
+Indianapolis,"Sun, Oct 25",50,38,8,67,6,
+Indianapolis,"Mon, Oct 26",49,42,9,76,79,0.44
+Indianapolis,"Tue, Oct 27",48,41,6,74,67,0.1
+Indianapolis,"Wed, Oct 28",55,36,7,53,3,
+Indianapolis,"Thu, Oct 29",58,42,9,38,5,
+Indianapolis,"Fri, Oct 30",56,39,8,44,4,
+Indianapolis,"Sat, Oct 31",57,40,7,37,3,
+Indianapolis,"Sun, Nov 1",53,42,8,75,55,0.17
+Indianapolis,"Mon, Nov 2",56,42,3,51,5,
+Indianapolis,"Tue, Nov 3",57,42,8,48,5,
+Indianapolis,"Wed, Nov 4",57,41,6,47,4,
+Indianapolis,"Thu, Nov 5",58,38,14,40,4,
+Indianapolis,"Fri, Nov 6",58,39,11,53,5,
+Princeton,"Fri, Oct 23",78,47,13,75,50,0.06
+Princeton,"Sat, Oct 24",54,43,9,59,5,
+Princeton,"Sun, Oct 25",53,45,6,75,6,
+Princeton,"Mon, Oct 26",50,43,11,84,89,1.07
+Princeton,"Tue, Oct 27",48,40,7,78,64,0.06
+Princeton,"Wed, Oct 28",54,37,6,68,6,
+Princeton,"Thu, Oct 29",59,40,13,46,4,
+Princeton,"Fri, Oct 30",59,37,10,51,4,
+Princeton,"Sat, Oct 31",58,33,6,42,2,
+Princeton,"Sun, Nov 1",52,40,11,76,46,0.01
+Princeton,"Mon, Nov 2",57,39,4,54,4,
+Princeton,"Tue, Nov 3",58,38,8,49,5,
+Princeton,"Wed, Nov 4",59,39,8,44,5,
+Princeton,"Thu, Nov 5",59,35,14,46,2,
+Princeton,"Fri, Nov 6",60,35,14,50,4,
+Evansville,"Fri, Oct 23",78,48,12,71,92,0.2
+Evansville,"Sat, Oct 24",54,44,7,63,5,
+Evansville,"Sun, Oct 25",54,46,5,77,6,
+Evansville,"Mon, Oct 26",51,43,9,85,90,1.15
+Evansville,"Tue, Oct 27",48,40,7,80,65,0.09
+Evansville,"Wed, Oct 28",54,38,6,71,6,
+Evansville,"Thu, Oct 29",62,44,12,49,6,
+Evansville,"Fri, Oct 30",61,40,10,52,4,
+Evansville,"Sat, Oct 31",60,40,6,45,2,
+Evansville,"Sun, Nov 1",57,42,10,73,44,0.01
+Evansville,"Mon, Nov 2",58,41,4,56,5,
+Evansville,"Tue, Nov 3",59,40,7,52,4,
+Evansville,"Wed, Nov 4",60,40,7,45,5,
+Evansville,"Thu, Nov 5",61,37,12,48,2,
+Evansville,"Fri, Nov 6",61,37,12,50,3,
+Jeffersonville,"Fri, Oct 23",78,58,11,66,58,0.09
+Jeffersonville,"Sat, Oct 24",55,47,8,60,45,0.01
+Jeffersonville,"Sun, Oct 25",56,46,7,74,6,
+Jeffersonville,"Mon, Oct 26",56,49,8,79,88,0.76
+Jeffersonville,"Tue, Oct 27",53,46,6,75,81,0.39
+Jeffersonville,"Wed, Oct 28",58,45,6,68,6,
+Jeffersonville,"Thu, Oct 29",61,49,7,62,6,
+Jeffersonville,"Fri, Oct 30",61,46,8,52,4,
+Jeffersonville,"Sat, Oct 31",59,42,6,40,2,
+Jeffersonville,"Sun, Nov 1",60,47,8,73,55,0.17
+Jeffersonville,"Mon, Nov 2",59,45,5,62,5,
+Jeffersonville,"Tue, Nov 3",59,47,7,53,5,
+Jeffersonville,"Wed, Nov 4",59,45,8,49,6,
+Jeffersonville,"Thu, Nov 5",61,43,9,42,3,
+Jeffersonville,"Fri, Nov 6",61,44,10,44,3,
+South Bend,"Fri, Oct 23",70,45,15,84,75,0.15
+South Bend,"Sat, Oct 24",48,38,8,62,4,
+South Bend,"Sun, Oct 25",50,35,9,57,6,
+South Bend,"Mon, Oct 26",44,38,10,77,64,0.11
+South Bend,"Tue, Oct 27",44,34,6,66,53,0.02
+South Bend,"Wed, Oct 28",49,29,13,46,3,
+South Bend,"Thu, Oct 29",48,37,7,71,50,0.01
+South Bend,"Fri, Oct 30",48,31,7,58,6,
+South Bend,"Sat, Oct 31",54,34,13,47,3,
+South Bend,"Sun, Nov 1",46,39,11,88,55,0.1
+South Bend,"Mon, Nov 2",53,37,3,60,5,
+South Bend,"Tue, Nov 3",52,37,12,68,5,
+South Bend,"Wed, Nov 4",51,35,8,60,5,
+South Bend,"Thu, Nov 5",56,35,17,43,5,
+South Bend,"Fri, Nov 6",57,40,13,65,6,
+Fort Wayne,"Fri, Oct 23",73,47,14,78,64,0.1
+Fort Wayne,"Sat, Oct 24",49,37,8,55,4,
+Fort Wayne,"Sun, Oct 25",51,35,10,59,6,
+Fort Wayne,"Mon, Oct 26",47,41,6,72,77,0.36
+Fort Wayne,"Tue, Oct 27",45,36,4,73,70,0.14
+Fort Wayne,"Wed, Oct 28",51,32,8,52,4,
+Fort Wayne,"Thu, Oct 29",52,35,7,65,6,
+Fort Wayne,"Fri, Oct 30",52,33,8,50,5,
+Fort Wayne,"Sat, Oct 31",54,35,9,48,3,
+Fort Wayne,"Sun, Nov 1",50,38,9,82,56,0.17
+Fort Wayne,"Mon, Nov 2",53,38,3,66,6,
+Fort Wayne,"Tue, Nov 3",54,38,11,57,6,
+Fort Wayne,"Wed, Nov 4",53,33,8,50,5,
+Fort Wayne,"Thu, Nov 5",56,34,18,44,5,
+Fort Wayne,"Fri, Nov 6",57,41,13,63,6,
+Knox,"Fri, Oct 23",69,43,14,83,74,0.13
+Knox,"Sat, Oct 24",46,35,8,63,5,
+Knox,"Sun, Oct 25",49,32,8,57,6,
+Knox,"Mon, Oct 26",43,36,9,76,70,0.15
+Knox,"Tue, Oct 27",43,32,6,65,52,0.01
+Knox,"Wed, Oct 28",50,27,10,47,2,
+Knox,"Thu, Oct 29",49,37,9,71,6,
+Knox,"Fri, Oct 30",52,36,8,54,6,
+Knox,"Sat, Oct 31",56,36,12,43,3,
+Knox,"Sun, Nov 1",47,41,15,79,60,0.12
+Knox,"Mon, Nov 2",54,38,4,56,5,
+Knox,"Tue, Nov 3",53,38,12,60,5,
+Knox,"Wed, Nov 4",54,37,7,57,5,
+Knox,"Thu, Nov 5",59,36,16,42,5,
+Knox,"Fri, Nov 6",60,40,13,62,6,
+Terre Haute,"Fri, Oct 23",74,46,14,81,51,0.04
+Terre Haute,"Sat, Oct 24",53,40,9,60,3,
+Terre Haute,"Sun, Oct 25",52,37,7,71,6,
+Terre Haute,"Mon, Oct 26",47,40,9,83,75,0.5
+Terre Haute,"Tue, Oct 27",46,36,6,79,67,0.05
+Terre Haute,"Wed, Oct 28",55,29,6,56,3,
+Terre Haute,"Thu, Oct 29",57,35,11,45,5,
+Terre Haute,"Fri, Oct 30",56,34,9,48,4,
+Terre Haute,"Sat, Oct 31",58,36,8,39,3,
+Terre Haute,"Sun, Nov 1",50,40,12,83,53,0.06
+Terre Haute,"Mon, Nov 2",56,39,4,55,5,
+Terre Haute,"Tue, Nov 3",57,39,9,50,4,
+Terre Haute,"Wed, Nov 4",58,38,7,44,5,
+Terre Haute,"Thu, Nov 5",60,34,16,42,3,
+Terre Haute,"Fri, Nov 6",60,34,15,53,5,
+French Lick,"Fri, Oct 23",75,49,10,82,92,0.14
+French Lick,"Sat, Oct 24",54,44,8,61,6,
+French Lick,"Sun, Oct 25",53,43,6,80,6,
+French Lick,"Mon, Oct 26",52,45,7,87,86,0.94
+French Lick,"Tue, Oct 27",50,43,5,82,70,0.13
+French Lick,"Wed, Oct 28",56,39,6,69,6,
+French Lick,"Thu, Oct 29",62,41,9,45,4,
+French Lick,"Fri, Oct 30",60,38,7,51,4,
+French Lick,"Sat, Oct 31",58,38,6,44,2,
+French Lick,"Sun, Nov 1",54,40,7,84,58,0.12
+French Lick,"Mon, Nov 2",57,39,3,60,5,
+French Lick,"Tue, Nov 3",57,37,7,54,5,
+French Lick,"Wed, Nov 4",58,37,6,51,5,
+French Lick,"Thu, Nov 5",58,35,11,50,3,
+French Lick,"Fri, Nov 6",58,35,11,51,3,
+Kokomo,"Fri, Oct 23",74,46,18,82,59,0.08
+Kokomo,"Sat, Oct 24",51,38,9,58,6,
+Kokomo,"Sun, Oct 25",50,35,10,65,6,
+Kokomo,"Mon, Oct 26",45,40,9,83,78,0.56
+Kokomo,"Tue, Oct 27",44,35,7,81,73,0.12
+Kokomo,"Wed, Oct 28",53,32,10,54,3,
+Kokomo,"Thu, Oct 29",54,35,9,57,6,
+Kokomo,"Fri, Oct 30",53,34,8,51,4,
+Kokomo,"Sat, Oct 31",56,35,9,46,3,
+Kokomo,"Sun, Nov 1",49,39,11,87,61,0.14
+Kokomo,"Mon, Nov 2",54,39,3,61,6,
+Kokomo,"Tue, Nov 3",55,38,11,56,6,
+Kokomo,"Wed, Nov 4",55,36,8,54,5,
+Kokomo,"Thu, Nov 5",57,35,18,43,4,
+Kokomo,"Fri, Nov 6",57,38,15,61,5,
+Vevay,"Fri, Oct 23",78,58,11,72,58,0.08
+Vevay,"Sat, Oct 24",55,44,8,63,43,0.01
+Vevay,"Sun, Oct 25",53,44,6,77,6,
+Vevay,"Mon, Oct 26",55,47,6,85,87,0.78
+Vevay,"Tue, Oct 27",51,45,4,83,80,0.39
+Vevay,"Wed, Oct 28",57,44,5,71,6,
+Vevay,"Thu, Oct 29",60,41,9,58,5,
+Vevay,"Fri, Oct 30",58,38,8,56,4,
+Vevay,"Sat, Oct 31",59,36,6,49,2,
+Vevay,"Sun, Nov 1",56,38,10,74,55,0.15
+Vevay,"Mon, Nov 2",55,41,5,66,6,
+Vevay,"Tue, Nov 3",55,37,8,61,6,
+Vevay,"Wed, Nov 4",55,36,8,54,5,
+Vevay,"Thu, Nov 5",58,35,11,52,4,
+Vevay,"Fri, Nov 6",58,36,11,53,3,
+Gary,"Fri, Oct 23",67,43,15,82,57,0.09
+Gary,"Sat, Oct 24",45,40,10,69,5,
+Gary,"Sun, Oct 25",49,37,11,62,5,
+Gary,"Mon, Oct 26",45,38,11,72,70,0.19
+Gary,"Tue, Oct 27",41,32,6,69,58,0.06
+Gary,"Wed, Oct 28",50,31,12,47,3,
+Gary,"Thu, Oct 29",51,42,12,70,41,0.02
+Gary,"Fri, Oct 30",51,41,7,53,5,
+Gary,"Sat, Oct 31",58,40,14,43,3,
+Gary,"Sun, Nov 1",49,45,21,72,64,0.12
+Gary,"Mon, Nov 2",54,44,5,56,39,0.01
+Gary,"Tue, Nov 3",53,44,10,64,6,
+Gary,"Wed, Nov 4",54,41,6,58,5,
+Gary,"Thu, Nov 5",57,41,14,48,5,
+Gary,"Fri, Nov 6",57,43,11,65,6,
+Lafayette,"Fri, Oct 23",72,46,13,81,61,0.09
+Lafayette,"Sat, Oct 24",51,40,10,57,5,
+Lafayette,"Sun, Oct 25",50,35,10,64,6,
+Lafayette,"Mon, Oct 26",46,39,10,78,78,0.53
+Lafayette,"Tue, Oct 27",43,35,6,75,66,0.06
+Lafayette,"Wed, Oct 28",52,28,8,51,2,
+Lafayette,"Thu, Oct 29",53,33,10,62,6,
+Lafayette,"Fri, Oct 30",53,33,7,50,4,
+Lafayette,"Sat, Oct 31",55,36,9,46,2,
+Lafayette,"Sun, Nov 1",48,39,12,88,55,0.1
+Lafayette,"Mon, Nov 2",54,38,3,58,42,0.0
+Lafayette,"Tue, Nov 3",54,38,9,54,6,
+Lafayette,"Wed, Nov 4",55,36,7,52,4,
+Lafayette,"Thu, Nov 5",58,34,18,43,4,
+Lafayette,"Fri, Nov 6",58,36,15,61,5,
+Vincennes,"Fri, Oct 23",79,48,15,72,45,0.06
+Vincennes,"Sat, Oct 24",55,43,11,55,6,
+Vincennes,"Sun, Oct 25",52,43,8,73,6,
+Vincennes,"Mon, Oct 26",50,42,14,79,85,0.97
+Vincennes,"Tue, Oct 27",48,39,8,76,66,0.04
+Vincennes,"Wed, Oct 28",54,35,7,63,6,
+Vincennes,"Thu, Oct 29",59,39,12,46,4,
+Vincennes,"Fri, Oct 30",60,37,10,51,4,
+Vincennes,"Sat, Oct 31",59,38,6,42,2,
+Vincennes,"Sun, Nov 1",54,40,10,76,55,0.03
+Vincennes,"Mon, Nov 2",58,39,5,55,5,
+Vincennes,"Tue, Nov 3",58,39,9,50,5,
+Vincennes,"Wed, Nov 4",59,39,8,44,5,
+Vincennes,"Thu, Nov 5",60,35,15,44,3,
+Vincennes,"Fri, Nov 6",60,35,14,49,4,
+Greencastle,"Fri, Oct 23",73,46,14,83,52,0.08
+Greencastle,"Sat, Oct 24",51,39,10,61,6,
+Greencastle,"Sun, Oct 25",49,36,8,71,6,
+Greencastle,"Mon, Oct 26",47,40,10,82,79,0.45
+Greencastle,"Tue, Oct 27",46,37,6,80,67,0.06
+Greencastle,"Wed, Oct 28",53,31,7,60,2,
+Greencastle,"Thu, Oct 29",57,38,10,46,5,
+Greencastle,"Fri, Oct 30",55,35,9,52,4,
+Greencastle,"Sat, Oct 31",57,38,8,42,2,
+Greencastle,"Sun, Nov 1",50,40,11,86,63,0.12
+Greencastle,"Mon, Nov 2",56,40,4,58,6,
+Greencastle,"Tue, Nov 3",56,39,10,53,5,
+Greencastle,"Wed, Nov 4",57,38,7,51,4,
+Greencastle,"Thu, Nov 5",58,35,16,44,4,
+Greencastle,"Fri, Nov 6",58,36,14,56,5,
+Lawrenceburg,"Fri, Oct 23",77,56,12,69,97,0.13
+Lawrenceburg,"Sat, Oct 24",53,44,10,59,6,
+Lawrenceburg,"Sun, Oct 25",52,42,7,71,6,
+Lawrenceburg,"Mon, Oct 26",54,47,7,80,86,0.67
+Lawrenceburg,"Tue, Oct 27",52,45,6,76,80,0.33
+Lawrenceburg,"Wed, Oct 28",57,44,7,68,6,
+Lawrenceburg,"Thu, Oct 29",59,41,8,50,4,
+Lawrenceburg,"Fri, Oct 30",57,39,8,51,4,
+Lawrenceburg,"Sat, Oct 31",59,37,6,46,2,
+Lawrenceburg,"Sun, Nov 1",55,38,8,71,50,0.11
+Lawrenceburg,"Mon, Nov 2",55,40,5,65,6,
+Lawrenceburg,"Tue, Nov 3",55,37,8,57,6,
+Lawrenceburg,"Wed, Nov 4",55,37,7,51,5,
+Lawrenceburg,"Thu, Nov 5",58,35,11,50,4,
+Lawrenceburg,"Fri, Nov 6",58,38,11,51,4,
+Winamac,"Fri, Oct 23",70,45,15,81,72,0.12
+Winamac,"Sat, Oct 24",48,37,8,59,3,
+Winamac,"Sun, Oct 25",49,33,9,57,6,
+Winamac,"Mon, Oct 26",44,38,7,78,70,0.25
+Winamac,"Tue, Oct 27",43,33,5,69,58,0.05
+Winamac,"Wed, Oct 28",51,29,10,48,2,
+Winamac,"Thu, Oct 29",49,33,9,72,6,
+Winamac,"Fri, Oct 30",51,34,7,51,5,
+Winamac,"Sat, Oct 31",55,32,11,44,3,
+Winamac,"Sun, Nov 1",46,38,14,82,55,0.12
+Winamac,"Mon, Nov 2",52,35,3,57,5,
+Winamac,"Tue, Nov 3",53,36,10,54,6,
+Winamac,"Wed, Nov 4",53,35,8,54,5,
+Winamac,"Thu, Nov 5",58,34,18,40,5,
+Winamac,"Fri, Nov 6",58,37,14,62,6,
+Hammond,"Fri, Oct 23",67,42,13,83,61,0.07
+Hammond,"Sat, Oct 24",44,38,9,69,2,
+Hammond,"Sun, Oct 25",48,38,11,64,6,
+Hammond,"Mon, Oct 26",45,36,10,70,70,0.16
+Hammond,"Tue, Oct 27",41,32,6,68,53,0.02
+Hammond,"Wed, Oct 28",49,30,12,47,3,
+Hammond,"Thu, Oct 29",50,42,11,68,39,0.0
+Hammond,"Fri, Oct 30",52,40,5,46,5,
+Hammond,"Sat, Oct 31",58,41,12,41,3,
+Hammond,"Sun, Nov 1",49,45,18,67,58,0.11
+Hammond,"Mon, Nov 2",55,44,5,54,42,0.0
+Hammond,"Tue, Nov 3",54,44,9,59,6,
+Hammond,"Wed, Nov 4",55,42,5,53,4,
+Hammond,"Thu, Nov 5",57,41,13,47,5,
+Hammond,"Fri, Nov 6",57,43,10,64,6,
+Muncie,"Fri, Oct 23",76,50,14,70,89,0.11
+Muncie,"Sat, Oct 24",52,40,9,52,44,0.0
+Muncie,"Sun, Oct 25",53,37,9,57,6,
+Muncie,"Mon, Oct 26",49,43,9,75,75,0.43
+Muncie,"Tue, Oct 27",49,41,6,70,73,0.15
+Muncie,"Wed, Oct 28",56,35,8,52,4,
+Muncie,"Thu, Oct 29",56,39,10,50,6,
+Muncie,"Fri, Oct 30",53,35,9,52,5,
+Muncie,"Sat, Oct 31",55,37,9,49,3,
+Muncie,"Sun, Nov 1",51,40,9,82,59,0.17
+Muncie,"Mon, Nov 2",53,40,4,69,6,
+Muncie,"Tue, Nov 3",54,39,11,55,6,
+Muncie,"Wed, Nov 4",54,35,9,55,5,
+Muncie,"Thu, Nov 5",57,36,18,46,4,
+Muncie,"Fri, Nov 6",58,40,15,58,5,

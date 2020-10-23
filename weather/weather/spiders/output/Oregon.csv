@@ -1,1 +1,241 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Astoria,"Fri, Oct 23",55,39,12,89,86,0.45
+Astoria,"Sat, Oct 24",51,39,11,61,6,
+Astoria,"Sun, Oct 25",47,33,8,38,0,
+Astoria,"Mon, Oct 26",50,33,8,59,3,
+Astoria,"Tue, Oct 27",54,39,8,80,5,
+Astoria,"Wed, Oct 28",56,50,10,89,52,0.07
+Astoria,"Thu, Oct 29",61,54,3,86,55,0.03
+Astoria,"Fri, Oct 30",59,53,6,83,67,0.06
+Astoria,"Sat, Oct 31",58,48,3,75,41,0.01
+Astoria,"Sun, Nov 1",58,48,4,82,3,
+Astoria,"Mon, Nov 2",58,46,2,76,5,
+Astoria,"Tue, Nov 3",64,48,3,69,5,
+Astoria,"Wed, Nov 4",62,49,2,73,4,
+Astoria,"Thu, Nov 5",55,51,4,94,83,0.34
+Astoria,"Fri, Nov 6",52,47,4,79,66,0.12
+Hermiston,"Fri, Oct 23",47,26,6,54,61,0.08
+Hermiston,"Sat, Oct 24",45,30,11,40,58,0.1
+Hermiston,"Sun, Oct 25",40,17,7,31,0,
+Hermiston,"Mon, Oct 26",42,15,5,46,1,
+Hermiston,"Tue, Oct 27",47,20,6,55,2,
+Hermiston,"Wed, Oct 28",63,31,12,60,6,
+Hermiston,"Thu, Oct 29",61,41,6,55,6,
+Hermiston,"Fri, Oct 30",62,42,7,51,6,
+Hermiston,"Sat, Oct 31",61,42,1,54,6,
+Hermiston,"Sun, Nov 1",59,41,2,46,3,
+Hermiston,"Mon, Nov 2",60,40,3,43,5,
+Hermiston,"Tue, Nov 3",60,40,4,41,5,
+Hermiston,"Wed, Nov 4",59,40,2,44,3,
+Hermiston,"Thu, Nov 5",59,41,3,39,6,
+Hermiston,"Fri, Nov 6",52,42,4,85,77,0.47
+Pendleton,"Fri, Oct 23",53,28,8,46,70,0.18
+Pendleton,"Sat, Oct 24",42,26,11,54,64,0.19
+Pendleton,"Sun, Oct 25",34,18,7,47,1,
+Pendleton,"Mon, Oct 26",40,17,6,58,2,
+Pendleton,"Tue, Oct 27",47,23,6,60,2,
+Pendleton,"Wed, Oct 28",64,35,10,61,6,
+Pendleton,"Thu, Oct 29",59,40,6,52,6,
+Pendleton,"Fri, Oct 30",60,40,6,54,6,
+Pendleton,"Sat, Oct 31",60,43,2,58,6,
+Pendleton,"Sun, Nov 1",56,42,4,43,3,
+Pendleton,"Mon, Nov 2",57,45,3,43,4,
+Pendleton,"Tue, Nov 3",57,44,5,40,4,
+Pendleton,"Wed, Nov 4",56,44,3,43,3,
+Pendleton,"Thu, Nov 5",59,42,2,38,6,
+Pendleton,"Fri, Nov 6",53,44,6,83,74,0.42
+Bend,"Fri, Oct 23",64,26,12,41,57,0.02
+Bend,"Sat, Oct 24",52,22,12,66,58,0.02
+Bend,"Sun, Oct 25",30,14,9,37,2,
+Bend,"Mon, Oct 26",53,14,7,21,1,
+Bend,"Tue, Oct 27",68,31,7,27,1,
+Bend,"Wed, Oct 28",65,33,8,41,3,
+Bend,"Thu, Oct 29",64,35,4,31,4,
+Bend,"Fri, Oct 30",56,39,6,44,6,
+Bend,"Sat, Oct 31",59,33,3,42,6,
+Bend,"Sun, Nov 1",62,39,11,23,3,
+Bend,"Mon, Nov 2",62,42,4,27,4,
+Bend,"Tue, Nov 3",63,39,3,26,2,
+Bend,"Wed, Nov 4",64,39,5,25,2,
+Bend,"Thu, Nov 5",64,41,5,24,6,
+Bend,"Fri, Nov 6",62,41,9,65,73,0.17
+Hillsboro,"Fri, Oct 23",53,31,8,73,66,0.06
+Hillsboro,"Sat, Oct 24",50,37,10,53,42,0.0
+Hillsboro,"Sun, Oct 25",46,30,13,27,0,
+Hillsboro,"Mon, Oct 26",51,23,5,48,1,
+Hillsboro,"Tue, Oct 27",54,29,4,63,4,
+Hillsboro,"Wed, Oct 28",55,34,3,73,6,
+Hillsboro,"Thu, Oct 29",65,48,2,63,6,
+Hillsboro,"Fri, Oct 30",61,51,1,67,57,0.1
+Hillsboro,"Sat, Oct 31",63,48,2,65,6,
+Hillsboro,"Sun, Nov 1",63,47,1,53,5,
+Hillsboro,"Mon, Nov 2",63,48,1,58,5,
+Hillsboro,"Tue, Nov 3",64,47,2,53,5,
+Hillsboro,"Wed, Nov 4",63,47,1,46,3,
+Hillsboro,"Thu, Nov 5",58,49,2,79,74,0.23
+Hillsboro,"Fri, Nov 6",51,45,2,88,93,0.86
+Portland,"Fri, Oct 23",54,37,8,66,67,0.05
+Portland,"Sat, Oct 24",53,41,12,50,48,0.01
+Portland,"Sun, Oct 25",46,34,15,26,0,
+Portland,"Mon, Oct 26",50,28,6,41,1,
+Portland,"Tue, Oct 27",53,33,3,57,4,
+Portland,"Wed, Oct 28",54,39,3,72,6,
+Portland,"Thu, Oct 29",66,50,4,61,6,
+Portland,"Fri, Oct 30",62,53,2,69,59,0.11
+Portland,"Sat, Oct 31",64,50,3,60,6,
+Portland,"Sun, Nov 1",64,47,1,47,5,
+Portland,"Mon, Nov 2",64,50,1,53,5,
+Portland,"Tue, Nov 3",64,51,3,46,5,
+Portland,"Wed, Nov 4",63,51,1,39,3,
+Portland,"Thu, Nov 5",60,52,2,65,69,0.22
+Portland,"Fri, Nov 6",55,49,3,85,99,1.19
+Coos Bay,"Fri, Oct 23",59,39,8,63,56,0.05
+Coos Bay,"Sat, Oct 24",56,43,11,71,53,0.02
+Coos Bay,"Sun, Oct 25",54,35,14,30,0,
+Coos Bay,"Mon, Oct 26",59,33,11,42,1,
+Coos Bay,"Tue, Oct 27",60,37,10,61,1,
+Coos Bay,"Wed, Oct 28",65,42,10,72,1,
+Coos Bay,"Thu, Oct 29",63,50,5,69,48,0.01
+Coos Bay,"Fri, Oct 30",57,50,5,73,51,0.03
+Coos Bay,"Sat, Oct 31",63,48,10,61,5,
+Coos Bay,"Sun, Nov 1",57,49,7,79,3,
+Coos Bay,"Mon, Nov 2",58,49,7,73,5,
+Coos Bay,"Tue, Nov 3",64,49,8,54,3,
+Coos Bay,"Wed, Nov 4",64,50,4,52,2,
+Coos Bay,"Thu, Nov 5",63,50,4,61,59,0.05
+Coos Bay,"Fri, Nov 6",58,49,5,96,94,0.79
+Lincoln City,"Fri, Oct 23",55,40,12,90,67,0.17
+Lincoln City,"Sat, Oct 24",55,40,10,67,52,0.02
+Lincoln City,"Sun, Oct 25",48,36,13,35,0,
+Lincoln City,"Mon, Oct 26",54,34,9,54,2,
+Lincoln City,"Tue, Oct 27",58,39,7,78,2,
+Lincoln City,"Wed, Oct 28",60,46,5,88,5,
+Lincoln City,"Thu, Oct 29",65,51,5,71,51,0.0
+Lincoln City,"Fri, Oct 30",57,53,7,84,69,0.09
+Lincoln City,"Sat, Oct 31",60,50,7,75,40,0.0
+Lincoln City,"Sun, Nov 1",59,47,7,82,3,
+Lincoln City,"Mon, Nov 2",57,44,3,72,5,
+Lincoln City,"Tue, Nov 3",60,48,5,64,5,
+Lincoln City,"Wed, Nov 4",60,48,2,64,3,
+Lincoln City,"Thu, Nov 5",57,50,7,85,75,0.25
+Lincoln City,"Fri, Nov 6",51,45,4,91,85,0.45
+Redmond,"Fri, Oct 23",65,22,11,37,6,
+Redmond,"Sat, Oct 24",51,22,12,60,50,0.04
+Redmond,"Sun, Oct 25",34,11,10,34,1,
+Redmond,"Mon, Oct 26",55,10,7,18,1,
+Redmond,"Tue, Oct 27",67,22,7,26,1,
+Redmond,"Wed, Oct 28",67,28,8,43,3,
+Redmond,"Thu, Oct 29",66,30,5,34,5,
+Redmond,"Fri, Oct 30",60,37,8,48,6,
+Redmond,"Sat, Oct 31",60,28,4,44,6,
+Redmond,"Sun, Nov 1",63,38,9,23,3,
+Redmond,"Mon, Nov 2",62,38,3,30,4,
+Redmond,"Tue, Nov 3",61,35,4,26,2,
+Redmond,"Wed, Nov 4",62,35,6,25,2,
+Redmond,"Thu, Nov 5",61,37,5,25,6,
+Redmond,"Fri, Nov 6",60,38,8,71,73,0.16
+Corvallis,"Fri, Oct 23",54,33,9,70,67,0.04
+Corvallis,"Sat, Oct 24",54,36,10,64,54,0.01
+Corvallis,"Sun, Oct 25",48,28,12,29,0,
+Corvallis,"Mon, Oct 26",51,23,8,46,1,
+Corvallis,"Tue, Oct 27",55,26,9,70,2,
+Corvallis,"Wed, Oct 28",63,32,6,76,4,
+Corvallis,"Thu, Oct 29",65,47,5,62,5,
+Corvallis,"Fri, Oct 30",61,50,3,75,61,0.07
+Corvallis,"Sat, Oct 31",61,46,5,67,6,
+Corvallis,"Sun, Nov 1",64,47,2,60,4,
+Corvallis,"Mon, Nov 2",63,47,1,54,5,
+Corvallis,"Tue, Nov 3",65,46,4,58,5,
+Corvallis,"Wed, Nov 4",63,46,2,58,3,
+Corvallis,"Thu, Nov 5",61,47,3,69,67,0.07
+Corvallis,"Fri, Nov 6",51,48,3,96,99,1.23
+Medford,"Fri, Oct 23",67,35,5,19,4,
+Medford,"Sat, Oct 24",58,42,5,55,4,
+Medford,"Sun, Oct 25",56,33,7,15,1,
+Medford,"Mon, Oct 26",60,27,4,15,1,
+Medford,"Tue, Oct 27",65,33,4,21,1,
+Medford,"Wed, Oct 28",67,35,3,28,1,
+Medford,"Thu, Oct 29",70,43,2,22,3,
+Medford,"Fri, Oct 30",64,43,2,29,6,
+Medford,"Sat, Oct 31",66,41,3,37,6,
+Medford,"Sun, Nov 1",68,43,2,23,2,
+Medford,"Mon, Nov 2",68,45,2,27,4,
+Medford,"Tue, Nov 3",71,46,2,23,2,
+Medford,"Wed, Nov 4",69,46,2,22,2,
+Medford,"Thu, Nov 5",69,45,3,27,5,
+Medford,"Fri, Nov 6",66,45,3,27,86,0.38
+Salem,"Fri, Oct 23",53,33,12,66,54,0.02
+Salem,"Sat, Oct 24",52,36,9,59,51,0.01
+Salem,"Sun, Oct 25",47,28,14,26,0,
+Salem,"Mon, Oct 26",49,24,7,44,1,
+Salem,"Tue, Oct 27",54,26,8,65,3,
+Salem,"Wed, Oct 28",64,35,5,73,5,
+Salem,"Thu, Oct 29",66,47,6,62,6,
+Salem,"Fri, Oct 30",61,50,3,76,60,0.06
+Salem,"Sat, Oct 31",63,46,5,67,6,
+Salem,"Sun, Nov 1",65,46,2,58,5,
+Salem,"Mon, Nov 2",64,47,2,55,5,
+Salem,"Tue, Nov 3",66,46,5,57,5,
+Salem,"Wed, Nov 4",64,46,2,56,3,
+Salem,"Thu, Nov 5",61,47,3,65,52,0.06
+Salem,"Fri, Nov 6",51,47,3,96,95,1.11
+Eugene,"Fri, Oct 23",57,34,8,57,59,0.02
+Eugene,"Sat, Oct 24",56,37,9,67,52,0.02
+Eugene,"Sun, Oct 25",50,28,13,27,0,
+Eugene,"Mon, Oct 26",49,23,8,45,1,
+Eugene,"Tue, Oct 27",54,25,9,64,1,
+Eugene,"Wed, Oct 28",65,32,8,70,3,
+Eugene,"Thu, Oct 29",62,44,3,62,5,
+Eugene,"Fri, Oct 30",60,48,2,71,59,0.06
+Eugene,"Sat, Oct 31",62,44,4,61,6,
+Eugene,"Sun, Nov 1",64,44,2,55,3,
+Eugene,"Mon, Nov 2",63,46,2,58,6,
+Eugene,"Tue, Nov 3",64,44,3,57,3,
+Eugene,"Wed, Nov 4",62,44,2,50,2,
+Eugene,"Thu, Nov 5",62,45,2,51,53,0.03
+Eugene,"Fri, Nov 6",52,47,3,97,94,0.94
+Newport,"Fri, Oct 23",54,38,11,87,72,0.15
+Newport,"Sat, Oct 24",55,41,10,68,51,0.01
+Newport,"Sun, Oct 25",49,36,14,31,0,
+Newport,"Mon, Oct 26",54,31,8,52,1,
+Newport,"Tue, Oct 27",56,35,6,78,2,
+Newport,"Wed, Oct 28",58,42,6,91,4,
+Newport,"Thu, Oct 29",65,48,5,72,48,0.0
+Newport,"Fri, Oct 30",57,49,6,84,63,0.07
+Newport,"Sat, Oct 31",60,46,7,74,6,
+Newport,"Sun, Nov 1",59,46,7,82,3,
+Newport,"Mon, Nov 2",57,43,3,74,4,
+Newport,"Tue, Nov 3",64,44,4,65,5,
+Newport,"Wed, Nov 4",64,45,2,65,3,
+Newport,"Thu, Nov 5",61,46,6,76,64,0.19
+Newport,"Fri, Nov 6",49,43,2,94,94,0.77
+Forest Grove,"Fri, Oct 23",52,33,7,78,68,0.1
+Forest Grove,"Sat, Oct 24",51,35,9,57,6,
+Forest Grove,"Sun, Oct 25",46,29,11,28,0,
+Forest Grove,"Mon, Oct 26",50,24,5,52,1,
+Forest Grove,"Tue, Oct 27",54,30,5,69,4,
+Forest Grove,"Wed, Oct 28",56,37,4,78,6,
+Forest Grove,"Thu, Oct 29",64,48,2,65,6,
+Forest Grove,"Fri, Oct 30",61,50,2,66,58,0.08
+Forest Grove,"Sat, Oct 31",61,47,2,69,6,
+Forest Grove,"Sun, Nov 1",63,46,1,62,5,
+Forest Grove,"Mon, Nov 2",62,47,2,66,5,
+Forest Grove,"Tue, Nov 3",64,46,2,59,5,
+Forest Grove,"Wed, Nov 4",62,46,1,55,3,
+Forest Grove,"Thu, Nov 5",57,47,2,88,63,0.22
+Forest Grove,"Fri, Nov 6",50,43,2,91,94,0.71
+Ontario,"Fri, Oct 23",56,27,5,24,3,
+Ontario,"Sat, Oct 24",55,36,15,33,5,
+Ontario,"Sun, Oct 25",46,28,8,20,1,
+Ontario,"Mon, Oct 26",45,16,4,30,2,
+Ontario,"Tue, Oct 27",51,21,5,25,1,
+Ontario,"Wed, Oct 28",60,23,6,33,4,
+Ontario,"Thu, Oct 29",64,37,5,31,5,
+Ontario,"Fri, Oct 30",60,39,5,23,4,
+Ontario,"Sat, Oct 31",63,37,4,38,4,
+Ontario,"Sun, Nov 1",63,36,6,28,3,
+Ontario,"Mon, Nov 2",62,38,3,27,3,
+Ontario,"Tue, Nov 3",59,37,2,24,2,
+Ontario,"Wed, Nov 4",60,37,4,20,3,
+Ontario,"Thu, Nov 5",60,38,2,22,3,
+Ontario,"Fri, Nov 6",60,38,3,20,39,0.0

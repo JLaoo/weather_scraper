@@ -1,1 +1,286 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Branson,"Fri, Oct 23",64,41,12,81,76,0.13
+Branson,"Sat, Oct 24",49,38,7,71,4,
+Branson,"Sun, Oct 25",55,43,8,83,49,0.01
+Branson,"Mon, Oct 26",47,34,10,98,99,1.32
+Branson,"Tue, Oct 27",40,34,7,89,69,0.06
+Branson,"Wed, Oct 28",53,36,6,92,72,0.31
+Branson,"Thu, Oct 29",56,42,7,57,6,
+Branson,"Fri, Oct 30",62,38,4,42,4,
+Branson,"Sat, Oct 31",63,43,6,44,3,
+Branson,"Sun, Nov 1",59,45,9,58,5,
+Branson,"Mon, Nov 2",62,41,2,33,3,
+Branson,"Tue, Nov 3",62,42,6,53,5,
+Branson,"Wed, Nov 4",63,42,4,31,3,
+Branson,"Thu, Nov 5",63,42,7,44,4,
+Branson,"Fri, Nov 6",65,45,8,53,6,
+Independence,"Fri, Oct 23",46,36,15,64,59,0.03
+Independence,"Sat, Oct 24",46,32,10,57,2,
+Independence,"Sun, Oct 25",44,38,10,77,69,0.12
+Independence,"Mon, Oct 26",37,24,13,79,73,0.06
+Independence,"Tue, Oct 27",33,22,6,74,46,
+Independence,"Wed, Oct 28",43,24,7,77,2,
+Independence,"Thu, Oct 29",47,33,9,91,6,
+Independence,"Fri, Oct 30",54,33,5,64,5,
+Independence,"Sat, Oct 31",63,41,14,54,5,
+Independence,"Sun, Nov 1",57,45,11,50,6,
+Independence,"Mon, Nov 2",58,37,10,42,3,
+Independence,"Tue, Nov 3",58,40,10,51,3,
+Independence,"Wed, Nov 4",60,40,5,32,4,
+Independence,"Thu, Nov 5",62,42,17,58,5,
+Independence,"Fri, Nov 6",63,48,11,59,5,
+Springfield,"Fri, Oct 23",67,41,15,77,61,0.08
+Springfield,"Sat, Oct 24",52,37,8,58,5,
+Springfield,"Sun, Oct 25",55,45,8,76,52,0.03
+Springfield,"Mon, Oct 26",47,34,13,88,88,0.89
+Springfield,"Tue, Oct 27",41,31,7,79,56,0.0
+Springfield,"Wed, Oct 28",52,35,6,76,63,0.13
+Springfield,"Thu, Oct 29",52,38,11,73,5,
+Springfield,"Fri, Oct 30",59,37,5,51,4,
+Springfield,"Sat, Oct 31",62,41,9,47,3,
+Springfield,"Sun, Nov 1",55,42,13,59,6,
+Springfield,"Mon, Nov 2",57,37,5,36,3,
+Springfield,"Tue, Nov 3",58,38,9,57,5,
+Springfield,"Wed, Nov 4",59,38,6,33,3,
+Springfield,"Thu, Nov 5",59,41,12,52,5,
+Springfield,"Fri, Nov 6",60,43,10,57,6,
+Columbia,"Fri, Oct 23",64,39,13,70,57,0.02
+Columbia,"Sat, Oct 24",48,35,9,58,1,
+Columbia,"Sun, Oct 25",47,40,9,77,61,0.04
+Columbia,"Mon, Oct 26",41,29,12,85,77,0.16
+Columbia,"Tue, Oct 27",37,27,7,77,44,
+Columbia,"Wed, Oct 28",46,25,8,76,3,
+Columbia,"Thu, Oct 29",49,31,9,82,5,
+Columbia,"Fri, Oct 30",57,34,3,58,5,
+Columbia,"Sat, Oct 31",61,36,11,49,4,
+Columbia,"Sun, Nov 1",56,43,12,52,6,
+Columbia,"Mon, Nov 2",58,33,7,42,4,
+Columbia,"Tue, Nov 3",59,35,9,51,4,
+Columbia,"Wed, Nov 4",61,35,5,31,4,
+Columbia,"Thu, Nov 5",61,40,14,55,5,
+Columbia,"Fri, Nov 6",63,44,11,56,6,
+Jefferson City,"Fri, Oct 23",69,41,12,70,50,0.02
+Jefferson City,"Sat, Oct 24",48,36,8,58,2,
+Jefferson City,"Sun, Oct 25",50,42,8,74,61,0.02
+Jefferson City,"Mon, Oct 26",44,32,11,82,77,0.22
+Jefferson City,"Tue, Oct 27",38,30,7,74,52,
+Jefferson City,"Wed, Oct 28",49,28,6,71,5,
+Jefferson City,"Thu, Oct 29",49,31,9,82,5,
+Jefferson City,"Fri, Oct 30",55,33,3,54,5,
+Jefferson City,"Sat, Oct 31",62,39,9,46,3,
+Jefferson City,"Sun, Nov 1",57,41,13,50,6,
+Jefferson City,"Mon, Nov 2",58,37,5,40,4,
+Jefferson City,"Tue, Nov 3",59,37,8,53,4,
+Jefferson City,"Wed, Nov 4",61,37,4,30,4,
+Jefferson City,"Thu, Nov 5",61,40,13,52,5,
+Jefferson City,"Fri, Nov 6",62,43,10,54,6,
+St Clair,"Fri, Oct 23",68,40,12,79,49,0.03
+St Clair,"Sat, Oct 24",47,36,6,66,2,
+St Clair,"Sun, Oct 25",50,41,6,80,48,0.01
+St Clair,"Mon, Oct 26",44,35,9,92,88,0.78
+St Clair,"Tue, Oct 27",38,31,6,84,43,0.0
+St Clair,"Wed, Oct 28",53,28,6,75,6,
+St Clair,"Thu, Oct 29",54,37,9,66,5,
+St Clair,"Fri, Oct 30",56,36,4,49,4,
+St Clair,"Sat, Oct 31",62,42,6,41,3,
+St Clair,"Sun, Nov 1",56,43,13,52,6,
+St Clair,"Mon, Nov 2",59,40,2,42,4,
+St Clair,"Tue, Nov 3",60,40,7,55,4,
+St Clair,"Wed, Nov 4",61,40,4,33,4,
+St Clair,"Thu, Nov 5",62,42,11,41,3,
+St Clair,"Fri, Nov 6",62,44,10,54,5,
+Cuba,"Fri, Oct 23",68,40,11,81,50,0.04
+Cuba,"Sat, Oct 24",47,36,7,62,3,
+Cuba,"Sun, Oct 25",50,42,7,79,44,0.01
+Cuba,"Mon, Oct 26",44,34,9,93,88,0.66
+Cuba,"Tue, Oct 27",37,32,6,83,6,
+Cuba,"Wed, Oct 28",53,33,6,73,6,
+Cuba,"Thu, Oct 29",51,38,8,70,5,
+Cuba,"Fri, Oct 30",55,35,5,48,4,
+Cuba,"Sat, Oct 31",60,40,6,42,3,
+Cuba,"Sun, Nov 1",56,43,11,51,6,
+Cuba,"Mon, Nov 2",59,37,3,38,4,
+Cuba,"Tue, Nov 3",60,38,7,53,3,
+Cuba,"Wed, Nov 4",61,38,4,31,4,
+Cuba,"Thu, Nov 5",61,41,11,41,3,
+Cuba,"Fri, Nov 6",62,45,9,56,5,
+Joplin,"Fri, Oct 23",68,40,13,77,99,0.2
+Joplin,"Sat, Oct 24",53,35,8,55,4,
+Joplin,"Sun, Oct 25",57,45,9,75,53,0.05
+Joplin,"Mon, Oct 26",43,29,13,93,75,0.31
+Joplin,"Tue, Oct 27",38,28,7,80,50,0.01
+Joplin,"Wed, Oct 28",48,33,4,88,64,0.15
+Joplin,"Thu, Oct 29",51,32,11,89,5,
+Joplin,"Fri, Oct 30",60,35,6,57,5,
+Joplin,"Sat, Oct 31",65,43,12,47,3,
+Joplin,"Sun, Nov 1",59,44,13,51,6,
+Joplin,"Mon, Nov 2",60,39,7,37,4,
+Joplin,"Tue, Nov 3",61,41,9,47,5,
+Joplin,"Wed, Nov 4",61,41,8,34,3,
+Joplin,"Thu, Nov 5",62,42,18,58,5,
+Joplin,"Fri, Nov 6",63,45,15,61,52,0.03
+St. Joseph,"Fri, Oct 23",46,34,15,59,62,0.01
+St. Joseph,"Sat, Oct 24",46,29,10,52,2,
+St. Joseph,"Sun, Oct 25",42,35,11,77,69,0.18
+St. Joseph,"Mon, Oct 26",34,18,12,72,70,
+St. Joseph,"Tue, Oct 27",32,13,8,69,5,
+St. Joseph,"Wed, Oct 28",40,18,8,81,4,
+St. Joseph,"Thu, Oct 29",43,27,7,95,6,
+St. Joseph,"Fri, Oct 30",50,28,7,72,5,
+St. Joseph,"Sat, Oct 31",63,35,16,54,6,
+St. Joseph,"Sun, Nov 1",57,40,11,49,6,
+St. Joseph,"Mon, Nov 2",58,32,13,43,3,
+St. Joseph,"Tue, Nov 3",58,35,11,44,4,
+St. Joseph,"Wed, Nov 4",60,35,7,35,3,
+St. Joseph,"Thu, Nov 5",61,38,16,53,4,
+St. Joseph,"Fri, Nov 6",62,43,9,52,5,
+Dexter,"Fri, Oct 23",79,47,14,76,83,0.07
+Dexter,"Sat, Oct 24",50,43,9,68,39,0.0
+Dexter,"Sun, Oct 25",55,47,6,77,6,
+Dexter,"Mon, Oct 26",52,43,15,84,99,1.62
+Dexter,"Tue, Oct 27",45,40,9,81,56,0.04
+Dexter,"Wed, Oct 28",56,39,7,75,59,0.03
+Dexter,"Thu, Oct 29",56,42,15,54,59,0.03
+Dexter,"Fri, Oct 30",60,40,11,53,3,
+Dexter,"Sat, Oct 31",60,40,5,45,3,
+Dexter,"Sun, Nov 1",61,43,13,66,6,
+Dexter,"Mon, Nov 2",57,43,4,48,3,
+Dexter,"Tue, Nov 3",58,43,8,54,4,
+Dexter,"Wed, Nov 4",59,40,9,45,3,
+Dexter,"Thu, Nov 5",59,37,12,53,3,
+Dexter,"Fri, Nov 6",60,38,12,55,3,
+Kansas City,"Fri, Oct 23",46,37,13,63,60,0.02
+Kansas City,"Sat, Oct 24",46,33,9,57,2,
+Kansas City,"Sun, Oct 25",44,38,9,78,70,0.13
+Kansas City,"Mon, Oct 26",36,24,11,81,72,0.06
+Kansas City,"Tue, Oct 27",33,22,6,77,46,
+Kansas City,"Wed, Oct 28",43,25,7,77,2,
+Kansas City,"Thu, Oct 29",48,34,9,90,6,
+Kansas City,"Fri, Oct 30",55,35,5,63,5,
+Kansas City,"Sat, Oct 31",65,41,14,53,5,
+Kansas City,"Sun, Nov 1",59,46,11,50,6,
+Kansas City,"Mon, Nov 2",59,38,10,42,3,
+Kansas City,"Tue, Nov 3",60,41,10,52,3,
+Kansas City,"Wed, Nov 4",62,41,6,32,4,
+Kansas City,"Thu, Nov 5",62,43,17,59,5,
+Kansas City,"Fri, Nov 6",63,47,10,58,5,
+St. Louis,"Fri, Oct 23",67,42,14,74,46,0.07
+St. Louis,"Sat, Oct 24",49,39,7,60,1,
+St. Louis,"Sun, Oct 25",48,42,7,76,6,
+St. Louis,"Mon, Oct 26",45,35,12,85,88,0.76
+St. Louis,"Tue, Oct 27",37,33,8,83,47,0.0
+St. Louis,"Wed, Oct 28",53,30,6,58,6,
+St. Louis,"Thu, Oct 29",55,41,10,55,5,
+St. Louis,"Fri, Oct 30",58,42,5,43,3,
+St. Louis,"Sat, Oct 31",59,44,8,38,3,
+St. Louis,"Sun, Nov 1",56,46,16,53,6,
+St. Louis,"Mon, Nov 2",56,40,3,39,3,
+St. Louis,"Tue, Nov 3",58,40,8,50,4,
+St. Louis,"Wed, Nov 4",59,40,4,30,4,
+St. Louis,"Thu, Nov 5",60,45,11,37,4,
+St. Louis,"Fri, Nov 6",61,46,10,49,6,
+Fort Leonard Wood,"Fri, Oct 23",67,39,11,79,63,0.09
+Fort Leonard Wood,"Sat, Oct 24",49,36,8,58,4,
+Fort Leonard Wood,"Sun, Oct 25",51,42,7,79,41,0.01
+Fort Leonard Wood,"Mon, Oct 26",44,32,10,96,88,0.8
+Fort Leonard Wood,"Tue, Oct 27",38,30,6,84,54,
+Fort Leonard Wood,"Wed, Oct 28",49,31,6,85,55,
+Fort Leonard Wood,"Thu, Oct 29",51,38,8,79,5,
+Fort Leonard Wood,"Fri, Oct 30",56,34,4,55,5,
+Fort Leonard Wood,"Sat, Oct 31",61,39,6,46,3,
+Fort Leonard Wood,"Sun, Nov 1",58,41,10,52,6,
+Fort Leonard Wood,"Mon, Nov 2",61,33,3,35,3,
+Fort Leonard Wood,"Tue, Nov 3",62,34,6,51,4,
+Fort Leonard Wood,"Wed, Nov 4",63,34,4,28,4,
+Fort Leonard Wood,"Thu, Nov 5",63,38,10,44,4,
+Fort Leonard Wood,"Fri, Nov 6",64,43,9,56,6,
+Maryville,"Fri, Oct 23",43,31,15,67,68,0.02
+Maryville,"Sat, Oct 24",43,26,10,60,3,
+Maryville,"Sun, Oct 25",40,32,11,86,64,0.15
+Maryville,"Mon, Oct 26",31,17,10,78,70,
+Maryville,"Tue, Oct 27",31,11,8,77,4,
+Maryville,"Wed, Oct 28",41,19,7,88,5,
+Maryville,"Thu, Oct 29",45,28,7,88,6,
+Maryville,"Fri, Oct 30",51,28,8,78,5,
+Maryville,"Sat, Oct 31",62,34,16,57,6,
+Maryville,"Sun, Nov 1",56,36,10,50,5,
+Maryville,"Mon, Nov 2",57,32,13,45,3,
+Maryville,"Tue, Nov 3",57,35,11,38,4,
+Maryville,"Wed, Nov 4",59,35,8,34,4,
+Maryville,"Thu, Nov 5",61,38,15,55,4,
+Maryville,"Fri, Nov 6",61,42,7,50,4,
+Washington,"Fri, Oct 23",68,40,12,77,56,0.09
+Washington,"Sat, Oct 24",49,36,7,63,1,
+Washington,"Sun, Oct 25",49,41,7,80,6,
+Washington,"Mon, Oct 26",44,35,10,93,87,0.77
+Washington,"Tue, Oct 27",38,30,6,84,44,0.0
+Washington,"Wed, Oct 28",53,26,6,72,6,
+Washington,"Thu, Oct 29",55,31,9,67,6,
+Washington,"Fri, Oct 30",56,32,4,49,3,
+Washington,"Sat, Oct 31",62,38,7,44,3,
+Washington,"Sun, Nov 1",54,40,13,54,6,
+Washington,"Mon, Nov 2",58,36,3,42,4,
+Washington,"Tue, Nov 3",59,36,7,55,4,
+Washington,"Wed, Nov 4",61,36,4,33,4,
+Washington,"Thu, Nov 5",61,37,12,45,4,
+Washington,"Fri, Nov 6",62,41,10,55,6,
+Hannibal,"Fri, Oct 23",65,39,14,73,63,0.01
+Hannibal,"Sat, Oct 24",48,35,8,56,1,
+Hannibal,"Sun, Oct 25",47,39,8,72,59,0.01
+Hannibal,"Mon, Oct 26",42,32,11,83,76,0.43
+Hannibal,"Tue, Oct 27",41,28,6,70,46,
+Hannibal,"Wed, Oct 28",50,26,8,65,1,
+Hannibal,"Thu, Oct 29",52,32,11,61,5,
+Hannibal,"Fri, Oct 30",56,33,2,45,4,
+Hannibal,"Sat, Oct 31",59,38,12,46,3,
+Hannibal,"Sun, Nov 1",53,38,15,55,6,
+Hannibal,"Mon, Nov 2",55,34,7,43,4,
+Hannibal,"Tue, Nov 3",56,35,11,50,5,
+Hannibal,"Wed, Nov 4",58,35,2,31,4,
+Hannibal,"Thu, Nov 5",58,40,15,53,5,
+Hannibal,"Fri, Nov 6",59,43,12,56,6,
+Poplar Bluff,"Fri, Oct 23",77,47,13,76,95,0.18
+Poplar Bluff,"Sat, Oct 24",49,43,8,67,38,0.0
+Poplar Bluff,"Sun, Oct 25",54,45,5,77,6,
+Poplar Bluff,"Mon, Oct 26",50,41,13,82,99,1.56
+Poplar Bluff,"Tue, Oct 27",45,39,9,80,58,0.03
+Poplar Bluff,"Wed, Oct 28",57,38,7,74,57,0.04
+Poplar Bluff,"Thu, Oct 29",57,42,12,49,50,0.02
+Poplar Bluff,"Fri, Oct 30",61,39,9,49,3,
+Poplar Bluff,"Sat, Oct 31",60,39,5,44,2,
+Poplar Bluff,"Sun, Nov 1",62,42,13,62,6,
+Poplar Bluff,"Mon, Nov 2",58,38,3,45,3,
+Poplar Bluff,"Tue, Nov 3",59,38,7,51,4,
+Poplar Bluff,"Wed, Nov 4",60,38,7,40,3,
+Poplar Bluff,"Thu, Nov 5",60,36,11,51,3,
+Poplar Bluff,"Fri, Nov 6",61,38,12,56,3,
+Harrisonville,"Fri, Oct 23",48,36,14,68,61,0.04
+Harrisonville,"Sat, Oct 24",47,31,9,58,3,
+Harrisonville,"Sun, Oct 25",46,40,10,80,71,0.13
+Harrisonville,"Mon, Oct 26",39,25,14,85,74,0.11
+Harrisonville,"Tue, Oct 27",34,23,5,80,45,
+Harrisonville,"Wed, Oct 28",45,24,6,82,3,
+Harrisonville,"Thu, Oct 29",46,33,10,93,5,
+Harrisonville,"Fri, Oct 30",53,33,5,65,5,
+Harrisonville,"Sat, Oct 31",63,40,14,55,5,
+Harrisonville,"Sun, Nov 1",57,45,12,50,6,
+Harrisonville,"Mon, Nov 2",58,37,10,44,3,
+Harrisonville,"Tue, Nov 3",59,39,11,52,4,
+Harrisonville,"Wed, Nov 4",60,39,6,34,4,
+Harrisonville,"Thu, Nov 5",62,41,19,60,5,
+Harrisonville,"Fri, Nov 6",63,47,12,61,6,
+Sikeston,"Fri, Oct 23",79,47,13,79,55,0.13
+Sikeston,"Sat, Oct 24",50,44,8,72,46,0.02
+Sikeston,"Sun, Oct 25",55,47,6,82,6,
+Sikeston,"Mon, Oct 26",53,44,14,87,98,1.88
+Sikeston,"Tue, Oct 27",46,40,10,82,56,0.04
+Sikeston,"Wed, Oct 28",57,39,7,76,59,0.01
+Sikeston,"Thu, Oct 29",57,44,15,53,59,0.01
+Sikeston,"Fri, Oct 30",60,42,10,50,3,
+Sikeston,"Sat, Oct 31",60,38,5,43,3,
+Sikeston,"Sun, Nov 1",60,43,14,67,6,
+Sikeston,"Mon, Nov 2",56,42,5,50,4,
+Sikeston,"Tue, Nov 3",57,42,8,52,4,
+Sikeston,"Wed, Nov 4",58,43,8,41,4,
+Sikeston,"Thu, Nov 5",59,38,12,46,2,
+Sikeston,"Fri, Nov 6",60,40,12,49,3,

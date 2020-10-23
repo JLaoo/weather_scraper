@@ -48,11 +48,18 @@ for state in states:
 for query in state_queries:
 	q = query[1]
 	state = query[0]
+	# Edge case
+	if state == "New_York":
+		q += "-state"
 	response = requests.get(q, headers=headers)
 	soup = bs(response.text, 'html.parser')
 	hrefs = soup.find_all('a', href=True)
 	location_tag = soup.findAll(attrs={"class": "small soft"})
-	location_txt = location_tag[0].getText()
+	try:
+		location_txt = location_tag[0].getText()
+	except:
+		print(query)
+		sys.exit()
 	num_locations = int(re.search(r'\d+', location_txt).group())
 	city_hrefs = [h for h in hrefs if "/weather/usa/" in h["href"]]
 	city_hrefs = city_hrefs[-num_locations:]
@@ -60,7 +67,7 @@ for query in state_queries:
 		city_queries.append((state, domain + h['href'] + "/ext"))
 
 	# only alabama for now
-	break
+	# break
 
 # build spider
 class scraper(scrapy.Spider):

@@ -1,1 +1,406 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Allentown,"Fri, Oct 23",72,61,7,71,4,
+Allentown,"Sat, Oct 24",68,45,9,64,54,0.01
+Allentown,"Sun, Oct 25",52,40,6,50,51,0.01
+Allentown,"Mon, Oct 26",58,46,4,91,65,0.08
+Allentown,"Tue, Oct 27",55,42,6,79,75,0.26
+Allentown,"Wed, Oct 28",53,41,3,76,52,0.01
+Allentown,"Thu, Oct 29",57,46,2,84,58,0.12
+Allentown,"Fri, Oct 30",57,42,9,65,71,0.37
+Allentown,"Sat, Oct 31",53,34,4,41,3,
+Allentown,"Sun, Nov 1",55,37,5,71,6,
+Allentown,"Mon, Nov 2",55,41,11,67,42,0.01
+Allentown,"Tue, Nov 3",57,38,5,62,6,
+Allentown,"Wed, Nov 4",49,35,13,51,6,
+Allentown,"Thu, Nov 5",50,36,12,53,6,
+Allentown,"Fri, Nov 6",61,37,6,67,6,
+Lancaster,"Fri, Oct 23",74,60,9,66,3,
+Lancaster,"Sat, Oct 24",70,49,12,61,71,0.02
+Lancaster,"Sun, Oct 25",50,43,7,58,56,0.05
+Lancaster,"Mon, Oct 26",64,46,6,78,7,
+Lancaster,"Tue, Oct 27",55,44,7,74,64,0.13
+Lancaster,"Wed, Oct 28",54,43,6,74,6,
+Lancaster,"Thu, Oct 29",53,47,4,91,68,0.26
+Lancaster,"Fri, Oct 30",58,43,10,69,72,0.44
+Lancaster,"Sat, Oct 31",54,33,4,47,4,
+Lancaster,"Sun, Nov 1",54,36,4,73,6,
+Lancaster,"Mon, Nov 2",57,37,9,65,6,
+Lancaster,"Tue, Nov 3",55,37,6,64,6,
+Lancaster,"Wed, Nov 4",49,38,15,52,6,
+Lancaster,"Thu, Nov 5",50,40,12,55,6,
+Lancaster,"Fri, Nov 6",60,39,6,67,5,
+Port Matilda,"Fri, Oct 23",72,57,7,64,7,
+Port Matilda,"Sat, Oct 24",62,41,9,61,74,0.06
+Port Matilda,"Sun, Oct 25",46,34,7,59,53,0.02
+Port Matilda,"Mon, Oct 26",53,40,5,89,65,0.09
+Port Matilda,"Tue, Oct 27",45,39,5,83,94,0.75
+Port Matilda,"Wed, Oct 28",47,40,5,86,51,0.02
+Port Matilda,"Thu, Oct 29",58,42,1,59,58,0.11
+Port Matilda,"Fri, Oct 30",52,38,8,59,57,0.11
+Port Matilda,"Sat, Oct 31",51,33,3,41,4,
+Port Matilda,"Sun, Nov 1",50,34,4,65,45,0.01
+Port Matilda,"Mon, Nov 2",50,39,8,66,6,
+Port Matilda,"Tue, Nov 3",51,34,7,68,6,
+Port Matilda,"Wed, Nov 4",44,37,13,51,48,0.01
+Port Matilda,"Thu, Nov 5",50,34,10,47,6,
+Port Matilda,"Fri, Nov 6",56,40,6,67,6,
+Altoona,"Fri, Oct 23",76,56,8,58,40,0.01
+Altoona,"Sat, Oct 24",64,42,8,63,67,0.08
+Altoona,"Sun, Oct 25",46,36,7,65,58,0.03
+Altoona,"Mon, Oct 26",58,42,6,83,66,0.09
+Altoona,"Tue, Oct 27",47,44,3,84,95,0.82
+Altoona,"Wed, Oct 28",50,44,4,80,58,0.04
+Altoona,"Thu, Oct 29",58,43,2,76,61,0.18
+Altoona,"Fri, Oct 30",52,38,9,62,58,0.09
+Altoona,"Sat, Oct 31",49,33,4,43,4,
+Altoona,"Sun, Nov 1",53,35,3,66,46,0.01
+Altoona,"Mon, Nov 2",52,40,6,68,45,0.02
+Altoona,"Tue, Nov 3",53,35,9,69,6,
+Altoona,"Wed, Nov 4",44,36,15,55,41,0.0
+Altoona,"Thu, Nov 5",50,34,12,47,6,
+Altoona,"Fri, Nov 6",57,41,6,66,6,
+Punxsutawney,"Fri, Oct 23",78,57,9,52,49,0.02
+Punxsutawney,"Sat, Oct 24",65,38,8,64,81,0.13
+Punxsutawney,"Sun, Oct 25",49,33,9,53,58,0.02
+Punxsutawney,"Mon, Oct 26",52,44,6,86,64,0.09
+Punxsutawney,"Tue, Oct 27",47,42,3,81,82,0.45
+Punxsutawney,"Wed, Oct 28",50,42,6,79,59,0.02
+Punxsutawney,"Thu, Oct 29",58,37,2,52,56,0.02
+Punxsutawney,"Fri, Oct 30",49,39,8,64,50,0.01
+Punxsutawney,"Sat, Oct 31",50,31,4,41,5,
+Punxsutawney,"Sun, Nov 1",50,34,5,63,56,0.04
+Punxsutawney,"Mon, Nov 2",51,37,7,63,60,0.03
+Punxsutawney,"Tue, Nov 3",52,33,8,71,57,0.01
+Punxsutawney,"Wed, Nov 4",44,33,13,58,61,0.01
+Punxsutawney,"Thu, Nov 5",47,32,13,53,6,
+Punxsutawney,"Fri, Nov 6",58,38,7,69,6,
+Bedford,"Fri, Oct 23",76,54,8,58,4,
+Bedford,"Sat, Oct 24",62,44,9,64,82,0.07
+Bedford,"Sun, Oct 25",45,39,7,68,59,0.04
+Bedford,"Mon, Oct 26",62,42,7,81,64,0.06
+Bedford,"Tue, Oct 27",50,45,4,86,86,0.29
+Bedford,"Wed, Oct 28",53,46,4,81,62,0.03
+Bedford,"Thu, Oct 29",55,49,2,91,62,0.23
+Bedford,"Fri, Oct 30",56,40,11,62,61,0.07
+Bedford,"Sat, Oct 31",53,32,4,44,4,
+Bedford,"Sun, Nov 1",53,33,4,65,6,
+Bedford,"Mon, Nov 2",53,37,8,67,41,0.0
+Bedford,"Tue, Nov 3",56,36,8,66,6,
+Bedford,"Wed, Nov 4",45,39,15,58,43,0.0
+Bedford,"Thu, Nov 5",54,32,9,42,6,
+Bedford,"Fri, Nov 6",65,43,7,59,6,
+Mount Pocono,"Fri, Oct 23",64,58,9,85,5,
+Mount Pocono,"Sat, Oct 24",60,38,14,73,63,0.02
+Mount Pocono,"Sun, Oct 25",47,34,7,53,47,0.0
+Mount Pocono,"Mon, Oct 26",53,41,8,95,69,0.19
+Mount Pocono,"Tue, Oct 27",47,36,7,77,84,0.53
+Mount Pocono,"Wed, Oct 28",46,36,7,85,57,0.02
+Mount Pocono,"Thu, Oct 29",54,42,1,72,55,0.1
+Mount Pocono,"Fri, Oct 30",46,36,9,76,74,0.39
+Mount Pocono,"Sat, Oct 31",47,29,4,42,3,
+Mount Pocono,"Sun, Nov 1",48,33,5,75,6,
+Mount Pocono,"Mon, Nov 2",51,35,6,65,6,
+Mount Pocono,"Tue, Nov 3",50,33,4,65,6,
+Mount Pocono,"Wed, Nov 4",40,27,14,54,6,
+Mount Pocono,"Thu, Nov 5",43,27,11,53,6,
+Mount Pocono,"Fri, Nov 6",55,37,5,70,6,
+Reading,"Fri, Oct 23",73,60,8,72,6,
+Reading,"Sat, Oct 24",70,48,10,66,57,0.01
+Reading,"Sun, Oct 25",52,42,7,56,51,0.03
+Reading,"Mon, Oct 26",61,47,5,90,58,0.06
+Reading,"Tue, Oct 27",56,46,6,80,79,0.2
+Reading,"Wed, Oct 28",55,43,4,79,6,
+Reading,"Thu, Oct 29",55,47,3,89,62,0.15
+Reading,"Fri, Oct 30",57,43,8,64,71,0.4
+Reading,"Sat, Oct 31",54,35,4,42,3,
+Reading,"Sun, Nov 1",55,37,4,70,6,
+Reading,"Mon, Nov 2",57,40,8,65,42,0.01
+Reading,"Tue, Nov 3",57,39,5,59,6,
+Reading,"Wed, Nov 4",50,36,13,52,6,
+Reading,"Thu, Nov 5",51,38,12,52,6,
+Reading,"Fri, Nov 6",61,39,5,66,5,
+Bensalem Township,"Fri, Oct 23",73,62,7,70,3,
+Bensalem Township,"Sat, Oct 24",72,51,8,66,54,0.02
+Bensalem Township,"Sun, Oct 25",52,45,7,58,57,0.06
+Bensalem Township,"Mon, Oct 26",66,51,6,82,64,0.08
+Bensalem Township,"Tue, Oct 27",60,48,6,76,61,0.12
+Bensalem Township,"Wed, Oct 28",57,46,5,74,6,
+Bensalem Township,"Thu, Oct 29",58,50,5,79,72,0.36
+Bensalem Township,"Fri, Oct 30",58,46,7,66,72,0.46
+Bensalem Township,"Sat, Oct 31",57,39,4,32,3,
+Bensalem Township,"Sun, Nov 1",59,43,5,56,6,
+Bensalem Township,"Mon, Nov 2",55,46,11,67,48,0.02
+Bensalem Township,"Tue, Nov 3",58,41,5,50,6,
+Bensalem Township,"Wed, Nov 4",51,39,13,39,6,
+Bensalem Township,"Thu, Nov 5",52,38,12,34,6,
+Bensalem Township,"Fri, Nov 6",62,45,6,49,6,
+Monongahela,"Fri, Oct 23",79,56,9,53,48,0.02
+Monongahela,"Sat, Oct 24",65,42,7,68,76,0.13
+Monongahela,"Sun, Oct 25",51,38,8,65,54,0.04
+Monongahela,"Mon, Oct 26",56,46,5,83,67,0.15
+Monongahela,"Tue, Oct 27",48,43,3,87,95,0.88
+Monongahela,"Wed, Oct 28",53,43,6,80,63,0.04
+Monongahela,"Thu, Oct 29",59,42,4,56,56,0.1
+Monongahela,"Fri, Oct 30",52,39,8,61,52,0.04
+Monongahela,"Sat, Oct 31",53,33,4,42,4,
+Monongahela,"Sun, Nov 1",55,34,5,61,51,0.02
+Monongahela,"Mon, Nov 2",56,39,5,60,52,0.03
+Monongahela,"Tue, Nov 3",57,36,9,67,6,
+Monongahela,"Wed, Nov 4",46,40,11,58,45,0.01
+Monongahela,"Thu, Nov 5",53,33,12,49,6,
+Monongahela,"Fri, Nov 6",61,40,8,59,6,
+New Wilmington,"Fri, Oct 23",78,55,9,58,51,0.09
+New Wilmington,"Sat, Oct 24",63,35,8,68,59,0.07
+New Wilmington,"Sun, Oct 25",51,32,8,56,6,
+New Wilmington,"Mon, Oct 26",51,42,5,73,67,0.11
+New Wilmington,"Tue, Oct 27",47,40,5,83,82,0.39
+New Wilmington,"Wed, Oct 28",52,39,6,68,42,0.0
+New Wilmington,"Thu, Oct 29",56,38,4,56,6,
+New Wilmington,"Fri, Oct 30",47,40,11,63,51,0.04
+New Wilmington,"Sat, Oct 31",52,30,5,44,5,
+New Wilmington,"Sun, Nov 1",52,33,6,62,58,0.07
+New Wilmington,"Mon, Nov 2",54,38,7,64,57,0.02
+New Wilmington,"Tue, Nov 3",54,36,9,63,45,0.01
+New Wilmington,"Wed, Nov 4",45,36,13,70,47,0.02
+New Wilmington,"Thu, Nov 5",51,29,14,51,6,
+New Wilmington,"Fri, Nov 6",60,38,8,67,6,
+Brookville,"Fri, Oct 23",77,58,9,53,57,0.09
+Brookville,"Sat, Oct 24",65,38,8,62,77,0.11
+Brookville,"Sun, Oct 25",49,32,9,50,52,0.02
+Brookville,"Mon, Oct 26",52,43,6,82,61,0.08
+Brookville,"Tue, Oct 27",47,40,5,75,83,0.41
+Brookville,"Wed, Oct 28",51,42,7,75,51,0.02
+Brookville,"Thu, Oct 29",57,36,2,54,49,0.02
+Brookville,"Fri, Oct 30",49,39,8,65,48,0.01
+Brookville,"Sat, Oct 31",50,31,3,41,5,
+Brookville,"Sun, Nov 1",50,34,5,64,52,0.02
+Brookville,"Mon, Nov 2",51,37,7,64,57,0.03
+Brookville,"Tue, Nov 3",51,33,8,71,55,0.01
+Brookville,"Wed, Nov 4",44,33,13,59,57,0.01
+Brookville,"Thu, Nov 5",47,32,13,54,6,
+Brookville,"Fri, Nov 6",56,36,7,72,6,
+Orefield,"Fri, Oct 23",70,60,8,74,40,0.0
+Orefield,"Sat, Oct 24",65,43,10,66,52,0.01
+Orefield,"Sun, Oct 25",51,39,6,51,51,0.01
+Orefield,"Mon, Oct 26",57,45,4,90,62,0.1
+Orefield,"Tue, Oct 27",53,40,6,77,82,0.32
+Orefield,"Wed, Oct 28",52,40,3,78,52,0.01
+Orefield,"Thu, Oct 29",54,42,2,84,59,0.11
+Orefield,"Fri, Oct 30",53,40,10,64,71,0.33
+Orefield,"Sat, Oct 31",52,32,3,42,3,
+Orefield,"Sun, Nov 1",53,34,4,71,6,
+Orefield,"Mon, Nov 2",56,37,9,65,40,0.01
+Orefield,"Tue, Nov 3",56,35,5,62,6,
+Orefield,"Wed, Nov 4",47,32,13,52,5,
+Orefield,"Thu, Nov 5",48,31,12,54,6,
+Orefield,"Fri, Nov 6",60,34,6,67,6,
+State College,"Fri, Oct 23",73,58,7,63,7,
+State College,"Sat, Oct 24",64,42,9,59,64,0.04
+State College,"Sun, Oct 25",47,35,6,56,53,0.03
+State College,"Mon, Oct 26",54,41,6,86,64,0.09
+State College,"Tue, Oct 27",46,39,5,82,94,0.78
+State College,"Wed, Oct 28",48,37,5,83,52,0.02
+State College,"Thu, Oct 29",58,42,1,61,63,0.13
+State College,"Fri, Oct 30",52,38,9,61,57,0.11
+State College,"Sat, Oct 31",51,33,3,42,4,
+State College,"Sun, Nov 1",49,34,4,65,6,
+State College,"Mon, Nov 2",50,39,9,66,6,
+State College,"Tue, Nov 3",51,34,7,68,6,
+State College,"Wed, Nov 4",45,36,14,48,42,0.0
+State College,"Thu, Nov 5",50,34,11,47,6,
+State College,"Fri, Nov 6",56,39,5,67,6,
+Butler,"Fri, Oct 23",78,55,9,55,58,0.09
+Butler,"Sat, Oct 24",65,37,6,67,78,0.12
+Butler,"Sun, Oct 25",50,33,9,57,6,
+Butler,"Mon, Oct 26",52,44,6,78,60,0.07
+Butler,"Tue, Oct 27",47,41,4,88,84,0.37
+Butler,"Wed, Oct 28",51,40,6,75,57,0.02
+Butler,"Thu, Oct 29",58,38,3,54,6,
+Butler,"Fri, Oct 30",48,38,9,65,49,0.02
+Butler,"Sat, Oct 31",52,29,4,42,4,
+Butler,"Sun, Nov 1",52,32,5,64,58,0.05
+Butler,"Mon, Nov 2",53,38,7,62,58,0.02
+Butler,"Tue, Nov 3",53,34,7,66,53,0.01
+Butler,"Wed, Nov 4",44,35,12,66,55,0.01
+Butler,"Thu, Nov 5",50,28,12,54,6,
+Butler,"Fri, Nov 6",60,38,8,68,6,
+Parkesburg,"Fri, Oct 23",70,59,7,76,2,
+Parkesburg,"Sat, Oct 24",69,48,10,71,70,0.02
+Parkesburg,"Sun, Oct 25",48,43,6,64,54,0.08
+Parkesburg,"Mon, Oct 26",64,46,7,84,66,0.04
+Parkesburg,"Tue, Oct 27",55,44,7,82,64,0.14
+Parkesburg,"Wed, Oct 28",55,44,6,76,6,
+Parkesburg,"Thu, Oct 29",54,49,6,93,76,0.36
+Parkesburg,"Fri, Oct 30",57,43,9,73,72,0.52
+Parkesburg,"Sat, Oct 31",50,36,4,50,3,
+Parkesburg,"Sun, Nov 1",53,39,5,77,6,
+Parkesburg,"Mon, Nov 2",54,41,13,74,47,0.02
+Parkesburg,"Tue, Nov 3",54,39,6,68,6,
+Parkesburg,"Wed, Nov 4",48,34,15,54,6,
+Parkesburg,"Thu, Nov 5",49,33,12,55,6,
+Parkesburg,"Fri, Nov 6",59,42,6,70,5,
+Erie,"Fri, Oct 23",77,62,13,55,72,0.13
+Erie,"Sat, Oct 24",57,43,8,61,66,0.04
+Erie,"Sun, Oct 25",54,39,12,45,5,
+Erie,"Mon, Oct 26",51,46,6,71,62,0.06
+Erie,"Tue, Oct 27",49,42,4,60,81,0.35
+Erie,"Wed, Oct 28",51,44,8,61,45,0.02
+Erie,"Thu, Oct 29",52,45,7,70,44,0.0
+Erie,"Fri, Oct 30",49,40,12,69,57,0.05
+Erie,"Sat, Oct 31",50,37,2,52,5,
+Erie,"Sun, Nov 1",52,42,9,58,6,
+Erie,"Mon, Nov 2",52,43,11,76,44,0.02
+Erie,"Tue, Nov 3",52,43,18,69,58,0.03
+Erie,"Wed, Nov 4",47,40,19,60,49,0.03
+Erie,"Thu, Nov 5",53,38,23,55,39,0.01
+Erie,"Fri, Nov 6",55,45,13,71,6,
+Scranton,"Fri, Oct 23",74,63,9,65,4,
+Scranton,"Sat, Oct 24",64,43,10,64,69,0.03
+Scranton,"Sun, Oct 25",53,36,6,42,44,0.0
+Scranton,"Mon, Oct 26",58,46,8,83,69,0.16
+Scranton,"Tue, Oct 27",51,40,5,71,84,0.57
+Scranton,"Wed, Oct 28",51,40,6,74,52,0.03
+Scranton,"Thu, Oct 29",60,45,2,61,57,0.05
+Scranton,"Fri, Oct 30",50,39,8,75,70,0.29
+Scranton,"Sat, Oct 31",51,33,4,40,4,
+Scranton,"Sun, Nov 1",52,36,5,69,6,
+Scranton,"Mon, Nov 2",53,38,7,64,6,
+Scranton,"Tue, Nov 3",55,38,3,61,6,
+Scranton,"Wed, Nov 4",44,36,15,54,50,0.02
+Scranton,"Thu, Nov 5",48,35,11,51,6,
+Scranton,"Fri, Nov 6",57,38,5,70,6,
+Philadelphia,"Fri, Oct 23",73,62,7,70,3,
+Philadelphia,"Sat, Oct 24",72,51,9,66,53,0.03
+Philadelphia,"Sun, Oct 25",52,45,7,59,55,0.05
+Philadelphia,"Mon, Oct 26",66,50,6,81,62,0.05
+Philadelphia,"Tue, Oct 27",60,48,7,73,66,0.12
+Philadelphia,"Wed, Oct 28",57,47,5,72,6,
+Philadelphia,"Thu, Oct 29",59,54,5,75,76,0.37
+Philadelphia,"Fri, Oct 30",61,50,7,60,74,0.46
+Philadelphia,"Sat, Oct 31",57,42,4,28,3,
+Philadelphia,"Sun, Nov 1",60,48,5,56,6,
+Philadelphia,"Mon, Nov 2",57,50,11,66,50,0.02
+Philadelphia,"Tue, Nov 3",59,46,5,49,6,
+Philadelphia,"Wed, Nov 4",54,42,14,39,6,
+Philadelphia,"Thu, Nov 5",54,40,12,33,6,
+Philadelphia,"Fri, Nov 6",64,49,6,49,5,
+Warminster Township,"Fri, Oct 23",71,62,6,71,4,
+Warminster Township,"Sat, Oct 24",70,48,8,67,58,0.03
+Warminster Township,"Sun, Oct 25",51,43,6,57,59,0.07
+Warminster Township,"Mon, Oct 26",64,49,5,86,64,0.05
+Warminster Township,"Tue, Oct 27",58,47,6,76,75,0.13
+Warminster Township,"Wed, Oct 28",55,46,5,74,6,
+Warminster Township,"Thu, Oct 29",57,50,4,77,63,0.27
+Warminster Township,"Fri, Oct 30",57,44,7,63,72,0.59
+Warminster Township,"Sat, Oct 31",55,38,4,30,3,
+Warminster Township,"Sun, Nov 1",58,44,5,54,6,
+Warminster Township,"Mon, Nov 2",55,45,11,71,59,0.04
+Warminster Township,"Tue, Nov 3",58,40,5,52,6,
+Warminster Township,"Wed, Nov 4",50,37,13,41,6,
+Warminster Township,"Thu, Nov 5",52,36,12,35,6,
+Warminster Township,"Fri, Nov 6",61,45,6,53,6,
+Harrisburg,"Fri, Oct 23",77,61,9,60,39,0.0
+Harrisburg,"Sat, Oct 24",68,49,11,53,56,0.02
+Harrisburg,"Sun, Oct 25",52,43,7,53,48,0.01
+Harrisburg,"Mon, Oct 26",61,45,7,79,61,0.05
+Harrisburg,"Tue, Oct 27",54,44,6,76,78,0.25
+Harrisburg,"Wed, Oct 28",52,45,4,75,6,
+Harrisburg,"Thu, Oct 29",55,49,2,88,56,0.11
+Harrisburg,"Fri, Oct 30",58,45,9,64,62,0.22
+Harrisburg,"Sat, Oct 31",53,35,4,40,3,
+Harrisburg,"Sun, Nov 1",54,37,5,64,6,
+Harrisburg,"Mon, Nov 2",57,40,11,61,6,
+Harrisburg,"Tue, Nov 3",58,41,6,60,6,
+Harrisburg,"Wed, Nov 4",50,38,14,44,6,
+Harrisburg,"Thu, Nov 5",53,39,10,45,6,
+Harrisburg,"Fri, Nov 6",63,42,5,59,6,
+Phoenixville,"Fri, Oct 23",72,58,6,73,2,
+Phoenixville,"Sat, Oct 24",70,46,7,71,60,0.03
+Phoenixville,"Sun, Oct 25",50,41,5,61,51,0.05
+Phoenixville,"Mon, Oct 26",63,45,4,90,65,0.04
+Phoenixville,"Tue, Oct 27",53,44,5,80,64,0.15
+Phoenixville,"Wed, Oct 28",54,42,4,79,6,
+Phoenixville,"Thu, Oct 29",58,51,5,87,63,0.25
+Phoenixville,"Fri, Oct 30",59,46,8,69,71,0.56
+Phoenixville,"Sat, Oct 31",54,37,4,40,3,
+Phoenixville,"Sun, Nov 1",56,42,5,68,6,
+Phoenixville,"Mon, Nov 2",54,44,9,75,52,0.04
+Phoenixville,"Tue, Nov 3",58,40,5,61,5,
+Phoenixville,"Wed, Nov 4",51,40,13,51,6,
+Phoenixville,"Thu, Nov 5",52,39,12,48,6,
+Phoenixville,"Fri, Nov 6",62,42,6,64,5,
+Stroudsburg,"Fri, Oct 23",69,60,8,80,41,0.01
+Stroudsburg,"Sat, Oct 24",65,41,11,68,54,0.02
+Stroudsburg,"Sun, Oct 25",51,36,6,51,51,0.0
+Stroudsburg,"Mon, Oct 26",57,44,5,96,71,0.16
+Stroudsburg,"Tue, Oct 27",52,42,7,79,84,0.43
+Stroudsburg,"Wed, Oct 28",51,38,4,83,66,0.02
+Stroudsburg,"Thu, Oct 29",58,43,2,81,61,0.12
+Stroudsburg,"Fri, Oct 30",55,40,8,70,74,0.39
+Stroudsburg,"Sat, Oct 31",53,33,3,42,3,
+Stroudsburg,"Sun, Nov 1",53,35,4,73,6,
+Stroudsburg,"Mon, Nov 2",53,38,8,66,6,
+Stroudsburg,"Tue, Nov 3",56,35,3,62,6,
+Stroudsburg,"Wed, Nov 4",46,37,11,50,6,
+Stroudsburg,"Thu, Nov 5",49,35,11,52,6,
+Stroudsburg,"Fri, Nov 6",61,36,4,66,6,
+Wilkes-Barre,"Fri, Oct 23",73,63,9,68,6,
+Wilkes-Barre,"Sat, Oct 24",64,42,10,68,63,0.04
+Wilkes-Barre,"Sun, Oct 25",53,38,5,45,44,0.0
+Wilkes-Barre,"Mon, Oct 26",58,46,7,87,71,0.2
+Wilkes-Barre,"Tue, Oct 27",51,41,5,73,83,0.58
+Wilkes-Barre,"Wed, Oct 28",51,41,6,78,50,0.03
+Wilkes-Barre,"Thu, Oct 29",58,41,2,62,56,0.06
+Wilkes-Barre,"Fri, Oct 30",48,39,8,72,74,0.3
+Wilkes-Barre,"Sat, Oct 31",53,29,4,41,4,
+Wilkes-Barre,"Sun, Nov 1",53,35,5,70,6,
+Wilkes-Barre,"Mon, Nov 2",53,34,8,63,6,
+Wilkes-Barre,"Tue, Nov 3",54,35,4,60,6,
+Wilkes-Barre,"Wed, Nov 4",46,34,14,53,50,0.02
+Wilkes-Barre,"Thu, Nov 5",47,34,12,50,6,
+Wilkes-Barre,"Fri, Nov 6",56,33,5,70,6,
+Huntingdon,"Fri, Oct 23",76,56,7,62,6,
+Huntingdon,"Sat, Oct 24",64,44,8,59,66,0.04
+Huntingdon,"Sun, Oct 25",47,36,6,62,50,0.02
+Huntingdon,"Mon, Oct 26",59,42,5,82,64,0.08
+Huntingdon,"Tue, Oct 27",49,44,5,83,85,0.56
+Huntingdon,"Wed, Oct 28",51,44,3,81,52,0.02
+Huntingdon,"Thu, Oct 29",58,46,1,77,60,0.18
+Huntingdon,"Fri, Oct 30",56,43,8,57,58,0.09
+Huntingdon,"Sat, Oct 31",55,36,3,41,4,
+Huntingdon,"Sun, Nov 1",52,38,3,63,6,
+Huntingdon,"Mon, Nov 2",52,39,7,62,5,
+Huntingdon,"Tue, Nov 3",56,37,6,64,6,
+Huntingdon,"Wed, Nov 4",49,38,13,49,43,0.01
+Huntingdon,"Thu, Nov 5",52,32,8,45,6,
+Huntingdon,"Fri, Nov 6",62,42,4,63,6,
+Yeadon,"Fri, Oct 23",72,62,7,69,2,
+Yeadon,"Sat, Oct 24",72,51,9,64,53,0.02
+Yeadon,"Sun, Oct 25",51,46,7,59,57,0.04
+Yeadon,"Mon, Oct 26",65,50,7,81,61,0.03
+Yeadon,"Tue, Oct 27",59,48,7,72,66,0.13
+Yeadon,"Wed, Oct 28",57,47,5,71,6,
+Yeadon,"Thu, Oct 29",61,53,6,77,76,0.39
+Yeadon,"Fri, Oct 30",61,50,7,60,75,0.46
+Yeadon,"Sat, Oct 31",56,41,4,29,3,
+Yeadon,"Sun, Nov 1",59,46,5,59,6,
+Yeadon,"Mon, Nov 2",56,48,11,67,46,0.02
+Yeadon,"Tue, Nov 3",59,45,5,52,5,
+Yeadon,"Wed, Nov 4",53,41,14,41,6,
+Yeadon,"Thu, Nov 5",54,39,12,37,6,
+Yeadon,"Fri, Nov 6",64,47,6,52,5,
+Pittsburgh,"Fri, Oct 23",80,57,9,51,52,0.06
+Pittsburgh,"Sat, Oct 24",67,43,7,66,71,0.12
+Pittsburgh,"Sun, Oct 25",51,38,8,60,53,0.02
+Pittsburgh,"Mon, Oct 26",56,47,6,72,66,0.15
+Pittsburgh,"Tue, Oct 27",50,43,4,80,85,0.59
+Pittsburgh,"Wed, Oct 28",54,43,6,71,62,0.02
+Pittsburgh,"Thu, Oct 29",61,46,4,47,54,0.04
+Pittsburgh,"Fri, Oct 30",55,43,8,57,51,0.01
+Pittsburgh,"Sat, Oct 31",56,40,4,34,4,
+Pittsburgh,"Sun, Nov 1",55,39,5,55,57,0.04
+Pittsburgh,"Mon, Nov 2",57,45,6,54,62,0.04
+Pittsburgh,"Tue, Nov 3",57,43,9,60,5,
+Pittsburgh,"Wed, Nov 4",49,42,10,63,54,0.02
+Pittsburgh,"Thu, Nov 5",54,36,12,45,6,
+Pittsburgh,"Fri, Nov 6",63,45,8,57,6,

@@ -1,1 +1,121 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Augusta,"Fri, Oct 23",59,50,7,71,6,
+Augusta,"Sat, Oct 24",60,42,9,79,6,
+Augusta,"Sun, Oct 25",47,32,7,40,3,
+Augusta,"Mon, Oct 26",41,30,5,97,69,0.13
+Augusta,"Tue, Oct 27",43,31,6,72,80,0.25
+Augusta,"Wed, Oct 28",40,28,5,79,69,0.01
+Augusta,"Thu, Oct 29",51,34,4,77,44,0.01
+Augusta,"Fri, Oct 30",44,32,6,59,6,
+Augusta,"Sat, Oct 31",44,28,6,45,5,
+Augusta,"Sun, Nov 1",48,32,7,59,44,0.01
+Augusta,"Mon, Nov 2",47,34,9,68,6,
+Augusta,"Tue, Nov 3",47,32,2,47,4,
+Augusta,"Wed, Nov 4",43,31,11,56,53,0.02
+Augusta,"Thu, Nov 5",42,28,5,44,6,
+Augusta,"Fri, Nov 6",45,33,5,62,48,
+Lewiston,"Fri, Oct 23",59,50,7,73,6,
+Lewiston,"Sat, Oct 24",61,41,9,77,6,
+Lewiston,"Sun, Oct 25",47,31,7,39,1,
+Lewiston,"Mon, Oct 26",42,29,6,98,68,0.13
+Lewiston,"Tue, Oct 27",44,35,6,75,81,0.46
+Lewiston,"Wed, Oct 28",42,30,5,77,62,
+Lewiston,"Thu, Oct 29",52,34,2,76,41,0.01
+Lewiston,"Fri, Oct 30",44,33,5,67,59,0.02
+Lewiston,"Sat, Oct 31",45,29,5,44,6,
+Lewiston,"Sun, Nov 1",49,32,7,61,6,
+Lewiston,"Mon, Nov 2",47,33,9,65,6,
+Lewiston,"Tue, Nov 3",48,32,2,46,5,
+Lewiston,"Wed, Nov 4",42,30,12,56,59,0.01
+Lewiston,"Thu, Nov 5",42,27,6,45,39,
+Lewiston,"Fri, Nov 6",47,32,4,65,6,
+Presque Isle,"Fri, Oct 23",52,42,12,81,50,0.02
+Presque Isle,"Sat, Oct 24",57,35,12,82,70,0.09
+Presque Isle,"Sun, Oct 25",40,22,9,45,2,
+Presque Isle,"Mon, Oct 26",39,20,10,67,75,0.26
+Presque Isle,"Tue, Oct 27",41,22,9,60,55,0.02
+Presque Isle,"Wed, Oct 28",37,19,7,67,42,0.0
+Presque Isle,"Thu, Oct 29",47,33,10,71,51,0.03
+Presque Isle,"Fri, Oct 30",38,26,7,48,4,
+Presque Isle,"Sat, Oct 31",40,26,7,45,6,
+Presque Isle,"Sun, Nov 1",39,29,9,67,52,0.03
+Presque Isle,"Mon, Nov 2",40,26,5,68,5,
+Presque Isle,"Tue, Nov 3",40,24,5,62,6,
+Presque Isle,"Wed, Nov 4",34,27,12,77,53,
+Presque Isle,"Thu, Nov 5",32,24,11,43,6,
+Presque Isle,"Fri, Nov 6",35,24,5,61,6,
+Bangor,"Fri, Oct 23",59,50,9,75,5,
+Bangor,"Sat, Oct 24",59,42,10,79,56,0.01
+Bangor,"Sun, Oct 25",45,30,7,45,1,
+Bangor,"Mon, Oct 26",42,28,6,88,69,0.2
+Bangor,"Tue, Oct 27",44,31,6,64,72,0.11
+Bangor,"Wed, Oct 28",43,28,6,74,64,0.02
+Bangor,"Thu, Oct 29",52,36,6,70,46,0.01
+Bangor,"Fri, Oct 30",41,28,6,45,6,
+Bangor,"Sat, Oct 31",43,28,6,43,4,
+Bangor,"Sun, Nov 1",49,31,8,64,46,0.01
+Bangor,"Mon, Nov 2",47,32,9,70,6,
+Bangor,"Tue, Nov 3",47,31,2,52,5,
+Bangor,"Wed, Nov 4",41,30,11,78,57,0.03
+Bangor,"Thu, Nov 5",38,27,7,39,6,
+Bangor,"Fri, Nov 6",41,30,3,67,40,
+Lubec,"Fri, Oct 23",54,50,7,83,5,
+Lubec,"Sat, Oct 24",56,46,7,82,5,
+Lubec,"Sun, Oct 25",45,35,11,44,1,
+Lubec,"Mon, Oct 26",49,35,11,77,79,0.33
+Lubec,"Tue, Oct 27",50,37,7,67,77,0.15
+Lubec,"Wed, Oct 28",44,33,6,64,62,0.06
+Lubec,"Thu, Oct 29",53,45,11,77,58,0.07
+Lubec,"Fri, Oct 30",44,34,11,45,6,
+Lubec,"Sat, Oct 31",43,33,9,40,3,
+Lubec,"Sun, Nov 1",48,34,18,72,52,0.03
+Lubec,"Mon, Nov 2",48,36,19,70,5,
+Lubec,"Tue, Nov 3",48,35,7,60,4,
+Lubec,"Wed, Nov 4",40,30,10,90,61,0.07
+Lubec,"Thu, Nov 5",38,29,18,44,50,
+Lubec,"Fri, Nov 6",41,31,7,55,50,
+Wells,"Fri, Oct 23",59,53,7,81,6,
+Wells,"Sat, Oct 24",65,44,8,75,6,
+Wells,"Sun, Oct 25",50,34,6,43,3,
+Wells,"Mon, Oct 26",48,38,6,90,64,0.08
+Wells,"Tue, Oct 27",47,39,5,74,81,0.56
+Wells,"Wed, Oct 28",45,35,7,77,69,0.19
+Wells,"Thu, Oct 29",55,37,5,67,6,
+Wells,"Fri, Oct 30",45,35,5,75,58,0.1
+Wells,"Sat, Oct 31",50,33,3,43,44,
+Wells,"Sun, Nov 1",52,32,8,63,5,
+Wells,"Mon, Nov 2",49,37,12,62,45,0.02
+Wells,"Tue, Nov 3",50,33,4,55,4,
+Wells,"Wed, Nov 4",48,32,13,53,57,0.01
+Wells,"Thu, Nov 5",48,29,11,48,6,
+Wells,"Fri, Nov 6",51,35,7,62,6,
+Kennebunk,"Fri, Oct 23",59,53,7,81,6,
+Kennebunk,"Sat, Oct 24",65,44,8,75,6,
+Kennebunk,"Sun, Oct 25",50,34,6,43,3,
+Kennebunk,"Mon, Oct 26",48,38,6,90,64,0.08
+Kennebunk,"Tue, Oct 27",47,39,5,74,81,0.56
+Kennebunk,"Wed, Oct 28",45,35,7,77,69,0.19
+Kennebunk,"Thu, Oct 29",55,37,5,67,6,
+Kennebunk,"Fri, Oct 30",45,35,5,75,58,0.1
+Kennebunk,"Sat, Oct 31",50,33,3,43,44,
+Kennebunk,"Sun, Nov 1",52,32,8,63,5,
+Kennebunk,"Mon, Nov 2",49,37,12,62,45,0.02
+Kennebunk,"Tue, Nov 3",50,33,4,55,4,
+Kennebunk,"Wed, Nov 4",48,32,13,53,57,0.01
+Kennebunk,"Thu, Nov 5",48,29,11,48,6,
+Kennebunk,"Fri, Nov 6",51,35,7,62,6,
+Portland,"Fri, Oct 23",57,53,8,82,5,
+Portland,"Sat, Oct 24",61,46,9,76,51,0.02
+Portland,"Sun, Oct 25",49,39,9,39,2,
+Portland,"Mon, Oct 26",50,42,8,87,64,0.11
+Portland,"Tue, Oct 27",49,41,8,67,84,0.58
+Portland,"Wed, Oct 28",44,39,8,73,69,0.16
+Portland,"Thu, Oct 29",54,38,4,66,6,
+Portland,"Fri, Oct 30",46,36,6,54,57,0.03
+Portland,"Sat, Oct 31",48,33,3,34,6,
+Portland,"Sun, Nov 1",52,36,11,53,5,
+Portland,"Mon, Nov 2",50,37,14,61,6,
+Portland,"Tue, Nov 3",51,36,3,48,4,
+Portland,"Wed, Nov 4",46,33,14,51,49,0.04
+Portland,"Thu, Nov 5",47,30,12,45,41,
+Portland,"Fri, Nov 6",49,38,3,63,6,

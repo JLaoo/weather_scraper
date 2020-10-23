@@ -1,1 +1,91 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Brattleboro,"Fri, Oct 23",65,58,6,86,51,0.04
+Brattleboro,"Sat, Oct 24",65,41,9,68,53,0.02
+Brattleboro,"Sun, Oct 25",49,33,6,45,4,
+Brattleboro,"Mon, Oct 26",46,36,4,96,65,0.12
+Brattleboro,"Tue, Oct 27",46,35,3,75,82,0.42
+Brattleboro,"Wed, Oct 28",51,34,5,73,53,0.03
+Brattleboro,"Thu, Oct 29",58,35,4,63,47,0.0
+Brattleboro,"Fri, Oct 30",46,32,4,88,60,0.11
+Brattleboro,"Sat, Oct 31",50,28,3,36,4,
+Brattleboro,"Sun, Nov 1",51,29,6,60,5,
+Brattleboro,"Mon, Nov 2",50,32,8,68,6,
+Brattleboro,"Tue, Nov 3",50,32,2,62,6,
+Brattleboro,"Wed, Nov 4",46,30,12,60,55,0.03
+Brattleboro,"Thu, Nov 5",44,28,11,56,6,
+Brattleboro,"Fri, Nov 6",51,32,5,72,6,
+Montpelier,"Fri, Oct 23",65,54,9,78,6,
+Montpelier,"Sat, Oct 24",60,38,11,74,74,0.05
+Montpelier,"Sun, Oct 25",43,28,6,46,5,
+Montpelier,"Mon, Oct 26",44,27,8,89,70,0.28
+Montpelier,"Tue, Oct 27",44,28,6,70,80,0.2
+Montpelier,"Wed, Oct 28",46,29,7,74,52,
+Montpelier,"Thu, Oct 29",55,39,5,75,55,0.03
+Montpelier,"Fri, Oct 30",42,29,4,75,43,0.01
+Montpelier,"Sat, Oct 31",45,27,5,37,5,
+Montpelier,"Sun, Nov 1",49,31,4,59,6,
+Montpelier,"Mon, Nov 2",48,36,4,80,52,0.02
+Montpelier,"Tue, Nov 3",49,29,1,66,60,0.04
+Montpelier,"Wed, Nov 4",39,29,12,78,67,0.07
+Montpelier,"Thu, Nov 5",40,27,10,75,55,0.15
+Montpelier,"Fri, Nov 6",45,34,3,83,51,0.03
+Rutland,"Fri, Oct 23",71,57,8,69,43,0.03
+Rutland,"Sat, Oct 24",62,38,9,76,68,0.04
+Rutland,"Sun, Oct 25",45,32,7,48,3,
+Rutland,"Mon, Oct 26",45,36,6,95,70,0.23
+Rutland,"Tue, Oct 27",45,34,5,75,84,0.33
+Rutland,"Wed, Oct 28",49,33,7,72,58,0.01
+Rutland,"Thu, Oct 29",52,37,6,74,52,0.03
+Rutland,"Fri, Oct 30",42,30,6,70,54,0.03
+Rutland,"Sat, Oct 31",46,28,4,39,5,
+Rutland,"Sun, Nov 1",46,31,4,66,51,0.02
+Rutland,"Mon, Nov 2",46,33,3,83,50,
+Rutland,"Tue, Nov 3",46,33,3,68,60,0.04
+Rutland,"Wed, Nov 4",38,26,10,78,71,0.1
+Rutland,"Thu, Nov 5",41,24,14,84,52,0.09
+Rutland,"Fri, Nov 6",46,32,4,82,51,0.02
+Burlington,"Fri, Oct 23",71,54,16,66,51,0.01
+Burlington,"Sat, Oct 24",65,42,14,61,78,0.06
+Burlington,"Sun, Oct 25",44,34,8,42,46,0.01
+Burlington,"Mon, Oct 26",47,34,12,81,70,0.27
+Burlington,"Tue, Oct 27",46,34,8,58,79,0.24
+Burlington,"Wed, Oct 28",50,35,10,64,60,0.03
+Burlington,"Thu, Oct 29",52,43,7,66,50,0.05
+Burlington,"Fri, Oct 30",45,36,12,67,43,0.01
+Burlington,"Sat, Oct 31",43,36,4,39,4,
+Burlington,"Sun, Nov 1",48,35,12,62,51,0.02
+Burlington,"Mon, Nov 2",48,37,11,79,63,0.06
+Burlington,"Tue, Nov 3",49,34,8,67,63,0.07
+Burlington,"Wed, Nov 4",42,30,22,64,74,0.13
+Burlington,"Thu, Nov 5",43,29,10,90,65,0.12
+Burlington,"Fri, Nov 6",44,39,4,70,66,0.03
+Newport,"Fri, Oct 23",65,51,12,74,45,0.01
+Newport,"Sat, Oct 24",58,35,10,78,76,0.07
+Newport,"Sun, Oct 25",40,28,7,46,5,
+Newport,"Mon, Oct 26",41,29,8,90,78,0.33
+Newport,"Tue, Oct 27",40,28,6,75,72,0.05
+Newport,"Wed, Oct 28",43,27,7,77,51,0.01
+Newport,"Thu, Oct 29",48,36,4,86,55,0.07
+Newport,"Fri, Oct 30",38,23,4,79,6,
+Newport,"Sat, Oct 31",41,23,4,44,5,
+Newport,"Sun, Nov 1",42,27,4,67,50,0.02
+Newport,"Mon, Nov 2",43,27,4,85,52,
+Newport,"Tue, Nov 3",43,26,2,71,62,0.02
+Newport,"Wed, Nov 4",36,26,11,83,70,0.01
+Newport,"Thu, Nov 5",37,24,7,86,67,0.04
+Newport,"Fri, Nov 6",38,30,3,86,46,
+South Burlington,"Fri, Oct 23",71,54,14,64,52,0.02
+South Burlington,"Sat, Oct 24",65,40,13,62,78,0.06
+South Burlington,"Sun, Oct 25",44,31,7,42,46,0.01
+South Burlington,"Mon, Oct 26",46,33,8,83,70,0.27
+South Burlington,"Tue, Oct 27",45,33,7,58,79,0.22
+South Burlington,"Wed, Oct 28",49,32,8,64,57,0.01
+South Burlington,"Thu, Oct 29",54,41,7,67,51,0.07
+South Burlington,"Fri, Oct 30",45,36,11,66,44,0.01
+South Burlington,"Sat, Oct 31",45,35,3,38,5,
+South Burlington,"Sun, Nov 1",47,36,10,64,51,0.02
+South Burlington,"Mon, Nov 2",47,37,9,82,63,0.06
+South Burlington,"Tue, Nov 3",48,34,7,68,64,0.07
+South Burlington,"Wed, Nov 4",42,33,20,66,74,0.17
+South Burlington,"Thu, Nov 5",42,32,9,90,65,0.13
+South Burlington,"Fri, Nov 6",45,39,3,72,66,0.03

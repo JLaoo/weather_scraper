@@ -1,1 +1,121 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Alexandria,"Fri, Oct 23",82,69,5,70,90,0.3
+Alexandria,"Sat, Oct 24",70,60,7,72,6,
+Alexandria,"Sun, Oct 25",77,58,6,69,5,
+Alexandria,"Mon, Oct 26",80,66,6,69,49,0.09
+Alexandria,"Tue, Oct 27",75,61,8,71,53,0.02
+Alexandria,"Wed, Oct 28",74,56,8,69,90,2.62
+Alexandria,"Thu, Oct 29",70,55,11,74,54,0.03
+Alexandria,"Fri, Oct 30",72,50,9,52,3,
+Alexandria,"Sat, Oct 31",72,47,6,45,2,
+Alexandria,"Sun, Nov 1",75,49,6,47,3,
+Alexandria,"Mon, Nov 2",75,49,7,50,3,
+Alexandria,"Tue, Nov 3",75,49,3,42,2,
+Alexandria,"Wed, Nov 4",75,49,7,57,4,
+Alexandria,"Thu, Nov 5",75,49,3,37,2,
+Alexandria,"Fri, Nov 6",74,49,4,45,5,
+Lafayette,"Fri, Oct 23",83,72,5,71,99,0.38
+Lafayette,"Sat, Oct 24",77,65,9,69,4,
+Lafayette,"Sun, Oct 25",81,62,5,66,3,
+Lafayette,"Mon, Oct 26",82,69,6,70,5,
+Lafayette,"Tue, Oct 27",84,67,7,67,44,0.05
+Lafayette,"Wed, Oct 28",80,61,6,73,80,0.64
+Lafayette,"Thu, Oct 29",75,57,13,68,6,
+Lafayette,"Fri, Oct 30",73,55,13,57,5,
+Lafayette,"Sat, Oct 31",73,51,8,50,2,
+Lafayette,"Sun, Nov 1",75,53,8,50,3,
+Lafayette,"Mon, Nov 2",74,53,11,53,3,
+Lafayette,"Tue, Nov 3",74,54,6,45,2,
+Lafayette,"Wed, Nov 4",74,53,8,53,4,
+Lafayette,"Thu, Nov 5",74,54,4,37,2,
+Lafayette,"Fri, Nov 6",74,53,5,53,5,
+New Orleans,"Fri, Oct 23",82,74,10,75,45,0.1
+New Orleans,"Sat, Oct 24",83,72,8,69,5,
+New Orleans,"Sun, Oct 25",82,70,9,67,3,
+New Orleans,"Mon, Oct 26",82,72,8,71,6,
+New Orleans,"Tue, Oct 27",83,72,9,69,8,
+New Orleans,"Wed, Oct 28",80,71,10,76,89,0.76
+New Orleans,"Thu, Oct 29",73,62,14,65,43,0.02
+New Orleans,"Fri, Oct 30",76,61,12,49,6,
+New Orleans,"Sat, Oct 31",74,54,6,57,4,
+New Orleans,"Sun, Nov 1",77,60,10,48,4,
+New Orleans,"Mon, Nov 2",75,57,11,39,2,
+New Orleans,"Tue, Nov 3",76,58,6,39,2,
+New Orleans,"Wed, Nov 4",76,58,8,41,3,
+New Orleans,"Thu, Nov 5",76,58,6,36,3,
+New Orleans,"Fri, Nov 6",76,57,9,61,42,0.02
+Baton Rouge,"Fri, Oct 23",83,71,6,67,92,0.26
+Baton Rouge,"Sat, Oct 24",80,66,7,67,6,
+Baton Rouge,"Sun, Oct 25",83,64,6,61,2,
+Baton Rouge,"Mon, Oct 26",83,69,8,66,5,
+Baton Rouge,"Tue, Oct 27",85,68,7,58,6,
+Baton Rouge,"Wed, Oct 28",81,65,7,70,75,0.46
+Baton Rouge,"Thu, Oct 29",74,59,11,68,44,0.02
+Baton Rouge,"Fri, Oct 30",75,55,10,49,5,
+Baton Rouge,"Sat, Oct 31",75,52,6,45,3,
+Baton Rouge,"Sun, Nov 1",76,55,8,47,3,
+Baton Rouge,"Mon, Nov 2",76,54,9,49,2,
+Baton Rouge,"Tue, Nov 3",76,55,5,42,2,
+Baton Rouge,"Wed, Nov 4",76,54,7,50,3,
+Baton Rouge,"Thu, Nov 5",76,55,3,33,2,
+Baton Rouge,"Fri, Nov 6",76,54,5,52,7,
+Lake Charles,"Fri, Oct 23",83,71,6,73,99,0.36
+Lake Charles,"Sat, Oct 24",73,65,8,75,46,0.01
+Lake Charles,"Sun, Oct 25",78,63,7,74,4,
+Lake Charles,"Mon, Oct 26",80,68,7,77,47,0.06
+Lake Charles,"Tue, Oct 27",82,65,7,73,52,0.13
+Lake Charles,"Wed, Oct 28",76,58,8,80,72,0.51
+Lake Charles,"Thu, Oct 29",73,54,11,66,6,
+Lake Charles,"Fri, Oct 30",73,55,10,50,5,
+Lake Charles,"Sat, Oct 31",73,52,6,44,2,
+Lake Charles,"Sun, Nov 1",76,54,7,48,3,
+Lake Charles,"Mon, Nov 2",75,54,7,47,3,
+Lake Charles,"Tue, Nov 3",75,54,3,40,2,
+Lake Charles,"Wed, Nov 4",75,54,5,52,4,
+Lake Charles,"Thu, Nov 5",75,54,4,48,3,
+Lake Charles,"Fri, Nov 6",75,54,5,52,5,
+Shreveport,"Fri, Oct 23",78,61,8,78,90,0.11
+Shreveport,"Sat, Oct 24",60,56,7,80,5,
+Shreveport,"Sun, Oct 25",72,56,9,78,6,
+Shreveport,"Mon, Oct 26",80,62,9,71,52,0.03
+Shreveport,"Tue, Oct 27",61,56,9,84,58,0.06
+Shreveport,"Wed, Oct 28",61,52,8,87,63,0.27
+Shreveport,"Thu, Oct 29",69,53,9,70,51,0.01
+Shreveport,"Fri, Oct 30",69,52,7,46,3,
+Shreveport,"Sat, Oct 31",72,51,4,32,2,
+Shreveport,"Sun, Nov 1",74,56,6,45,4,
+Shreveport,"Mon, Nov 2",75,56,5,32,2,
+Shreveport,"Tue, Nov 3",75,56,2,32,4,
+Shreveport,"Wed, Nov 4",75,56,7,47,4,
+Shreveport,"Thu, Nov 5",75,56,3,30,3,
+Shreveport,"Fri, Nov 6",75,56,5,41,6,
+Gonzales,"Fri, Oct 23",83,71,6,69,99,0.34
+Gonzales,"Sat, Oct 24",81,68,6,69,6,
+Gonzales,"Sun, Oct 25",83,63,5,62,3,
+Gonzales,"Mon, Oct 26",82,68,8,68,5,
+Gonzales,"Tue, Oct 27",85,67,7,63,5,
+Gonzales,"Wed, Oct 28",81,65,7,76,78,0.44
+Gonzales,"Thu, Oct 29",74,59,11,70,39,0.0
+Gonzales,"Fri, Oct 30",76,55,10,52,5,
+Gonzales,"Sat, Oct 31",76,51,5,46,3,
+Gonzales,"Sun, Nov 1",77,55,8,47,3,
+Gonzales,"Mon, Nov 2",76,54,8,48,2,
+Gonzales,"Tue, Nov 3",77,54,4,41,2,
+Gonzales,"Wed, Nov 4",77,54,6,50,3,
+Gonzales,"Thu, Nov 5",77,54,4,37,2,
+Gonzales,"Fri, Nov 6",76,54,6,61,7,
+Metairie,"Fri, Oct 23",82,74,9,75,92,0.26
+Metairie,"Sat, Oct 24",81,72,8,71,5,
+Metairie,"Sun, Oct 25",80,70,8,70,3,
+Metairie,"Mon, Oct 26",81,71,9,72,39,0.0
+Metairie,"Tue, Oct 27",82,72,9,70,7,
+Metairie,"Wed, Oct 28",80,71,11,77,88,0.85
+Metairie,"Thu, Oct 29",72,65,15,70,43,0.02
+Metairie,"Fri, Oct 30",74,65,14,53,41,0.0
+Metairie,"Sat, Oct 31",71,60,5,63,4,
+Metairie,"Sun, Nov 1",76,65,10,52,4,
+Metairie,"Mon, Nov 2",74,64,13,44,3,
+Metairie,"Tue, Nov 3",75,64,6,43,2,
+Metairie,"Wed, Nov 4",75,64,8,46,3,
+Metairie,"Thu, Nov 5",75,64,6,46,3,
+Metairie,"Fri, Nov 6",74,64,10,69,39,0.0

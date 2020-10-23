@@ -1,1 +1,181 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Billings,"Fri, Oct 23",28,14,8,73,63,
+Billings,"Sat, Oct 24",25,13,11,86,90,
+Billings,"Sun, Oct 25",16,1,9,66,62,
+Billings,"Mon, Oct 26",29,1,17,59,4,
+Billings,"Tue, Oct 27",41,21,22,66,4,
+Billings,"Wed, Oct 28",42,32,11,79,53,0.01
+Billings,"Thu, Oct 29",44,35,1,99,59,0.05
+Billings,"Fri, Oct 30",47,35,3,92,6,
+Billings,"Sat, Oct 31",45,35,7,88,51,0.02
+Billings,"Sun, Nov 1",56,38,13,51,5,
+Billings,"Mon, Nov 2",56,40,8,42,4,
+Billings,"Tue, Nov 3",58,40,9,36,5,
+Billings,"Wed, Nov 4",59,40,14,28,2,
+Billings,"Thu, Nov 5",58,41,14,30,2,
+Billings,"Fri, Nov 6",58,41,7,33,4,
+Great Falls,"Fri, Oct 23",20,6,9,82,77,
+Great Falls,"Sat, Oct 24",18,8,11,88,92,
+Great Falls,"Sun, Oct 25",15,1,10,67,59,
+Great Falls,"Mon, Oct 26",31,5,13,61,4,
+Great Falls,"Tue, Oct 27",43,24,21,69,6,
+Great Falls,"Wed, Oct 28",42,33,14,83,6,
+Great Falls,"Thu, Oct 29",48,31,10,95,6,
+Great Falls,"Fri, Oct 30",51,37,10,71,58,0.01
+Great Falls,"Sat, Oct 31",52,32,2,73,55,0.01
+Great Falls,"Sun, Nov 1",55,39,21,40,4,
+Great Falls,"Mon, Nov 2",57,40,7,47,5,
+Great Falls,"Tue, Nov 3",59,40,11,38,5,
+Great Falls,"Wed, Nov 4",60,42,18,28,3,
+Great Falls,"Thu, Nov 5",58,43,22,28,4,
+Great Falls,"Fri, Nov 6",58,43,9,34,6,
+Missoula,"Fri, Oct 23",33,20,7,75,79,
+Missoula,"Sat, Oct 24",33,10,11,56,79,
+Missoula,"Sun, Oct 25",19,-1,5,58,3,
+Missoula,"Mon, Oct 26",27,-5,5,70,6,
+Missoula,"Tue, Oct 27",37,17,4,82,6,
+Missoula,"Wed, Oct 28",43,26,5,83,63,0.03
+Missoula,"Thu, Oct 29",41,33,4,100,57,0.06
+Missoula,"Fri, Oct 30",41,26,2,95,58,0.01
+Missoula,"Sat, Oct 31",48,35,2,91,60,0.06
+Missoula,"Sun, Nov 1",44,25,2,77,5,
+Missoula,"Mon, Nov 2",48,35,1,72,6,
+Missoula,"Tue, Nov 3",48,34,1,67,5,
+Missoula,"Wed, Nov 4",49,34,2,58,5,
+Missoula,"Thu, Nov 5",51,36,3,54,6,
+Missoula,"Fri, Nov 6",51,37,3,54,62,0.02
+Bozeman,"Fri, Oct 23",33,12,7,62,68,
+Bozeman,"Sat, Oct 24",28,5,6,76,79,
+Bozeman,"Sun, Oct 25",11,-4,5,70,51,
+Bozeman,"Mon, Oct 26",28,-5,5,63,5,
+Bozeman,"Tue, Oct 27",42,15,4,71,6,
+Bozeman,"Wed, Oct 28",45,29,6,70,54,0.04
+Bozeman,"Thu, Oct 29",46,36,2,95,56,0.06
+Bozeman,"Fri, Oct 30",50,37,3,78,6,
+Bozeman,"Sat, Oct 31",50,36,2,66,6,
+Bozeman,"Sun, Nov 1",54,40,3,57,3,
+Bozeman,"Mon, Nov 2",54,37,1,43,5,
+Bozeman,"Tue, Nov 3",56,39,2,38,4,
+Bozeman,"Wed, Nov 4",56,41,2,37,3,
+Bozeman,"Thu, Nov 5",55,41,2,36,3,
+Bozeman,"Fri, Nov 6",55,42,7,39,5,
+Hamilton,"Fri, Oct 23",37,16,6,68,80,0.04
+Hamilton,"Sat, Oct 24",34,7,10,66,79,
+Hamilton,"Sun, Oct 25",21,-1,4,63,4,
+Hamilton,"Mon, Oct 26",36,0,6,69,6,
+Hamilton,"Tue, Oct 27",44,25,6,77,6,
+Hamilton,"Wed, Oct 28",46,33,7,80,64,0.08
+Hamilton,"Thu, Oct 29",45,35,4,100,73,0.15
+Hamilton,"Fri, Oct 30",45,27,5,88,6,
+Hamilton,"Sat, Oct 31",46,35,3,81,44,0.01
+Hamilton,"Sun, Nov 1",48,27,5,73,5,
+Hamilton,"Mon, Nov 2",49,36,4,67,6,
+Hamilton,"Tue, Nov 3",51,36,3,56,5,
+Hamilton,"Wed, Nov 4",51,36,3,51,4,
+Hamilton,"Thu, Nov 5",53,36,5,41,4,
+Hamilton,"Fri, Nov 6",52,37,6,45,68,0.06
+Polson,"Fri, Oct 23",32,21,4,81,79,
+Polson,"Sat, Oct 24",31,10,10,55,69,
+Polson,"Sun, Oct 25",20,1,6,61,4,
+Polson,"Mon, Oct 26",22,2,6,70,6,
+Polson,"Tue, Oct 27",32,15,4,74,6,
+Polson,"Wed, Oct 28",39,25,7,87,47,
+Polson,"Thu, Oct 29",44,6,3,98,54,0.02
+Polson,"Fri, Oct 30",44,14,2,94,51,0.07
+Polson,"Sat, Oct 31",43,31,4,86,53,0.05
+Polson,"Sun, Nov 1",46,27,2,79,5,
+Polson,"Mon, Nov 2",46,35,2,73,6,
+Polson,"Tue, Nov 3",48,36,1,70,5,
+Polson,"Wed, Nov 4",48,36,1,68,5,
+Polson,"Thu, Nov 5",51,36,2,61,6,
+Polson,"Fri, Nov 6",48,39,2,80,69,0.1
+Butte,"Fri, Oct 23",31,5,6,53,78,
+Butte,"Sat, Oct 24",27,-3,10,62,87,
+Butte,"Sun, Oct 25",10,-14,6,62,59,
+Butte,"Mon, Oct 26",31,-12,6,58,6,
+Butte,"Tue, Oct 27",42,9,5,68,6,
+Butte,"Wed, Oct 28",45,22,7,68,62,0.04
+Butte,"Thu, Oct 29",46,31,6,99,58,0.04
+Butte,"Fri, Oct 30",45,24,5,95,6,
+Butte,"Sat, Oct 31",43,29,3,95,5,
+Butte,"Sun, Nov 1",46,26,6,84,5,
+Butte,"Mon, Nov 2",46,29,4,80,5,
+Butte,"Tue, Nov 3",48,31,2,78,5,
+Butte,"Wed, Nov 4",48,31,3,68,3,
+Butte,"Thu, Nov 5",49,31,8,58,4,
+Butte,"Fri, Nov 6",50,31,9,52,6,
+Helena,"Fri, Oct 23",29,16,6,70,78,
+Helena,"Sat, Oct 24",23,10,11,72,90,
+Helena,"Sun, Oct 25",14,-1,7,64,60,
+Helena,"Mon, Oct 26",28,-2,8,63,6,
+Helena,"Tue, Oct 27",40,23,8,69,6,
+Helena,"Wed, Oct 28",43,36,8,80,53,0.02
+Helena,"Thu, Oct 29",46,33,4,97,53,0.02
+Helena,"Fri, Oct 30",43,28,4,85,6,
+Helena,"Sat, Oct 31",47,33,6,74,48,0.01
+Helena,"Sun, Nov 1",47,27,6,67,5,
+Helena,"Mon, Nov 2",48,33,3,63,6,
+Helena,"Tue, Nov 3",53,34,4,52,6,
+Helena,"Wed, Nov 4",53,34,3,50,3,
+Helena,"Thu, Nov 5",53,36,8,41,5,
+Helena,"Fri, Nov 6",53,37,8,41,6,
+Sidney,"Fri, Oct 23",22,1,5,70,5,
+Sidney,"Sat, Oct 24",21,12,10,80,6,
+Sidney,"Sun, Oct 25",20,8,11,73,6,
+Sidney,"Mon, Oct 26",24,1,11,64,45,
+Sidney,"Tue, Oct 27",39,19,15,82,58,0.03
+Sidney,"Wed, Oct 28",37,32,11,91,52,
+Sidney,"Thu, Oct 29",42,23,5,94,6,
+Sidney,"Fri, Oct 30",48,29,9,78,6,
+Sidney,"Sat, Oct 31",41,28,11,70,6,
+Sidney,"Sun, Nov 1",52,26,12,57,4,
+Sidney,"Mon, Nov 2",51,27,7,50,6,
+Sidney,"Tue, Nov 3",52,28,9,43,6,
+Sidney,"Wed, Nov 4",55,33,10,36,4,
+Sidney,"Thu, Nov 5",55,33,11,36,3,
+Sidney,"Fri, Nov 6",55,32,9,39,6,
+Eureka,"Fri, Oct 23",33,23,6,73,73,
+Eureka,"Sat, Oct 24",26,10,7,41,51,
+Eureka,"Sun, Oct 25",26,4,4,43,2,
+Eureka,"Mon, Oct 26",30,9,4,61,6,
+Eureka,"Tue, Oct 27",38,20,8,65,6,
+Eureka,"Wed, Oct 28",42,26,3,77,53,0.01
+Eureka,"Thu, Oct 29",43,34,1,86,52,0.02
+Eureka,"Fri, Oct 30",46,36,6,91,57,0.09
+Eureka,"Sat, Oct 31",46,33,2,75,59,0.06
+Eureka,"Sun, Nov 1",50,32,7,80,6,
+Eureka,"Mon, Nov 2",49,35,1,78,6,
+Eureka,"Tue, Nov 3",47,32,1,70,6,
+Eureka,"Wed, Nov 4",48,32,3,60,4,
+Eureka,"Thu, Nov 5",50,32,5,59,6,
+Eureka,"Fri, Nov 6",44,36,4,89,84,0.37
+Kalispell,"Fri, Oct 23",31,19,8,80,80,
+Kalispell,"Sat, Oct 24",26,7,11,50,60,
+Kalispell,"Sun, Oct 25",21,-1,7,54,2,
+Kalispell,"Mon, Oct 26",25,1,6,67,46,
+Kalispell,"Tue, Oct 27",32,13,6,73,6,
+Kalispell,"Wed, Oct 28",38,21,7,86,5,
+Kalispell,"Thu, Oct 29",40,36,3,100,54,0.01
+Kalispell,"Fri, Oct 30",42,36,8,92,53,0.02
+Kalispell,"Sat, Oct 31",51,35,4,69,45,0.04
+Kalispell,"Sun, Nov 1",46,31,4,78,6,
+Kalispell,"Mon, Nov 2",47,34,1,75,6,
+Kalispell,"Tue, Nov 3",48,33,1,70,6,
+Kalispell,"Wed, Nov 4",48,33,2,69,5,
+Kalispell,"Thu, Nov 5",48,33,3,60,6,
+Kalispell,"Fri, Nov 6",47,37,2,91,80,0.33
+West Yellowstone,"Fri, Oct 23",33,6,12,40,5,
+West Yellowstone,"Sat, Oct 24",33,2,9,69,83,
+West Yellowstone,"Sun, Oct 25",17,-7,7,53,6,
+West Yellowstone,"Mon, Oct 26",25,-13,7,54,6,
+West Yellowstone,"Tue, Oct 27",33,2,7,65,6,
+West Yellowstone,"Wed, Oct 28",38,10,7,70,50,0.0
+West Yellowstone,"Thu, Oct 29",38,14,7,84,46,
+West Yellowstone,"Fri, Oct 30",40,20,8,68,6,
+West Yellowstone,"Sat, Oct 31",48,24,4,58,6,
+West Yellowstone,"Sun, Nov 1",47,21,9,56,5,
+West Yellowstone,"Mon, Nov 2",49,24,3,52,4,
+West Yellowstone,"Tue, Nov 3",48,26,3,48,4,
+West Yellowstone,"Wed, Nov 4",48,25,4,40,3,
+West Yellowstone,"Thu, Nov 5",47,27,5,45,4,
+West Yellowstone,"Fri, Nov 6",47,27,10,46,50,0.0

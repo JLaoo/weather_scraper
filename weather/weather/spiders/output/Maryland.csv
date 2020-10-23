@@ -1,1 +1,196 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Annapolis,"Fri, Oct 23",71,63,7,77,2,
+Annapolis,"Sat, Oct 24",73,57,7,72,60,0.04
+Annapolis,"Sun, Oct 25",55,49,8,74,70,0.13
+Annapolis,"Mon, Oct 26",68,52,8,76,52,0.01
+Annapolis,"Tue, Oct 27",61,54,8,80,61,0.07
+Annapolis,"Wed, Oct 28",59,53,7,79,54,0.01
+Annapolis,"Thu, Oct 29",58,52,12,94,89,0.67
+Annapolis,"Fri, Oct 30",60,51,10,68,72,0.46
+Annapolis,"Sat, Oct 31",51,44,8,49,4,
+Annapolis,"Sun, Nov 1",57,42,4,71,6,
+Annapolis,"Mon, Nov 2",58,47,16,58,48,0.01
+Annapolis,"Tue, Nov 3",58,45,5,52,5,
+Annapolis,"Wed, Nov 4",53,44,15,46,5,
+Annapolis,"Thu, Nov 5",54,46,13,47,5,
+Annapolis,"Fri, Nov 6",63,44,5,53,5,
+Cumberland,"Fri, Oct 23",78,53,6,57,4,
+Cumberland,"Sat, Oct 24",62,47,8,62,73,0.07
+Cumberland,"Sun, Oct 25",46,40,6,69,58,0.06
+Cumberland,"Mon, Oct 26",66,40,6,75,60,0.06
+Cumberland,"Tue, Oct 27",53,44,5,82,79,0.22
+Cumberland,"Wed, Oct 28",56,46,5,75,58,0.02
+Cumberland,"Thu, Oct 29",56,51,4,93,70,0.29
+Cumberland,"Fri, Oct 30",59,41,9,56,61,0.09
+Cumberland,"Sat, Oct 31",54,33,3,42,4,
+Cumberland,"Sun, Nov 1",52,34,2,65,6,
+Cumberland,"Mon, Nov 2",53,39,6,65,6,
+Cumberland,"Tue, Nov 3",58,37,7,61,6,
+Cumberland,"Wed, Nov 4",47,41,12,56,6,
+Cumberland,"Thu, Nov 5",56,33,7,37,6,
+Cumberland,"Fri, Nov 6",67,44,5,51,5,
+Hagerstown,"Fri, Oct 23",77,60,10,62,39,0.0
+Hagerstown,"Sat, Oct 24",68,51,11,59,67,0.02
+Hagerstown,"Sun, Oct 25",49,44,6,67,52,0.02
+Hagerstown,"Mon, Oct 26",67,44,6,76,60,0.02
+Hagerstown,"Tue, Oct 27",56,47,6,80,80,0.12
+Hagerstown,"Wed, Oct 28",56,47,4,76,59,0.01
+Hagerstown,"Thu, Oct 29",53,49,5,94,66,0.27
+Hagerstown,"Fri, Oct 30",59,43,11,63,65,0.19
+Hagerstown,"Sat, Oct 31",54,35,4,45,3,
+Hagerstown,"Sun, Nov 1",54,36,5,62,6,
+Hagerstown,"Mon, Nov 2",56,37,12,61,6,
+Hagerstown,"Tue, Nov 3",59,36,7,60,6,
+Hagerstown,"Wed, Nov 4",50,39,17,47,5,
+Hagerstown,"Thu, Nov 5",54,38,10,43,6,
+Hagerstown,"Fri, Nov 6",62,40,7,56,5,
+Baltimore,"Fri, Oct 23",73,62,7,72,3,
+Baltimore,"Sat, Oct 24",74,54,8,65,61,0.03
+Baltimore,"Sun, Oct 25",53,47,7,70,69,0.18
+Baltimore,"Mon, Oct 26",69,49,7,72,51,0.01
+Baltimore,"Tue, Oct 27",61,51,6,77,62,0.04
+Baltimore,"Wed, Oct 28",60,51,7,72,6,
+Baltimore,"Thu, Oct 29",59,53,9,87,80,0.53
+Baltimore,"Fri, Oct 30",61,53,9,57,71,0.44
+Baltimore,"Sat, Oct 31",54,44,6,36,4,
+Baltimore,"Sun, Nov 1",58,47,4,58,6,
+Baltimore,"Mon, Nov 2",59,48,12,50,44,0.01
+Baltimore,"Tue, Nov 3",59,47,6,47,5,
+Baltimore,"Wed, Nov 4",53,45,15,39,6,
+Baltimore,"Thu, Nov 5",56,46,11,36,5,
+Baltimore,"Fri, Nov 6",65,49,5,40,5,
+Frederick,"Fri, Oct 23",77,59,8,64,5,
+Frederick,"Sat, Oct 24",72,52,9,61,68,0.03
+Frederick,"Sun, Oct 25",50,45,5,69,66,0.09
+Frederick,"Mon, Oct 26",67,44,6,77,48,0.01
+Frederick,"Tue, Oct 27",56,47,6,81,60,0.06
+Frederick,"Wed, Oct 28",59,47,7,71,6,
+Frederick,"Thu, Oct 29",56,47,8,95,78,0.34
+Frederick,"Fri, Oct 30",61,44,9,72,74,0.33
+Frederick,"Sat, Oct 31",52,34,6,49,4,
+Frederick,"Sun, Nov 1",54,34,4,68,6,
+Frederick,"Mon, Nov 2",58,38,12,66,6,
+Frederick,"Tue, Nov 3",60,37,6,64,6,
+Frederick,"Wed, Nov 4",52,38,15,52,6,
+Frederick,"Thu, Nov 5",54,39,11,55,6,
+Frederick,"Fri, Nov 6",64,39,7,59,5,
+Takoma Park,"Fri, Oct 23",75,61,7,62,4,
+Takoma Park,"Sat, Oct 24",74,55,9,61,71,0.01
+Takoma Park,"Sun, Oct 25",54,48,6,68,66,0.15
+Takoma Park,"Mon, Oct 26",69,49,7,65,5,
+Takoma Park,"Tue, Oct 27",61,53,6,72,58,0.07
+Takoma Park,"Wed, Oct 28",60,52,6,70,6,
+Takoma Park,"Thu, Oct 29",60,48,6,87,80,0.52
+Takoma Park,"Fri, Oct 30",61,46,8,60,74,0.41
+Takoma Park,"Sat, Oct 31",54,40,5,33,4,
+Takoma Park,"Sun, Nov 1",57,39,4,55,6,
+Takoma Park,"Mon, Nov 2",59,42,11,49,6,
+Takoma Park,"Tue, Nov 3",58,41,5,49,5,
+Takoma Park,"Wed, Nov 4",53,40,14,41,5,
+Takoma Park,"Thu, Nov 5",55,42,10,37,5,
+Takoma Park,"Fri, Nov 6",65,41,4,34,5,
+Bethesda,"Fri, Oct 23",75,61,8,61,4,
+Bethesda,"Sat, Oct 24",73,55,9,60,71,0.01
+Bethesda,"Sun, Oct 25",54,48,6,68,64,0.16
+Bethesda,"Mon, Oct 26",68,49,7,66,5,
+Bethesda,"Tue, Oct 27",61,52,6,72,59,0.07
+Bethesda,"Wed, Oct 28",60,52,6,69,52,0.0
+Bethesda,"Thu, Oct 29",60,53,6,87,80,0.51
+Bethesda,"Fri, Oct 30",62,50,8,61,74,0.42
+Bethesda,"Sat, Oct 31",57,41,5,35,4,
+Bethesda,"Sun, Nov 1",58,43,4,54,6,
+Bethesda,"Mon, Nov 2",59,45,12,50,6,
+Bethesda,"Tue, Nov 3",59,44,5,50,5,
+Bethesda,"Wed, Nov 4",53,43,14,41,5,
+Bethesda,"Thu, Nov 5",55,44,10,37,5,
+Bethesda,"Fri, Nov 6",63,46,4,34,5,
+Waldorf,"Fri, Oct 23",75,61,8,66,3,
+Waldorf,"Sat, Oct 24",77,57,9,63,65,0.11
+Waldorf,"Sun, Oct 25",55,49,7,72,65,0.1
+Waldorf,"Mon, Oct 26",69,50,8,71,6,
+Waldorf,"Tue, Oct 27",60,54,7,78,58,0.08
+Waldorf,"Wed, Oct 28",60,53,7,77,48,0.0
+Waldorf,"Thu, Oct 29",61,53,7,97,88,0.8
+Waldorf,"Fri, Oct 30",63,49,8,65,64,0.2
+Waldorf,"Sat, Oct 31",56,40,5,46,4,
+Waldorf,"Sun, Nov 1",58,39,4,70,6,
+Waldorf,"Mon, Nov 2",59,43,9,54,6,
+Waldorf,"Tue, Nov 3",59,42,4,56,5,
+Waldorf,"Wed, Nov 4",53,41,11,46,42,0.0
+Waldorf,"Thu, Nov 5",55,43,10,47,5,
+Waldorf,"Fri, Nov 6",63,41,4,49,4,
+Chesapeake Beach,"Fri, Oct 23",70,63,8,78,2,
+Chesapeake Beach,"Sat, Oct 24",73,58,7,73,60,0.07
+Chesapeake Beach,"Sun, Oct 25",56,50,9,76,66,0.11
+Chesapeake Beach,"Mon, Oct 26",69,53,7,76,50,0.01
+Chesapeake Beach,"Tue, Oct 27",62,55,8,83,55,0.06
+Chesapeake Beach,"Wed, Oct 28",60,54,7,81,56,0.02
+Chesapeake Beach,"Thu, Oct 29",59,56,12,97,89,0.86
+Chesapeake Beach,"Fri, Oct 30",57,53,11,71,64,0.26
+Chesapeake Beach,"Sat, Oct 31",53,44,10,53,4,
+Chesapeake Beach,"Sun, Nov 1",55,44,3,69,6,
+Chesapeake Beach,"Mon, Nov 2",54,48,18,63,51,0.02
+Chesapeake Beach,"Tue, Nov 3",54,46,3,58,5,
+Chesapeake Beach,"Wed, Nov 4",51,43,15,52,5,
+Chesapeake Beach,"Thu, Nov 5",51,44,13,48,5,
+Chesapeake Beach,"Fri, Nov 6",60,46,5,54,4,
+Germantown,"Fri, Oct 23",75,58,8,65,4,
+Germantown,"Sat, Oct 24",72,53,9,63,75,0.02
+Germantown,"Sun, Oct 25",51,46,6,70,69,0.17
+Germantown,"Mon, Oct 26",67,45,7,73,5,
+Germantown,"Tue, Oct 27",57,47,7,79,61,0.04
+Germantown,"Wed, Oct 28",60,47,6,71,6,
+Germantown,"Thu, Oct 29",58,51,8,93,79,0.39
+Germantown,"Fri, Oct 30",62,48,8,75,71,0.44
+Germantown,"Sat, Oct 31",57,38,5,51,4,
+Germantown,"Sun, Nov 1",59,39,4,64,6,
+Germantown,"Mon, Nov 2",58,42,12,65,6,
+Germantown,"Tue, Nov 3",59,41,5,63,6,
+Germantown,"Wed, Nov 4",52,41,14,53,6,
+Germantown,"Thu, Nov 5",54,42,10,54,6,
+Germantown,"Fri, Nov 6",64,43,5,52,5,
+Chestertown,"Fri, Oct 23",74,60,7,73,2,
+Chestertown,"Sat, Oct 24",73,55,9,72,53,0.02
+Chestertown,"Sun, Oct 25",53,47,7,72,63,0.07
+Chestertown,"Mon, Oct 26",67,49,8,81,54,0.01
+Chestertown,"Tue, Oct 27",60,51,8,82,61,0.08
+Chestertown,"Wed, Oct 28",59,50,6,80,53,0.01
+Chestertown,"Thu, Oct 29",58,49,11,94,78,0.55
+Chestertown,"Fri, Oct 30",60,45,11,74,72,0.43
+Chestertown,"Sat, Oct 31",53,37,6,48,3,
+Chestertown,"Sun, Nov 1",58,38,4,73,6,
+Chestertown,"Mon, Nov 2",56,42,15,67,52,0.02
+Chestertown,"Tue, Nov 3",57,39,5,60,5,
+Chestertown,"Wed, Nov 4",54,38,16,51,6,
+Chestertown,"Thu, Nov 5",53,41,14,52,5,
+Chestertown,"Fri, Nov 6",62,43,6,56,5,
+Gaithersburg,"Fri, Oct 23",75,59,7,64,4,
+Gaithersburg,"Sat, Oct 24",72,53,9,63,76,0.03
+Gaithersburg,"Sun, Oct 25",52,46,6,70,66,0.17
+Gaithersburg,"Mon, Oct 26",67,46,7,71,5,
+Gaithersburg,"Tue, Oct 27",57,47,6,78,61,0.05
+Gaithersburg,"Wed, Oct 28",60,47,6,71,6,
+Gaithersburg,"Thu, Oct 29",59,51,7,92,80,0.42
+Gaithersburg,"Fri, Oct 30",62,48,8,73,70,0.45
+Gaithersburg,"Sat, Oct 31",57,39,5,48,4,
+Gaithersburg,"Sun, Nov 1",59,40,4,62,6,
+Gaithersburg,"Mon, Nov 2",58,43,12,63,6,
+Gaithersburg,"Tue, Nov 3",59,41,5,61,6,
+Gaithersburg,"Wed, Nov 4",53,42,14,51,6,
+Gaithersburg,"Thu, Nov 5",54,42,10,51,5,
+Gaithersburg,"Fri, Nov 6",65,44,4,48,5,
+Greenbelt,"Fri, Oct 23",74,61,7,65,4,
+Greenbelt,"Sat, Oct 24",74,55,8,61,62,0.01
+Greenbelt,"Sun, Oct 25",53,47,6,70,68,0.12
+Greenbelt,"Mon, Oct 26",69,49,7,67,5,
+Greenbelt,"Tue, Oct 27",61,52,5,74,57,0.07
+Greenbelt,"Wed, Oct 28",59,52,6,74,6,
+Greenbelt,"Thu, Oct 29",60,47,7,91,80,0.53
+Greenbelt,"Fri, Oct 30",61,44,8,63,74,0.4
+Greenbelt,"Sat, Oct 31",53,39,5,38,4,
+Greenbelt,"Sun, Nov 1",57,37,4,62,6,
+Greenbelt,"Mon, Nov 2",58,41,10,52,6,
+Greenbelt,"Tue, Nov 3",58,40,5,53,5,
+Greenbelt,"Wed, Nov 4",52,38,13,44,5,
+Greenbelt,"Thu, Nov 5",54,42,10,41,5,
+Greenbelt,"Fri, Nov 6",65,39,4,40,5,

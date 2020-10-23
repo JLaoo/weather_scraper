@@ -1,1 +1,91 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Charleston,"Fri, Oct 23",80,58,6,57,40,0.01
+Charleston,"Sat, Oct 24",66,50,6,82,74,0.17
+Charleston,"Sun, Oct 25",59,47,5,76,52,0.06
+Charleston,"Mon, Oct 26",63,54,5,80,60,0.1
+Charleston,"Tue, Oct 27",55,49,4,79,83,0.41
+Charleston,"Wed, Oct 28",58,48,5,74,5,
+Charleston,"Thu, Oct 29",62,52,7,90,59,0.09
+Charleston,"Fri, Oct 30",61,44,5,67,5,
+Charleston,"Sat, Oct 31",60,38,5,39,3,
+Charleston,"Sun, Nov 1",60,40,4,71,57,0.09
+Charleston,"Mon, Nov 2",61,44,5,76,63,0.21
+Charleston,"Tue, Nov 3",63,43,4,67,6,
+Charleston,"Wed, Nov 4",59,41,7,56,6,
+Charleston,"Thu, Nov 5",59,35,7,39,5,
+Charleston,"Fri, Nov 6",63,43,6,46,4,
+Cross Lanes,"Fri, Oct 23",79,57,7,59,43,0.01
+Cross Lanes,"Sat, Oct 24",65,49,6,83,70,0.17
+Cross Lanes,"Sun, Oct 25",56,46,5,78,50,0.06
+Cross Lanes,"Mon, Oct 26",60,53,5,82,49,0.05
+Cross Lanes,"Tue, Oct 27",54,49,4,80,82,0.34
+Cross Lanes,"Wed, Oct 28",57,48,5,75,54,0.01
+Cross Lanes,"Thu, Oct 29",61,52,6,90,58,0.09
+Cross Lanes,"Fri, Oct 30",61,44,6,63,5,
+Cross Lanes,"Sat, Oct 31",61,37,5,39,3,
+Cross Lanes,"Sun, Nov 1",59,40,4,72,57,0.08
+Cross Lanes,"Mon, Nov 2",61,44,5,77,64,0.18
+Cross Lanes,"Tue, Nov 3",63,42,4,63,6,
+Cross Lanes,"Wed, Nov 4",59,41,7,54,6,
+Cross Lanes,"Thu, Nov 5",59,35,7,40,5,
+Cross Lanes,"Fri, Nov 6",63,42,6,46,4,
+Morgantown,"Fri, Oct 23",80,58,7,48,46,0.01
+Morgantown,"Sat, Oct 24",66,44,6,73,83,0.24
+Morgantown,"Sun, Oct 25",53,43,6,69,68,0.09
+Morgantown,"Mon, Oct 26",60,50,5,80,59,0.07
+Morgantown,"Tue, Oct 27",51,46,2,78,78,0.56
+Morgantown,"Wed, Oct 28",55,46,4,74,53,0.03
+Morgantown,"Thu, Oct 29",61,51,5,83,64,0.21
+Morgantown,"Fri, Oct 30",57,42,6,70,59,0.07
+Morgantown,"Sat, Oct 31",58,37,4,42,4,
+Morgantown,"Sun, Nov 1",57,40,5,66,6,
+Morgantown,"Mon, Nov 2",58,42,4,70,6,
+Morgantown,"Tue, Nov 3",60,40,8,71,49,0.01
+Morgantown,"Wed, Nov 4",47,43,9,56,42,0.01
+Morgantown,"Thu, Nov 5",54,36,10,48,6,
+Morgantown,"Fri, Nov 6",60,45,8,53,5,
+Clarksburg,"Fri, Oct 23",80,56,7,50,44,0.01
+Clarksburg,"Sat, Oct 24",65,47,8,75,80,0.17
+Clarksburg,"Sun, Oct 25",55,43,6,74,67,0.15
+Clarksburg,"Mon, Oct 26",61,53,7,78,57,0.07
+Clarksburg,"Tue, Oct 27",54,47,5,74,79,0.48
+Clarksburg,"Wed, Oct 28",57,48,6,72,55,0.01
+Clarksburg,"Thu, Oct 29",61,49,5,81,62,0.19
+Clarksburg,"Fri, Oct 30",57,40,5,65,59,0.04
+Clarksburg,"Sat, Oct 31",58,34,4,39,3,
+Clarksburg,"Sun, Nov 1",56,35,6,69,48,0.02
+Clarksburg,"Mon, Nov 2",57,40,5,66,49,0.01
+Clarksburg,"Tue, Nov 3",59,39,7,72,49,0.01
+Clarksburg,"Wed, Nov 4",49,41,8,53,49,0.02
+Clarksburg,"Thu, Nov 5",55,29,9,44,6,
+Clarksburg,"Fri, Nov 6",61,42,7,47,5,
+Huntington,"Fri, Oct 23",79,58,7,62,45,0.02
+Huntington,"Sat, Oct 24",66,49,6,82,77,0.13
+Huntington,"Sun, Oct 25",55,46,6,79,65,0.11
+Huntington,"Mon, Oct 26",58,50,5,88,51,0.01
+Huntington,"Tue, Oct 27",52,48,5,88,82,0.28
+Huntington,"Wed, Oct 28",56,48,5,84,6,
+Huntington,"Thu, Oct 29",58,52,7,89,65,0.16
+Huntington,"Fri, Oct 30",61,43,6,57,6,
+Huntington,"Sat, Oct 31",60,39,5,48,3,
+Huntington,"Sun, Nov 1",59,40,4,75,62,0.15
+Huntington,"Mon, Nov 2",61,45,6,76,63,0.12
+Huntington,"Tue, Nov 3",62,41,6,60,6,
+Huntington,"Wed, Nov 4",60,42,7,51,6,
+Huntington,"Thu, Nov 5",59,37,7,43,4,
+Huntington,"Fri, Nov 6",60,43,6,48,3,
+Wheeling,"Fri, Oct 23",78,59,10,55,58,0.05
+Wheeling,"Sat, Oct 24",66,43,7,68,80,0.13
+Wheeling,"Sun, Oct 25",52,39,8,65,55,0.02
+Wheeling,"Mon, Oct 26",58,46,7,71,67,0.22
+Wheeling,"Tue, Oct 27",51,43,3,79,95,0.86
+Wheeling,"Wed, Oct 28",54,43,7,72,52,0.03
+Wheeling,"Thu, Oct 29",59,40,4,59,50,0.04
+Wheeling,"Fri, Oct 30",54,40,8,59,46,0.01
+Wheeling,"Sat, Oct 31",55,34,5,44,4,
+Wheeling,"Sun, Nov 1",53,34,5,66,51,0.03
+Wheeling,"Mon, Nov 2",56,41,6,60,51,0.02
+Wheeling,"Tue, Nov 3",56,37,8,67,6,
+Wheeling,"Wed, Nov 4",50,41,10,55,41,0.01
+Wheeling,"Thu, Nov 5",53,30,12,54,6,
+Wheeling,"Fri, Nov 6",62,40,9,63,6,

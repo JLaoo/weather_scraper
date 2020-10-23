@@ -1,1 +1,436 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Battle Ground,"Fri, Oct 23",50,36,6,75,65,0.1
+Battle Ground,"Sat, Oct 24",50,38,10,51,49,0.02
+Battle Ground,"Sun, Oct 25",46,30,12,26,0,
+Battle Ground,"Mon, Oct 26",49,24,6,50,2,
+Battle Ground,"Tue, Oct 27",52,28,4,65,5,
+Battle Ground,"Wed, Oct 28",51,40,3,79,6,
+Battle Ground,"Thu, Oct 29",65,47,3,64,6,
+Battle Ground,"Fri, Oct 30",60,50,2,76,58,0.12
+Battle Ground,"Sat, Oct 31",62,47,3,67,6,
+Battle Ground,"Sun, Nov 1",63,46,2,61,5,
+Battle Ground,"Mon, Nov 2",62,46,2,66,5,
+Battle Ground,"Tue, Nov 3",63,44,3,55,5,
+Battle Ground,"Wed, Nov 4",63,44,2,55,3,
+Battle Ground,"Thu, Nov 5",57,47,3,82,83,0.3
+Battle Ground,"Fri, Nov 6",49,43,2,96,95,0.9
+Spokane,"Fri, Oct 23",37,26,6,85,79,0.43
+Spokane,"Sat, Oct 24",35,22,10,48,6,
+Spokane,"Sun, Oct 25",32,15,3,45,1,
+Spokane,"Mon, Oct 26",34,17,5,63,5,
+Spokane,"Tue, Oct 27",40,18,5,65,5,
+Spokane,"Wed, Oct 28",47,27,5,78,6,
+Spokane,"Thu, Oct 29",52,39,2,80,5,
+Spokane,"Fri, Oct 30",53,39,4,83,53,0.04
+Spokane,"Sat, Oct 31",56,42,1,64,6,
+Spokane,"Sun, Nov 1",55,39,1,59,6,
+Spokane,"Mon, Nov 2",55,42,0,54,6,
+Spokane,"Tue, Nov 3",57,41,2,52,5,
+Spokane,"Wed, Nov 4",57,41,1,51,4,
+Spokane,"Thu, Nov 5",55,41,1,52,46,0.01
+Spokane,"Fri, Nov 6",50,44,2,90,95,0.72
+Bellevue,"Fri, Oct 23",47,38,8,84,76,0.17
+Bellevue,"Sat, Oct 24",48,38,8,57,59,0.02
+Bellevue,"Sun, Oct 25",45,31,7,43,1,
+Bellevue,"Mon, Oct 26",46,31,5,57,4,
+Bellevue,"Tue, Oct 27",51,31,7,70,5,
+Bellevue,"Wed, Oct 28",54,46,5,87,56,0.04
+Bellevue,"Thu, Oct 29",55,49,0,84,62,0.02
+Bellevue,"Fri, Oct 30",55,50,3,87,64,0.14
+Bellevue,"Sat, Oct 31",57,48,2,68,6,
+Bellevue,"Sun, Nov 1",59,48,2,65,5,
+Bellevue,"Mon, Nov 2",59,47,2,59,5,
+Bellevue,"Tue, Nov 3",59,47,2,52,4,
+Bellevue,"Wed, Nov 4",60,47,3,49,4,
+Bellevue,"Thu, Nov 5",54,49,7,88,61,0.26
+Bellevue,"Fri, Nov 6",51,47,5,74,73,0.11
+Oroville,"Fri, Oct 23",39,31,4,77,80,0.37
+Oroville,"Sat, Oct 24",39,22,7,51,3,
+Oroville,"Sun, Oct 25",33,13,3,60,1,
+Oroville,"Mon, Oct 26",36,17,3,66,5,
+Oroville,"Tue, Oct 27",38,21,5,67,6,
+Oroville,"Wed, Oct 28",45,30,2,75,5,
+Oroville,"Thu, Oct 29",45,36,1,84,5,
+Oroville,"Fri, Oct 30",48,39,3,83,50,0.02
+Oroville,"Sat, Oct 31",46,33,1,69,6,
+Oroville,"Sun, Nov 1",49,40,3,82,6,
+Oroville,"Mon, Nov 2",49,39,2,74,6,
+Oroville,"Tue, Nov 3",49,37,2,74,5,
+Oroville,"Wed, Nov 4",49,37,2,70,5,
+Oroville,"Thu, Nov 5",49,39,4,72,6,
+Oroville,"Fri, Nov 6",51,41,2,82,65,0.06
+Stevenson,"Fri, Oct 23",54,37,8,74,68,0.16
+Stevenson,"Sat, Oct 24",53,36,11,57,63,0.18
+Stevenson,"Sun, Oct 25",41,31,14,29,0,
+Stevenson,"Mon, Oct 26",50,27,4,41,2,
+Stevenson,"Tue, Oct 27",57,29,7,58,4,
+Stevenson,"Wed, Oct 28",57,41,5,81,6,
+Stevenson,"Thu, Oct 29",64,50,2,67,47,0.01
+Stevenson,"Fri, Oct 30",58,51,5,88,58,0.1
+Stevenson,"Sat, Oct 31",63,48,2,62,6,
+Stevenson,"Sun, Nov 1",63,47,2,60,5,
+Stevenson,"Mon, Nov 2",62,49,4,64,5,
+Stevenson,"Tue, Nov 3",62,47,4,55,5,
+Stevenson,"Wed, Nov 4",58,47,2,57,3,
+Stevenson,"Thu, Nov 5",54,48,4,72,66,0.13
+Stevenson,"Fri, Nov 6",51,45,4,95,94,0.79
+Bellingham,"Fri, Oct 23",44,40,7,81,77,0.21
+Bellingham,"Sat, Oct 24",47,33,10,40,1,
+Bellingham,"Sun, Oct 25",46,27,6,39,1,
+Bellingham,"Mon, Oct 26",48,33,5,55,4,
+Bellingham,"Tue, Oct 27",49,36,6,78,64,0.03
+Bellingham,"Wed, Oct 28",53,44,5,81,66,0.19
+Bellingham,"Thu, Oct 29",50,44,3,92,66,0.21
+Bellingham,"Fri, Oct 30",51,47,4,97,77,0.47
+Bellingham,"Sat, Oct 31",54,43,3,84,6,
+Bellingham,"Sun, Nov 1",54,43,2,82,6,
+Bellingham,"Mon, Nov 2",54,43,2,81,6,
+Bellingham,"Tue, Nov 3",57,46,2,73,5,
+Bellingham,"Wed, Nov 4",56,46,1,78,6,
+Bellingham,"Thu, Nov 5",54,51,9,92,91,0.67
+Bellingham,"Fri, Nov 6",50,45,7,88,71,0.09
+Pasco,"Fri, Oct 23",46,26,7,57,60,0.06
+Pasco,"Sat, Oct 24",45,31,13,36,58,0.03
+Pasco,"Sun, Oct 25",40,17,8,30,0,
+Pasco,"Mon, Oct 26",40,15,5,44,2,
+Pasco,"Tue, Oct 27",46,19,6,47,2,
+Pasco,"Wed, Oct 28",62,27,7,61,6,
+Pasco,"Thu, Oct 29",58,40,5,52,6,
+Pasco,"Fri, Oct 30",60,41,5,52,6,
+Pasco,"Sat, Oct 31",62,43,3,48,6,
+Pasco,"Sun, Nov 1",60,41,2,46,3,
+Pasco,"Mon, Nov 2",61,43,3,43,5,
+Pasco,"Tue, Nov 3",61,39,5,42,5,
+Pasco,"Wed, Nov 4",60,39,2,45,3,
+Pasco,"Thu, Nov 5",61,41,4,39,6,
+Pasco,"Fri, Nov 6",51,43,5,86,84,0.45
+Tacoma,"Fri, Oct 23",48,37,10,89,82,0.3
+Tacoma,"Sat, Oct 24",47,38,12,58,60,0.02
+Tacoma,"Sun, Oct 25",46,32,8,39,1,
+Tacoma,"Mon, Oct 26",48,30,5,55,2,
+Tacoma,"Tue, Oct 27",51,30,7,74,6,
+Tacoma,"Wed, Oct 28",54,47,7,96,5,
+Tacoma,"Thu, Oct 29",59,47,1,76,48,0.0
+Tacoma,"Fri, Oct 30",59,49,4,80,69,0.23
+Tacoma,"Sat, Oct 31",61,46,1,66,6,
+Tacoma,"Sun, Nov 1",60,45,1,65,5,
+Tacoma,"Mon, Nov 2",60,44,1,63,5,
+Tacoma,"Tue, Nov 3",61,43,2,54,4,
+Tacoma,"Wed, Nov 4",59,43,2,53,4,
+Tacoma,"Thu, Nov 5",55,50,3,90,82,0.31
+Tacoma,"Fri, Nov 6",52,46,4,78,73,0.11
+Olympia,"Fri, Oct 23",48,35,11,94,81,0.28
+Olympia,"Sat, Oct 24",49,36,10,57,49,0.02
+Olympia,"Sun, Oct 25",47,27,7,38,1,
+Olympia,"Mon, Oct 26",49,25,5,57,2,
+Olympia,"Tue, Oct 27",50,25,7,77,6,
+Olympia,"Wed, Oct 28",56,47,8,91,6,
+Olympia,"Thu, Oct 29",59,48,2,83,5,
+Olympia,"Fri, Oct 30",61,49,5,78,54,0.12
+Olympia,"Sat, Oct 31",60,46,1,66,40,0.0
+Olympia,"Sun, Nov 1",61,44,1,67,5,
+Olympia,"Mon, Nov 2",61,42,1,57,5,
+Olympia,"Tue, Nov 3",62,41,2,60,4,
+Olympia,"Wed, Nov 4",61,42,3,57,4,
+Olympia,"Thu, Nov 5",54,49,7,92,72,0.25
+Olympia,"Fri, Nov 6",51,44,4,84,73,0.08
+Bothell,"Fri, Oct 23",47,38,8,86,78,0.14
+Bothell,"Sat, Oct 24",49,36,7,58,53,0.0
+Bothell,"Sun, Oct 25",46,29,6,44,1,
+Bothell,"Mon, Oct 26",46,30,5,61,4,
+Bothell,"Tue, Oct 27",52,30,6,72,6,
+Bothell,"Wed, Oct 28",54,45,6,89,66,0.07
+Bothell,"Thu, Oct 29",58,50,0,87,63,0.02
+Bothell,"Fri, Oct 30",57,51,3,93,57,0.11
+Bothell,"Sat, Oct 31",61,47,3,73,6,
+Bothell,"Sun, Nov 1",62,47,2,70,5,
+Bothell,"Mon, Nov 2",62,45,2,61,5,
+Bothell,"Tue, Nov 3",62,46,1,55,4,
+Bothell,"Wed, Nov 4",61,46,2,52,5,
+Bothell,"Thu, Nov 5",57,51,9,88,72,0.19
+Bothell,"Fri, Nov 6",53,47,5,78,73,0.09
+Port Angeles,"Fri, Oct 23",48,43,7,88,83,0.42
+Port Angeles,"Sat, Oct 24",44,37,8,52,4,
+Port Angeles,"Sun, Oct 25",41,33,6,55,1,
+Port Angeles,"Mon, Oct 26",46,36,6,71,5,
+Port Angeles,"Tue, Oct 27",53,40,5,79,65,0.03
+Port Angeles,"Wed, Oct 28",56,47,8,82,75,0.16
+Port Angeles,"Thu, Oct 29",49,45,5,94,64,0.11
+Port Angeles,"Fri, Oct 30",49,45,4,95,65,0.22
+Port Angeles,"Sat, Oct 31",49,45,3,86,6,
+Port Angeles,"Sun, Nov 1",49,44,5,79,6,
+Port Angeles,"Mon, Nov 2",49,46,2,82,6,
+Port Angeles,"Tue, Nov 3",52,47,4,76,5,
+Port Angeles,"Wed, Nov 4",53,47,1,79,6,
+Port Angeles,"Thu, Nov 5",50,48,7,95,71,0.34
+Port Angeles,"Fri, Nov 6",49,45,4,82,70,0.15
+Vancouver,"Fri, Oct 23",53,34,6,67,66,0.07
+Vancouver,"Sat, Oct 24",53,40,10,49,44,0.0
+Vancouver,"Sun, Oct 25",46,33,12,26,0,
+Vancouver,"Mon, Oct 26",49,25,6,46,1,
+Vancouver,"Tue, Oct 27",52,31,3,59,4,
+Vancouver,"Wed, Oct 28",52,39,3,73,6,
+Vancouver,"Thu, Oct 29",65,49,4,63,6,
+Vancouver,"Fri, Oct 30",61,53,2,70,62,0.12
+Vancouver,"Sat, Oct 31",62,50,3,63,6,
+Vancouver,"Sun, Nov 1",63,46,1,52,5,
+Vancouver,"Mon, Nov 2",63,49,1,58,5,
+Vancouver,"Tue, Nov 3",63,48,3,50,5,
+Vancouver,"Wed, Nov 4",63,48,1,45,3,
+Vancouver,"Thu, Nov 5",59,50,2,71,73,0.24
+Vancouver,"Fri, Nov 6",52,47,2,89,93,1.09
+Centralia,"Fri, Oct 23",48,35,10,89,74,0.23
+Centralia,"Sat, Oct 24",49,33,8,65,41,0.01
+Centralia,"Sun, Oct 25",46,25,7,41,0,
+Centralia,"Mon, Oct 26",49,25,5,58,1,
+Centralia,"Tue, Oct 27",52,28,5,78,6,
+Centralia,"Wed, Oct 28",53,47,6,91,6,
+Centralia,"Thu, Oct 29",62,48,2,76,7,
+Centralia,"Fri, Oct 30",59,49,3,81,64,0.11
+Centralia,"Sat, Oct 31",59,47,2,74,6,
+Centralia,"Sun, Nov 1",61,44,1,64,4,
+Centralia,"Mon, Nov 2",61,41,1,59,5,
+Centralia,"Tue, Nov 3",60,41,2,60,5,
+Centralia,"Wed, Nov 4",60,42,2,58,4,
+Centralia,"Thu, Nov 5",53,48,7,93,70,0.27
+Centralia,"Fri, Nov 6",50,42,4,90,76,0.16
+Port Townsend,"Fri, Oct 23",48,45,13,80,78,0.24
+Port Townsend,"Sat, Oct 24",47,41,12,48,4,
+Port Townsend,"Sun, Oct 25",43,35,7,49,1,
+Port Townsend,"Mon, Oct 26",47,37,5,56,5,
+Port Townsend,"Tue, Oct 27",55,38,12,62,60,0.0
+Port Townsend,"Wed, Oct 28",55,47,7,82,72,0.23
+Port Townsend,"Thu, Oct 29",53,46,2,91,67,0.09
+Port Townsend,"Fri, Oct 30",52,47,4,96,65,0.18
+Port Townsend,"Sat, Oct 31",54,44,3,86,6,
+Port Townsend,"Sun, Nov 1",53,43,3,85,6,
+Port Townsend,"Mon, Nov 2",53,43,4,74,6,
+Port Townsend,"Tue, Nov 3",56,44,2,72,4,
+Port Townsend,"Wed, Nov 4",58,44,4,73,6,
+Port Townsend,"Thu, Nov 5",56,49,6,91,65,0.1
+Port Townsend,"Fri, Nov 6",50,43,2,87,67,0.09
+Vashon,"Fri, Oct 23",48,41,9,85,74,0.21
+Vashon,"Sat, Oct 24",49,40,12,53,54,0.02
+Vashon,"Sun, Oct 25",46,34,8,41,1,
+Vashon,"Mon, Oct 26",48,33,6,56,3,
+Vashon,"Tue, Oct 27",53,33,7,69,6,
+Vashon,"Wed, Oct 28",54,48,6,89,55,0.03
+Vashon,"Thu, Oct 29",60,50,1,82,51,0.01
+Vashon,"Fri, Oct 30",60,52,4,84,55,0.11
+Vashon,"Sat, Oct 31",62,47,1,65,6,
+Vashon,"Sun, Nov 1",63,48,1,69,5,
+Vashon,"Mon, Nov 2",63,47,1,62,5,
+Vashon,"Tue, Nov 3",63,47,2,55,4,
+Vashon,"Wed, Nov 4",60,48,3,56,5,
+Vashon,"Thu, Nov 5",57,51,7,90,72,0.28
+Vashon,"Fri, Nov 6",53,47,6,76,74,0.09
+Ellensburg,"Fri, Oct 23",43,26,7,61,70,0.24
+Ellensburg,"Sat, Oct 24",42,26,9,45,53,0.06
+Ellensburg,"Sun, Oct 25",37,17,5,39,1,
+Ellensburg,"Mon, Oct 26",39,15,4,55,3,
+Ellensburg,"Tue, Oct 27",55,19,10,57,5,
+Ellensburg,"Wed, Oct 28",60,44,9,64,66,0.05
+Ellensburg,"Thu, Oct 29",57,43,3,64,5,
+Ellensburg,"Fri, Oct 30",60,42,9,59,52,0.01
+Ellensburg,"Sat, Oct 31",57,38,1,60,6,
+Ellensburg,"Sun, Nov 1",54,39,1,61,5,
+Ellensburg,"Mon, Nov 2",54,38,2,36,5,
+Ellensburg,"Tue, Nov 3",56,39,3,44,4,
+Ellensburg,"Wed, Nov 4",55,39,2,49,4,
+Ellensburg,"Thu, Nov 5",56,40,2,53,57,0.01
+Ellensburg,"Fri, Nov 6",50,39,12,63,70,0.04
+Pullman,"Fri, Oct 23",39,28,10,74,89,0.62
+Pullman,"Sat, Oct 24",36,20,8,63,51,0.02
+Pullman,"Sun, Oct 25",28,14,6,56,1,
+Pullman,"Mon, Oct 26",30,14,5,71,4,
+Pullman,"Tue, Oct 27",37,21,5,76,3,
+Pullman,"Wed, Oct 28",45,29,5,85,6,
+Pullman,"Thu, Oct 29",53,42,6,85,55,0.01
+Pullman,"Fri, Oct 30",54,42,4,69,5,
+Pullman,"Sat, Oct 31",57,43,3,64,6,
+Pullman,"Sun, Nov 1",57,42,9,58,4,
+Pullman,"Mon, Nov 2",55,43,3,47,6,
+Pullman,"Tue, Nov 3",56,41,6,49,5,
+Pullman,"Wed, Nov 4",56,42,3,43,4,
+Pullman,"Thu, Nov 5",54,43,5,43,5,
+Pullman,"Fri, Nov 6",54,42,6,89,81,0.44
+Walla Walla,"Fri, Oct 23",48,31,7,56,70,0.22
+Walla Walla,"Sat, Oct 24",42,29,9,55,63,0.12
+Walla Walla,"Sun, Oct 25",36,21,6,47,1,
+Walla Walla,"Mon, Oct 26",39,20,5,59,2,
+Walla Walla,"Tue, Oct 27",46,24,5,61,2,
+Walla Walla,"Wed, Oct 28",60,38,8,65,5,
+Walla Walla,"Thu, Oct 29",55,41,5,58,6,
+Walla Walla,"Fri, Oct 30",60,39,5,54,6,
+Walla Walla,"Sat, Oct 31",58,44,3,57,6,
+Walla Walla,"Sun, Nov 1",55,43,3,48,3,
+Walla Walla,"Mon, Nov 2",59,46,3,44,5,
+Walla Walla,"Tue, Nov 3",56,45,4,43,5,
+Walla Walla,"Wed, Nov 4",54,45,3,50,3,
+Walla Walla,"Thu, Nov 5",58,43,3,38,6,
+Walla Walla,"Fri, Nov 6",52,45,5,87,80,0.43
+Ephrata,"Fri, Oct 23",39,28,8,70,66,0.15
+Ephrata,"Sat, Oct 24",42,28,12,34,5,
+Ephrata,"Sun, Oct 25",38,19,7,33,1,
+Ephrata,"Mon, Oct 26",38,16,4,41,3,
+Ephrata,"Tue, Oct 27",42,18,6,43,3,
+Ephrata,"Wed, Oct 28",53,27,9,58,6,
+Ephrata,"Thu, Oct 29",53,37,6,58,5,
+Ephrata,"Fri, Oct 30",57,41,4,58,6,
+Ephrata,"Sat, Oct 31",54,39,3,54,6,
+Ephrata,"Sun, Nov 1",56,41,1,62,6,
+Ephrata,"Mon, Nov 2",56,39,2,52,5,
+Ephrata,"Tue, Nov 3",56,40,5,49,4,
+Ephrata,"Wed, Nov 4",56,40,1,54,4,
+Ephrata,"Thu, Nov 5",55,38,3,54,6,
+Ephrata,"Fri, Nov 6",52,39,6,85,54,0.04
+Puyallup,"Fri, Oct 23",51,36,9,88,83,0.36
+Puyallup,"Sat, Oct 24",51,36,9,55,63,0.06
+Puyallup,"Sun, Oct 25",49,28,7,37,1,
+Puyallup,"Mon, Oct 26",49,27,5,59,3,
+Puyallup,"Tue, Oct 27",53,28,6,78,6,
+Puyallup,"Wed, Oct 28",58,50,7,93,5,
+Puyallup,"Thu, Oct 29",62,50,2,73,48,0.01
+Puyallup,"Fri, Oct 30",59,52,5,88,78,0.37
+Puyallup,"Sat, Oct 31",62,48,2,69,41,0.02
+Puyallup,"Sun, Nov 1",63,48,1,62,5,
+Puyallup,"Mon, Nov 2",63,47,1,67,6,
+Puyallup,"Tue, Nov 3",62,45,2,57,4,
+Puyallup,"Wed, Nov 4",61,46,2,54,4,
+Puyallup,"Thu, Nov 5",56,50,2,91,72,0.26
+Puyallup,"Fri, Nov 6",53,46,3,86,75,0.21
+Wenatchee,"Fri, Oct 23",38,32,6,75,85,0.63
+Wenatchee,"Sat, Oct 24",41,29,6,51,51,0.02
+Wenatchee,"Sun, Oct 25",34,20,5,46,1,
+Wenatchee,"Mon, Oct 26",36,22,6,64,4,
+Wenatchee,"Tue, Oct 27",44,23,6,67,6,
+Wenatchee,"Wed, Oct 28",54,39,6,65,61,0.07
+Wenatchee,"Thu, Oct 29",50,40,3,82,52,0.01
+Wenatchee,"Fri, Oct 30",57,43,3,71,52,0.02
+Wenatchee,"Sat, Oct 31",55,40,2,64,5,
+Wenatchee,"Sun, Nov 1",54,40,1,65,5,
+Wenatchee,"Mon, Nov 2",54,40,1,48,5,
+Wenatchee,"Tue, Nov 3",53,41,2,54,3,
+Wenatchee,"Wed, Nov 4",53,41,1,59,4,
+Wenatchee,"Thu, Nov 5",55,44,2,64,51,0.03
+Wenatchee,"Fri, Nov 6",52,41,5,59,51,0.04
+Everett,"Fri, Oct 23",46,38,9,87,79,0.2
+Everett,"Sat, Oct 24",48,35,6,59,5,
+Everett,"Sun, Oct 25",46,28,6,47,1,
+Everett,"Mon, Oct 26",45,31,5,63,4,
+Everett,"Tue, Oct 27",51,33,7,72,51,0.0
+Everett,"Wed, Oct 28",54,47,6,87,80,0.28
+Everett,"Thu, Oct 29",58,50,1,87,62,0.04
+Everett,"Fri, Oct 30",56,50,2,97,64,0.2
+Everett,"Sat, Oct 31",62,48,2,74,6,
+Everett,"Sun, Nov 1",61,46,2,71,6,
+Everett,"Mon, Nov 2",61,45,1,63,6,
+Everett,"Tue, Nov 3",62,45,2,56,4,
+Everett,"Wed, Nov 4",61,46,3,54,5,
+Everett,"Thu, Nov 5",58,51,10,84,71,0.15
+Everett,"Fri, Nov 6",53,46,5,81,78,0.12
+Redmond,"Fri, Oct 23",47,38,7,86,76,0.17
+Redmond,"Sat, Oct 24",49,35,7,59,55,0.02
+Redmond,"Sun, Oct 25",46,29,6,44,1,
+Redmond,"Mon, Oct 26",46,30,5,61,4,
+Redmond,"Tue, Oct 27",52,30,6,73,5,
+Redmond,"Wed, Oct 28",54,46,5,91,61,0.06
+Redmond,"Thu, Oct 29",58,49,0,87,62,0.02
+Redmond,"Fri, Oct 30",57,51,2,92,63,0.14
+Redmond,"Sat, Oct 31",61,48,2,71,6,
+Redmond,"Sun, Nov 1",62,47,2,65,5,
+Redmond,"Mon, Nov 2",62,45,2,62,5,
+Redmond,"Tue, Nov 3",62,45,2,55,4,
+Redmond,"Wed, Nov 4",60,46,2,52,5,
+Redmond,"Thu, Nov 5",57,50,6,90,65,0.24
+Redmond,"Fri, Nov 6",53,47,4,81,77,0.13
+Woodinville,"Fri, Oct 23",47,38,8,86,78,0.14
+Woodinville,"Sat, Oct 24",49,36,7,58,53,0.0
+Woodinville,"Sun, Oct 25",46,29,6,44,1,
+Woodinville,"Mon, Oct 26",46,30,5,61,4,
+Woodinville,"Tue, Oct 27",52,30,6,72,6,
+Woodinville,"Wed, Oct 28",54,45,6,89,66,0.07
+Woodinville,"Thu, Oct 29",58,50,0,87,63,0.02
+Woodinville,"Fri, Oct 30",57,51,3,93,57,0.11
+Woodinville,"Sat, Oct 31",61,47,3,73,6,
+Woodinville,"Sun, Nov 1",62,47,2,70,5,
+Woodinville,"Mon, Nov 2",62,45,2,61,5,
+Woodinville,"Tue, Nov 3",62,46,1,55,4,
+Woodinville,"Wed, Nov 4",61,46,2,52,5,
+Woodinville,"Thu, Nov 5",57,51,9,88,72,0.19
+Woodinville,"Fri, Nov 6",53,47,5,78,73,0.09
+Oak Harbor,"Fri, Oct 23",49,46,13,78,87,0.32
+Oak Harbor,"Sat, Oct 24",50,39,10,45,3,
+Oak Harbor,"Sun, Oct 25",46,33,8,44,1,
+Oak Harbor,"Mon, Oct 26",48,37,5,55,4,
+Oak Harbor,"Tue, Oct 27",54,41,15,65,65,0.02
+Oak Harbor,"Wed, Oct 28",55,46,6,83,80,0.43
+Oak Harbor,"Thu, Oct 29",52,48,3,91,71,0.13
+Oak Harbor,"Fri, Oct 30",52,48,7,93,64,0.23
+Oak Harbor,"Sat, Oct 31",52,47,3,89,6,
+Oak Harbor,"Sun, Nov 1",51,46,4,89,6,
+Oak Harbor,"Mon, Nov 2",51,47,3,80,6,
+Oak Harbor,"Tue, Nov 3",53,47,2,75,4,
+Oak Harbor,"Wed, Nov 4",54,47,4,76,6,
+Oak Harbor,"Thu, Nov 5",55,48,13,89,62,0.18
+Oak Harbor,"Fri, Nov 6",51,46,5,83,65,0.07
+Seattle,"Fri, Oct 23",48,40,9,82,76,0.15
+Seattle,"Sat, Oct 24",48,39,10,53,55,0.0
+Seattle,"Sun, Oct 25",45,33,7,41,1,
+Seattle,"Mon, Oct 26",47,31,6,57,3,
+Seattle,"Tue, Oct 27",52,32,7,69,6,
+Seattle,"Wed, Oct 28",54,47,6,86,54,0.04
+Seattle,"Thu, Oct 29",59,50,1,83,58,0.02
+Seattle,"Fri, Oct 30",58,52,4,87,57,0.11
+Seattle,"Sat, Oct 31",62,47,2,68,6,
+Seattle,"Sun, Nov 1",62,48,1,70,5,
+Seattle,"Mon, Nov 2",62,47,1,60,5,
+Seattle,"Tue, Nov 3",63,47,2,54,4,
+Seattle,"Wed, Nov 4",60,47,3,53,5,
+Seattle,"Thu, Nov 5",57,51,9,88,61,0.23
+Seattle,"Fri, Nov 6",53,48,6,73,73,0.08
+Yakima,"Fri, Oct 23",47,27,9,48,60,0.06
+Yakima,"Sat, Oct 24",43,30,10,33,59,0.03
+Yakima,"Sun, Oct 25",40,21,7,27,1,
+Yakima,"Mon, Oct 26",41,16,7,34,3,
+Yakima,"Tue, Oct 27",46,21,5,43,3,
+Yakima,"Wed, Oct 28",53,35,5,70,6,
+Yakima,"Thu, Oct 29",60,41,1,57,6,
+Yakima,"Fri, Oct 30",60,44,1,53,6,
+Yakima,"Sat, Oct 31",60,42,2,52,6,
+Yakima,"Sun, Nov 1",60,39,1,52,5,
+Yakima,"Mon, Nov 2",59,40,1,38,6,
+Yakima,"Tue, Nov 3",60,40,1,39,4,
+Yakima,"Wed, Nov 4",59,40,1,42,3,
+Yakima,"Thu, Nov 5",56,40,1,44,6,
+Yakima,"Fri, Nov 6",52,44,2,82,63,0.15
+Okanogan,"Fri, Oct 23",37,29,7,78,73,0.09
+Okanogan,"Sat, Oct 24",41,26,12,50,3,
+Okanogan,"Sun, Oct 25",34,15,6,50,1,
+Okanogan,"Mon, Oct 26",34,15,7,66,5,
+Okanogan,"Tue, Oct 27",37,18,8,66,6,
+Okanogan,"Wed, Oct 28",47,27,7,69,5,
+Okanogan,"Thu, Oct 29",47,35,1,70,5,
+Okanogan,"Fri, Oct 30",53,40,3,68,5,
+Okanogan,"Sat, Oct 31",50,33,3,59,6,
+Okanogan,"Sun, Nov 1",52,38,4,73,6,
+Okanogan,"Mon, Nov 2",52,36,1,64,6,
+Okanogan,"Tue, Nov 3",50,34,1,66,4,
+Okanogan,"Wed, Nov 4",50,34,2,64,4,
+Okanogan,"Thu, Nov 5",51,36,4,65,6,
+Okanogan,"Fri, Nov 6",50,41,2,76,55,0.05
+Shelton,"Fri, Oct 23",50,36,8,95,83,0.33
+Shelton,"Sat, Oct 24",51,35,10,47,42,0.0
+Shelton,"Sun, Oct 25",48,28,7,35,1,
+Shelton,"Mon, Oct 26",51,25,3,54,2,
+Shelton,"Tue, Oct 27",52,27,7,74,42,0.0
+Shelton,"Wed, Oct 28",57,47,9,92,54,0.04
+Shelton,"Thu, Oct 29",58,48,1,82,65,0.03
+Shelton,"Fri, Oct 30",59,51,7,77,64,0.1
+Shelton,"Sat, Oct 31",60,49,1,65,48,0.02
+Shelton,"Sun, Nov 1",61,46,1,71,5,
+Shelton,"Mon, Nov 2",61,43,1,61,5,
+Shelton,"Tue, Nov 3",62,43,2,60,4,
+Shelton,"Wed, Nov 4",61,44,3,63,5,
+Shelton,"Thu, Nov 5",53,49,4,96,75,0.33
+Shelton,"Fri, Nov 6",50,46,4,80,78,0.2

@@ -1,1 +1,136 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Altus,"Fri, Oct 23",56,41,17,44,82,0.05
+Altus,"Sat, Oct 24",61,33,10,39,1,
+Altus,"Sun, Oct 25",72,43,16,48,44,0.02
+Altus,"Mon, Oct 26",40,28,22,64,52,0.06
+Altus,"Tue, Oct 27",36,26,10,66,65,0.29
+Altus,"Wed, Oct 28",47,31,4,70,87,0.32
+Altus,"Thu, Oct 29",61,30,9,52,3,
+Altus,"Fri, Oct 30",63,35,4,50,4,
+Altus,"Sat, Oct 31",69,41,15,44,3,
+Altus,"Sun, Nov 1",66,44,13,42,4,
+Altus,"Mon, Nov 2",66,45,12,46,5,
+Altus,"Tue, Nov 3",67,46,3,43,5,
+Altus,"Wed, Nov 4",68,46,6,50,5,
+Altus,"Thu, Nov 5",69,46,15,38,4,
+Altus,"Fri, Nov 6",74,50,13,52,82,0.09
+Guthrie,"Fri, Oct 23",50,38,9,60,6,
+Guthrie,"Sat, Oct 24",56,32,8,50,1,
+Guthrie,"Sun, Oct 25",58,42,7,78,58,0.05
+Guthrie,"Mon, Oct 26",40,27,11,83,74,0.09
+Guthrie,"Tue, Oct 27",36,24,6,75,59,0.1
+Guthrie,"Wed, Oct 28",50,29,6,65,71,0.19
+Guthrie,"Thu, Oct 29",55,34,12,65,5,
+Guthrie,"Fri, Oct 30",62,38,6,47,3,
+Guthrie,"Sat, Oct 31",67,43,16,48,3,
+Guthrie,"Sun, Nov 1",64,45,12,40,4,
+Guthrie,"Mon, Nov 2",64,47,11,36,4,
+Guthrie,"Tue, Nov 3",65,47,7,45,5,
+Guthrie,"Wed, Nov 4",66,48,8,34,3,
+Guthrie,"Thu, Nov 5",67,50,17,50,4,
+Guthrie,"Fri, Nov 6",70,52,13,56,48,0.04
+Oklahoma City,"Fri, Oct 23",56,42,17,61,67,0.33
+Oklahoma City,"Sat, Oct 24",56,35,7,50,1,
+Oklahoma City,"Sun, Oct 25",61,45,10,74,54,0.04
+Oklahoma City,"Mon, Oct 26",42,28,22,82,73,0.3
+Oklahoma City,"Tue, Oct 27",36,26,10,78,56,0.24
+Oklahoma City,"Wed, Oct 28",47,30,5,77,89,0.37
+Oklahoma City,"Thu, Oct 29",54,32,11,68,5,
+Oklahoma City,"Fri, Oct 30",59,37,6,54,4,
+Oklahoma City,"Sat, Oct 31",64,43,16,51,3,
+Oklahoma City,"Sun, Nov 1",62,45,12,44,4,
+Oklahoma City,"Mon, Nov 2",63,46,11,37,4,
+Oklahoma City,"Tue, Nov 3",63,46,6,47,4,
+Oklahoma City,"Wed, Nov 4",64,47,7,38,3,
+Oklahoma City,"Thu, Nov 5",66,47,17,52,4,
+Oklahoma City,"Fri, Nov 6",71,49,14,59,40,0.03
+McAlester,"Fri, Oct 23",72,46,14,71,69,0.24
+McAlester,"Sat, Oct 24",55,42,6,67,5,
+McAlester,"Sun, Oct 25",64,51,7,75,58,0.11
+McAlester,"Mon, Oct 26",54,36,17,83,99,1.26
+McAlester,"Tue, Oct 27",40,34,11,80,80,0.36
+McAlester,"Wed, Oct 28",51,38,8,82,91,1.56
+McAlester,"Thu, Oct 29",59,41,8,70,60,0.06
+McAlester,"Fri, Oct 30",68,43,2,54,3,
+McAlester,"Sat, Oct 31",66,47,7,50,3,
+McAlester,"Sun, Nov 1",66,45,9,55,4,
+McAlester,"Mon, Nov 2",67,46,3,37,4,
+McAlester,"Tue, Nov 3",67,46,3,55,5,
+McAlester,"Wed, Nov 4",68,47,5,49,3,
+McAlester,"Thu, Nov 5",68,49,10,62,4,
+McAlester,"Fri, Nov 6",68,50,10,65,6,
+Stillwater,"Fri, Oct 23",53,40,15,56,55,0.13
+Stillwater,"Sat, Oct 24",56,34,8,47,1,
+Stillwater,"Sun, Oct 25",58,44,9,73,57,0.06
+Stillwater,"Mon, Oct 26",42,28,16,76,74,0.11
+Stillwater,"Tue, Oct 27",38,26,8,71,48,0.06
+Stillwater,"Wed, Oct 28",53,29,7,59,72,0.15
+Stillwater,"Thu, Oct 29",59,29,11,62,5,
+Stillwater,"Fri, Oct 30",63,35,6,44,3,
+Stillwater,"Sat, Oct 31",68,41,16,47,4,
+Stillwater,"Sun, Nov 1",65,43,12,39,5,
+Stillwater,"Mon, Nov 2",65,45,11,34,5,
+Stillwater,"Tue, Nov 3",66,45,7,45,5,
+Stillwater,"Wed, Nov 4",66,45,8,32,4,
+Stillwater,"Thu, Nov 5",68,47,17,50,4,
+Stillwater,"Fri, Nov 6",69,49,14,56,46,0.07
+Enid,"Fri, Oct 23",51,37,19,53,46,0.09
+Enid,"Sat, Oct 24",56,31,11,47,1,
+Enid,"Sun, Oct 25",56,39,12,77,55,0.07
+Enid,"Mon, Oct 26",37,24,20,81,74,0.05
+Enid,"Tue, Oct 27",36,22,8,76,43,0.01
+Enid,"Wed, Oct 28",45,24,6,85,64,0.05
+Enid,"Thu, Oct 29",52,30,9,84,5,
+Enid,"Fri, Oct 30",59,31,5,58,4,
+Enid,"Sat, Oct 31",66,37,16,52,4,
+Enid,"Sun, Nov 1",62,41,10,43,5,
+Enid,"Mon, Nov 2",62,43,12,46,4,
+Enid,"Tue, Nov 3",63,43,9,47,5,
+Enid,"Wed, Nov 4",64,44,7,39,4,
+Enid,"Thu, Nov 5",66,45,16,53,4,
+Enid,"Fri, Nov 6",67,50,11,58,50,0.04
+Noble,"Fri, Oct 23",62,41,18,64,92,0.04
+Noble,"Sat, Oct 24",56,35,6,54,1,
+Noble,"Sun, Oct 25",65,47,9,71,51,0.07
+Noble,"Mon, Oct 26",45,29,22,82,72,0.12
+Noble,"Tue, Oct 27",37,26,11,77,59,0.19
+Noble,"Wed, Oct 28",47,31,6,79,86,0.83
+Noble,"Thu, Oct 29",55,32,11,72,4,
+Noble,"Fri, Oct 30",60,38,6,55,4,
+Noble,"Sat, Oct 31",64,43,15,54,3,
+Noble,"Sun, Nov 1",63,45,13,43,4,
+Noble,"Mon, Nov 2",63,46,10,39,5,
+Noble,"Tue, Nov 3",64,46,5,49,5,
+Noble,"Wed, Nov 4",64,46,7,42,3,
+Noble,"Thu, Nov 5",66,47,16,56,4,
+Noble,"Fri, Nov 6",71,49,15,59,48,0.08
+Tulsa,"Fri, Oct 23",69,43,12,67,79,0.05
+Tulsa,"Sat, Oct 24",54,38,7,60,4,
+Tulsa,"Sun, Oct 25",58,48,8,79,55,0.06
+Tulsa,"Mon, Oct 26",46,31,13,80,75,0.29
+Tulsa,"Tue, Oct 27",38,28,8,79,57,0.07
+Tulsa,"Wed, Oct 28",50,34,6,76,74,0.39
+Tulsa,"Thu, Oct 29",55,36,10,67,4,
+Tulsa,"Fri, Oct 30",63,38,5,48,3,
+Tulsa,"Sat, Oct 31",66,45,13,44,3,
+Tulsa,"Sun, Nov 1",64,45,12,42,5,
+Tulsa,"Mon, Nov 2",64,46,7,34,4,
+Tulsa,"Tue, Nov 3",64,46,5,46,5,
+Tulsa,"Wed, Nov 4",65,47,6,31,3,
+Tulsa,"Thu, Nov 5",65,50,15,57,5,
+Tulsa,"Fri, Nov 6",67,50,13,57,49,0.05
+Atoka,"Fri, Oct 23",71,46,15,72,98,0.56
+Atoka,"Sat, Oct 24",57,42,5,64,4,
+Atoka,"Sun, Oct 25",67,50,8,76,59,0.06
+Atoka,"Mon, Oct 26",59,36,16,86,99,1.2
+Atoka,"Tue, Oct 27",42,35,11,81,80,0.56
+Atoka,"Wed, Oct 28",51,40,10,84,97,1.76
+Atoka,"Thu, Oct 29",61,40,11,58,60,0.11
+Atoka,"Fri, Oct 30",67,42,1,50,3,
+Atoka,"Sat, Oct 31",66,43,9,50,3,
+Atoka,"Sun, Nov 1",69,44,12,57,4,
+Atoka,"Mon, Nov 2",70,45,5,39,3,
+Atoka,"Tue, Nov 3",71,45,4,53,5,
+Atoka,"Wed, Nov 4",71,46,5,49,4,
+Atoka,"Thu, Nov 5",71,48,11,63,4,
+Atoka,"Fri, Nov 6",72,50,13,63,6,

@@ -1,1 +1,421 @@
 city,date,high_temp_faren,low_temp_faren,wind_mph,humidity_percent,precipitation_chance_percent,precipitation_amount_inches
+Adak,"Fri, Oct 23",46,42,19,83,83,0.13
+Adak,"Sat, Oct 24",47,40,13,80,61,0.06
+Adak,"Sun, Oct 25",43,36,5,78,39,0.01
+Adak,"Mon, Oct 26",47,37,9,81,6,
+Adak,"Tue, Oct 27",47,42,8,89,74,0.23
+Adak,"Wed, Oct 28",46,40,9,95,52,0.09
+Adak,"Thu, Oct 29",43,40,25,82,70,0.19
+Adak,"Fri, Oct 30",42,39,14,67,59,0.06
+Adak,"Sat, Oct 31",42,40,32,93,83,0.65
+Adak,"Sun, Nov 1",42,38,31,80,65,0.07
+Adak,"Mon, Nov 2",40,37,11,62,6,
+Adak,"Tue, Nov 3",41,37,21,77,7,
+Adak,"Wed, Nov 4",43,37,22,78,83,0.35
+Adak,"Thu, Nov 5",44,40,17,79,54,0.01
+Adak,"Fri, Nov 6",45,39,10,84,72,0.06
+Kaktovik,"Fri, Oct 23",31,14,9,96,46,
+Kaktovik,"Sat, Oct 24",28,14,10,88,6,
+Kaktovik,"Sun, Oct 25",24,11,5,87,65,
+Kaktovik,"Mon, Oct 26",12,6,7,90,3,
+Kaktovik,"Tue, Oct 27",23,8,24,87,62,
+Kaktovik,"Wed, Oct 28",22,15,18,80,62,
+Kaktovik,"Thu, Oct 29",15,6,15,89,71,
+Kaktovik,"Fri, Oct 30",12,3,13,91,49,
+Kaktovik,"Sat, Oct 31",8,4,10,94,59,
+Kaktovik,"Sun, Nov 1",4,-2,6,87,42,
+Kaktovik,"Mon, Nov 2",6,1,8,81,50,
+Kaktovik,"Tue, Nov 3",4,-2,4,67,5,
+Kaktovik,"Wed, Nov 4",17,-3,7,58,49,
+Kaktovik,"Thu, Nov 5",19,14,11,59,52,
+Kaktovik,"Fri, Nov 6",18,13,16,68,6,
+Kenai,"Fri, Oct 23",41,30,13,58,51,0.03
+Kenai,"Sat, Oct 24",46,36,12,67,66,0.04
+Kenai,"Sun, Oct 25",39,36,15,89,81,0.58
+Kenai,"Mon, Oct 26",42,34,11,81,84,0.36
+Kenai,"Tue, Oct 27",38,27,8,69,54,
+Kenai,"Wed, Oct 28",35,24,8,65,5,
+Kenai,"Thu, Oct 29",31,23,7,66,5,
+Kenai,"Fri, Oct 30",31,24,16,95,76,
+Kenai,"Sat, Oct 31",25,18,15,91,87,
+Kenai,"Sun, Nov 1",24,16,10,92,65,
+Kenai,"Mon, Nov 2",24,16,14,77,50,
+Kenai,"Tue, Nov 3",25,16,12,77,59,
+Kenai,"Wed, Nov 4",24,18,6,83,6,
+Kenai,"Thu, Nov 5",27,19,6,83,6,
+Kenai,"Fri, Nov 6",26,18,6,84,5,
+Anchorage,"Fri, Oct 23",38,29,9,50,4,
+Anchorage,"Sat, Oct 24",41,33,9,62,6,
+Anchorage,"Sun, Oct 25",38,35,9,86,61,0.09
+Anchorage,"Mon, Oct 26",39,32,6,82,80,0.51
+Anchorage,"Tue, Oct 27",34,25,5,68,6,
+Anchorage,"Wed, Oct 28",34,24,6,67,5,
+Anchorage,"Thu, Oct 29",25,21,5,71,6,
+Anchorage,"Fri, Oct 30",25,22,17,93,69,
+Anchorage,"Sat, Oct 31",23,19,24,94,76,
+Anchorage,"Sun, Nov 1",22,18,13,78,55,
+Anchorage,"Mon, Nov 2",22,17,14,81,54,
+Anchorage,"Tue, Nov 3",23,18,19,81,59,
+Anchorage,"Wed, Nov 4",24,19,4,83,6,
+Anchorage,"Thu, Nov 5",27,18,6,83,6,
+Anchorage,"Fri, Nov 6",27,18,5,88,6,
+Prudhoe Bay,"Fri, Oct 23",31,16,6,90,49,
+Prudhoe Bay,"Sat, Oct 24",26,16,8,85,54,
+Prudhoe Bay,"Sun, Oct 25",23,14,5,86,55,
+Prudhoe Bay,"Mon, Oct 26",13,7,5,85,3,
+Prudhoe Bay,"Tue, Oct 27",23,8,15,85,51,
+Prudhoe Bay,"Wed, Oct 28",22,16,20,82,52,
+Prudhoe Bay,"Thu, Oct 29",19,9,12,94,51,
+Prudhoe Bay,"Fri, Oct 30",12,5,9,94,60,
+Prudhoe Bay,"Sat, Oct 31",10,6,2,95,59,
+Prudhoe Bay,"Sun, Nov 1",4,-6,9,83,40,
+Prudhoe Bay,"Mon, Nov 2",7,2,9,96,60,
+Prudhoe Bay,"Tue, Nov 3",2,-2,5,70,5,
+Prudhoe Bay,"Wed, Nov 4",14,-1,18,93,51,
+Prudhoe Bay,"Thu, Nov 5",16,9,8,78,52,
+Prudhoe Bay,"Fri, Nov 6",15,12,22,69,45,
+Arctic Village,"Fri, Oct 23",10,1,6,83,1,
+Arctic Village,"Sat, Oct 24",9,0,3,87,6,
+Arctic Village,"Sun, Oct 25",9,-1,6,81,6,
+Arctic Village,"Mon, Oct 26",4,-6,7,76,3,
+Arctic Village,"Tue, Oct 27",9,-8,5,78,5,
+Arctic Village,"Wed, Oct 28",2,-8,5,75,6,
+Arctic Village,"Thu, Oct 29",-5,-11,4,81,6,
+Arctic Village,"Fri, Oct 30",-1,-10,7,72,6,
+Arctic Village,"Sat, Oct 31",-3,-7,8,82,6,
+Arctic Village,"Sun, Nov 1",-6,-12,4,70,6,
+Arctic Village,"Mon, Nov 2",-3,-11,2,53,5,
+Arctic Village,"Tue, Nov 3",0,-8,5,60,4,
+Arctic Village,"Wed, Nov 4",1,-8,3,65,6,
+Arctic Village,"Thu, Nov 5",5,-3,2,77,6,
+Arctic Village,"Fri, Nov 6",2,-5,2,100,58,
+Point Lay,"Fri, Oct 23",31,18,8,85,2,
+Point Lay,"Sat, Oct 24",29,22,6,89,45,
+Point Lay,"Sun, Oct 25",26,17,15,84,4,
+Point Lay,"Mon, Oct 26",30,14,9,74,51,
+Point Lay,"Tue, Oct 27",31,28,17,74,54,
+Point Lay,"Wed, Oct 28",31,28,20,74,72,
+Point Lay,"Thu, Oct 29",27,25,8,70,70,
+Point Lay,"Fri, Oct 30",26,14,8,78,58,
+Point Lay,"Sat, Oct 31",22,12,6,79,57,
+Point Lay,"Sun, Nov 1",26,15,9,73,57,
+Point Lay,"Mon, Nov 2",26,9,11,73,51,
+Point Lay,"Tue, Nov 3",24,9,13,77,57,
+Point Lay,"Wed, Nov 4",25,17,7,98,66,
+Point Lay,"Thu, Nov 5",25,19,14,79,45,
+Point Lay,"Fri, Nov 6",28,21,29,78,69,
+Ketchikan,"Fri, Oct 23",43,32,12,39,3,
+Ketchikan,"Sat, Oct 24",42,27,6,41,1,
+Ketchikan,"Sun, Oct 25",38,31,10,90,84,0.7
+Ketchikan,"Mon, Oct 26",52,42,11,98,99,2.59
+Ketchikan,"Tue, Oct 27",49,42,7,83,58,0.1
+Ketchikan,"Wed, Oct 28",47,39,7,86,44,0.04
+Ketchikan,"Thu, Oct 29",46,40,2,82,51,0.11
+Ketchikan,"Fri, Oct 30",45,39,5,82,62,0.24
+Ketchikan,"Sat, Oct 31",50,42,15,97,94,5.16
+Ketchikan,"Sun, Nov 1",48,39,9,80,63,0.18
+Ketchikan,"Mon, Nov 2",44,40,4,88,68,0.09
+Ketchikan,"Tue, Nov 3",49,41,8,96,99,1.99
+Ketchikan,"Wed, Nov 4",49,44,6,90,50,0.07
+Ketchikan,"Thu, Nov 5",49,44,3,89,6,
+Ketchikan,"Fri, Nov 6",50,38,5,79,6,
+Unalaska,"Fri, Oct 23",49,47,19,70,87,0.33
+Unalaska,"Sat, Oct 24",49,44,11,67,49,0.01
+Unalaska,"Sun, Oct 25",46,42,12,73,5,
+Unalaska,"Mon, Oct 26",46,42,6,69,47,0.02
+Unalaska,"Tue, Oct 27",46,40,9,74,44,0.02
+Unalaska,"Wed, Oct 28",49,43,9,75,76,0.42
+Unalaska,"Thu, Oct 29",45,42,13,98,96,1.52
+Unalaska,"Fri, Oct 30",44,39,40,66,74,0.54
+Unalaska,"Sat, Oct 31",40,37,5,61,46,0.03
+Unalaska,"Sun, Nov 1",41,39,36,93,60,0.26
+Unalaska,"Mon, Nov 2",40,37,24,69,49,0.08
+Unalaska,"Tue, Nov 3",43,38,16,78,17,0.04
+Unalaska,"Wed, Nov 4",43,39,8,75,60,0.04
+Unalaska,"Thu, Nov 5",44,40,5,76,51,0.04
+Unalaska,"Fri, Nov 6",43,40,7,74,48,0.02
+Atqasuk,"Fri, Oct 23",30,13,7,89,3,
+Atqasuk,"Sat, Oct 24",25,13,7,89,48,
+Atqasuk,"Sun, Oct 25",24,13,8,87,4,
+Atqasuk,"Mon, Oct 26",18,6,7,83,45,
+Atqasuk,"Tue, Oct 27",25,18,15,81,49,
+Atqasuk,"Wed, Oct 28",24,19,18,83,52,
+Atqasuk,"Thu, Oct 29",16,13,12,84,52,
+Atqasuk,"Fri, Oct 30",11,5,7,94,47,
+Atqasuk,"Sat, Oct 31",8,4,5,89,53,
+Atqasuk,"Sun, Nov 1",17,7,9,88,50,
+Atqasuk,"Mon, Nov 2",14,6,6,93,6,
+Atqasuk,"Tue, Nov 3",13,6,7,85,6,
+Atqasuk,"Wed, Nov 4",20,11,14,94,68,
+Atqasuk,"Thu, Nov 5",25,16,17,76,52,
+Atqasuk,"Fri, Nov 6",28,19,22,82,51,
+Kodiak,"Fri, Oct 23",49,44,23,86,99,1.14
+Kodiak,"Sat, Oct 24",49,42,6,77,6,
+Kodiak,"Sun, Oct 25",47,46,13,85,92,0.69
+Kodiak,"Mon, Oct 26",49,44,31,58,65,0.05
+Kodiak,"Tue, Oct 27",48,39,7,57,5,
+Kodiak,"Wed, Oct 28",42,32,8,60,44,0.01
+Kodiak,"Thu, Oct 29",43,38,4,77,63,0.16
+Kodiak,"Fri, Oct 30",47,40,14,84,77,0.5
+Kodiak,"Sat, Oct 31",38,31,46,55,57,0.16
+Kodiak,"Sun, Nov 1",38,32,14,48,4,
+Kodiak,"Mon, Nov 2",38,31,26,83,50,0.03
+Kodiak,"Tue, Nov 3",35,31,16,59,5,
+Kodiak,"Wed, Nov 4",37,31,12,64,6,
+Kodiak,"Thu, Nov 5",41,35,4,65,6,
+Kodiak,"Fri, Nov 6",41,35,6,69,3,
+Talkeetna,"Fri, Oct 23",34,21,7,37,3,
+Talkeetna,"Sat, Oct 24",36,28,6,65,58,0.0
+Talkeetna,"Sun, Oct 25",35,31,7,77,64,
+Talkeetna,"Mon, Oct 26",40,32,6,72,68,0.04
+Talkeetna,"Tue, Oct 27",31,21,4,60,5,
+Talkeetna,"Wed, Oct 28",33,19,7,50,5,
+Talkeetna,"Thu, Oct 29",27,18,4,50,6,
+Talkeetna,"Fri, Oct 30",24,18,12,87,76,
+Talkeetna,"Sat, Oct 31",20,12,14,64,67,
+Talkeetna,"Sun, Nov 1",18,11,11,62,50,
+Talkeetna,"Mon, Nov 2",22,11,9,67,50,
+Talkeetna,"Tue, Nov 3",22,14,12,66,42,
+Talkeetna,"Wed, Nov 4",25,14,5,70,6,
+Talkeetna,"Thu, Nov 5",25,14,2,72,6,
+Talkeetna,"Fri, Nov 6",25,17,2,81,6,
+Kotzebue,"Fri, Oct 23",29,27,19,66,64,
+Kotzebue,"Sat, Oct 24",29,27,15,80,64,
+Kotzebue,"Sun, Oct 25",29,25,8,83,43,
+Kotzebue,"Mon, Oct 26",29,24,13,76,6,
+Kotzebue,"Tue, Oct 27",32,26,14,75,49,
+Kotzebue,"Wed, Oct 28",29,26,6,79,48,
+Kotzebue,"Thu, Oct 29",28,21,7,86,59,
+Kotzebue,"Fri, Oct 30",25,20,13,72,6,
+Kotzebue,"Sat, Oct 31",22,14,16,72,55,
+Kotzebue,"Sun, Nov 1",25,14,15,72,6,
+Kotzebue,"Mon, Nov 2",24,15,26,98,59,
+Kotzebue,"Tue, Nov 3",23,15,21,95,57,
+Kotzebue,"Wed, Nov 4",25,21,20,96,90,
+Kotzebue,"Thu, Nov 5",24,22,30,93,80,
+Kotzebue,"Fri, Nov 6",26,22,23,91,74,
+Bethel,"Fri, Oct 23",46,36,11,77,78,0.15
+Bethel,"Sat, Oct 24",46,40,10,88,82,0.21
+Bethel,"Sun, Oct 25",42,35,8,86,6,
+Bethel,"Mon, Oct 26",38,34,14,84,57,0.02
+Bethel,"Tue, Oct 27",36,31,7,80,39,
+Bethel,"Wed, Oct 28",34,25,7,80,6,
+Bethel,"Thu, Oct 29",30,23,14,67,6,
+Bethel,"Fri, Oct 30",28,19,29,46,5,
+Bethel,"Sat, Oct 31",29,24,16,65,6,
+Bethel,"Sun, Nov 1",23,18,12,50,6,
+Bethel,"Mon, Nov 2",25,18,4,75,38,
+Bethel,"Tue, Nov 3",28,19,10,61,6,
+Bethel,"Wed, Nov 4",33,22,11,76,6,
+Bethel,"Thu, Nov 5",32,22,20,82,50,
+Bethel,"Fri, Nov 6",32,23,20,89,6,
+Sitka,"Fri, Oct 23",41,34,11,40,0,
+Sitka,"Sat, Oct 24",43,35,6,44,3,
+Sitka,"Sun, Oct 25",45,38,13,83,84,1.16
+Sitka,"Mon, Oct 26",51,45,17,88,99,3.09
+Sitka,"Tue, Oct 27",47,44,13,81,75,0.28
+Sitka,"Wed, Oct 28",47,43,9,78,74,0.23
+Sitka,"Thu, Oct 29",45,41,3,85,70,0.13
+Sitka,"Fri, Oct 30",48,41,11,95,91,1.76
+Sitka,"Sat, Oct 31",50,44,15,88,99,2.05
+Sitka,"Sun, Nov 1",43,38,19,87,65,0.5
+Sitka,"Mon, Nov 2",45,41,6,91,92,0.73
+Sitka,"Tue, Nov 3",46,42,5,95,95,1.08
+Sitka,"Wed, Nov 4",47,44,3,88,60,0.26
+Sitka,"Thu, Nov 5",48,44,5,82,55,0.05
+Sitka,"Fri, Nov 6",44,39,3,73,6,
+Fairbanks,"Fri, Oct 23",23,8,6,59,2,
+Fairbanks,"Sat, Oct 24",29,17,5,65,6,
+Fairbanks,"Sun, Oct 25",28,18,5,74,58,
+Fairbanks,"Mon, Oct 26",30,17,7,71,66,
+Fairbanks,"Tue, Oct 27",24,7,5,82,51,
+Fairbanks,"Wed, Oct 28",23,13,4,77,5,
+Fairbanks,"Thu, Oct 29",19,11,1,82,6,
+Fairbanks,"Fri, Oct 30",22,10,2,71,59,
+Fairbanks,"Sat, Oct 31",22,15,4,79,57,
+Fairbanks,"Sun, Nov 1",20,10,5,64,5,
+Fairbanks,"Mon, Nov 2",14,0,1,90,51,
+Fairbanks,"Tue, Nov 3",10,-1,3,92,56,
+Fairbanks,"Wed, Nov 4",7,-3,1,90,39,
+Fairbanks,"Thu, Nov 5",11,-2,1,74,6,
+Fairbanks,"Fri, Nov 6",16,7,3,97,67,
+Noatak,"Fri, Oct 23",26,17,6,73,59,
+Noatak,"Sat, Oct 24",27,20,7,89,81,
+Noatak,"Sun, Oct 25",21,15,7,84,3,
+Noatak,"Mon, Oct 26",17,13,4,81,5,
+Noatak,"Tue, Oct 27",23,15,6,84,43,
+Noatak,"Wed, Oct 28",21,12,4,87,52,
+Noatak,"Thu, Oct 29",19,15,1,94,50,
+Noatak,"Fri, Oct 30",16,13,3,91,6,
+Noatak,"Sat, Oct 31",15,6,8,80,52,
+Noatak,"Sun, Nov 1",13,7,1,92,6,
+Noatak,"Mon, Nov 2",11,6,5,92,55,
+Noatak,"Tue, Nov 3",15,7,4,94,56,
+Noatak,"Wed, Nov 4",19,14,8,96,89,
+Noatak,"Thu, Nov 5",23,16,14,93,68,
+Noatak,"Fri, Nov 6",33,22,15,100,85,
+Chevak,"Fri, Oct 23",40,31,18,91,87,0.05
+Chevak,"Sat, Oct 24",43,36,10,93,82,0.22
+Chevak,"Sun, Oct 25",40,35,11,92,56,0.01
+Chevak,"Mon, Oct 26",38,36,13,84,71,0.1
+Chevak,"Tue, Oct 27",36,29,10,79,41,0.01
+Chevak,"Wed, Oct 28",34,24,10,84,6,
+Chevak,"Thu, Oct 29",26,23,13,56,45,
+Chevak,"Fri, Oct 30",29,24,17,52,50,
+Chevak,"Sat, Oct 31",28,21,12,69,52,
+Chevak,"Sun, Nov 1",23,17,11,61,6,
+Chevak,"Mon, Nov 2",23,20,16,86,58,
+Chevak,"Tue, Nov 3",33,21,7,97,57,
+Chevak,"Wed, Nov 4",36,31,17,89,66,0.01
+Chevak,"Thu, Nov 5",35,32,19,76,84,
+Chevak,"Fri, Nov 6",38,33,25,84,67,0.08
+Nome,"Fri, Oct 23",36,32,17,83,70,0.12
+Nome,"Sat, Oct 24",38,35,13,82,72,0.1
+Nome,"Sun, Oct 25",35,33,9,82,55,0.0
+Nome,"Mon, Oct 26",34,27,8,78,6,
+Nome,"Tue, Oct 27",32,26,9,71,6,
+Nome,"Wed, Oct 28",29,22,8,74,4,
+Nome,"Thu, Oct 29",23,20,3,65,6,
+Nome,"Fri, Oct 30",23,19,11,65,8,
+Nome,"Sat, Oct 31",20,14,12,61,9,
+Nome,"Sun, Nov 1",19,13,5,69,6,
+Nome,"Mon, Nov 2",26,16,17,78,54,
+Nome,"Tue, Nov 3",33,17,5,78,57,
+Nome,"Wed, Nov 4",33,28,16,90,71,
+Nome,"Thu, Nov 5",34,28,13,92,82,
+Nome,"Fri, Nov 6",32,27,24,87,84,
+Metlakatla,"Fri, Oct 23",44,36,11,37,4,
+Metlakatla,"Sat, Oct 24",43,35,7,38,1,
+Metlakatla,"Sun, Oct 25",41,35,10,89,85,0.59
+Metlakatla,"Mon, Oct 26",50,46,13,99,99,3.11
+Metlakatla,"Tue, Oct 27",49,45,8,79,67,0.09
+Metlakatla,"Wed, Oct 28",47,42,8,81,52,0.08
+Metlakatla,"Thu, Oct 29",45,40,4,83,62,0.13
+Metlakatla,"Fri, Oct 30",44,36,6,81,63,0.18
+Metlakatla,"Sat, Oct 31",52,41,27,95,96,5.01
+Metlakatla,"Sun, Nov 1",47,37,11,76,63,0.18
+Metlakatla,"Mon, Nov 2",46,39,6,82,77,0.13
+Metlakatla,"Tue, Nov 3",48,39,13,96,99,2.47
+Metlakatla,"Wed, Nov 4",49,42,4,89,52,0.1
+Metlakatla,"Thu, Nov 5",49,42,6,88,50,0.03
+Metlakatla,"Fri, Nov 6",50,35,6,81,43,0.01
+Utqiagvik,"Fri, Oct 23",33,21,10,88,6,
+Utqiagvik,"Sat, Oct 24",30,19,8,82,46,
+Utqiagvik,"Sun, Oct 25",27,15,8,77,4,
+Utqiagvik,"Mon, Oct 26",19,8,10,76,45,
+Utqiagvik,"Tue, Oct 27",30,20,23,67,57,
+Utqiagvik,"Wed, Oct 28",32,26,24,67,63,
+Utqiagvik,"Thu, Oct 29",23,18,17,73,53,
+Utqiagvik,"Fri, Oct 30",20,12,11,80,67,
+Utqiagvik,"Sat, Oct 31",13,9,6,88,55,
+Utqiagvik,"Sun, Nov 1",19,8,7,84,56,
+Utqiagvik,"Mon, Nov 2",19,13,9,95,44,
+Utqiagvik,"Tue, Nov 3",18,12,10,96,6,
+Utqiagvik,"Wed, Nov 4",17,13,18,75,69,
+Utqiagvik,"Thu, Nov 5",18,14,16,83,57,
+Utqiagvik,"Fri, Nov 6",17,14,26,91,55,
+Glennallen,"Fri, Oct 23",13,-1,3,72,1,
+Glennallen,"Sat, Oct 24",26,8,5,72,6,
+Glennallen,"Sun, Oct 25",25,19,5,94,63,
+Glennallen,"Mon, Oct 26",29,23,5,94,81,
+Glennallen,"Tue, Oct 27",27,8,5,87,52,
+Glennallen,"Wed, Oct 28",17,6,3,87,53,
+Glennallen,"Thu, Oct 29",3,-12,1,93,56,
+Glennallen,"Fri, Oct 30",5,-9,2,91,68,
+Glennallen,"Sat, Oct 31",13,6,9,93,76,
+Glennallen,"Sun, Nov 1",12,4,7,88,65,
+Glennallen,"Mon, Nov 2",14,0,4,95,65,
+Glennallen,"Tue, Nov 3",13,0,6,86,71,
+Glennallen,"Wed, Nov 4",11,-4,1,93,6,
+Glennallen,"Thu, Nov 5",5,-6,1,96,6,
+Glennallen,"Fri, Nov 6",5,-6,1,95,5,
+Valdez,"Fri, Oct 23",41,25,4,47,2,
+Valdez,"Sat, Oct 24",36,29,3,82,60,0.02
+Valdez,"Sun, Oct 25",40,33,5,89,87,0.43
+Valdez,"Mon, Oct 26",41,35,5,90,95,1.7
+Valdez,"Tue, Oct 27",39,29,6,74,54,
+Valdez,"Wed, Oct 28",33,20,7,64,6,
+Valdez,"Thu, Oct 29",29,21,4,71,47,
+Valdez,"Fri, Oct 30",38,27,5,97,86,1.5
+Valdez,"Sat, Oct 31",39,24,21,81,79,0.7
+Valdez,"Sun, Nov 1",27,20,18,85,66,
+Valdez,"Mon, Nov 2",25,21,18,91,78,
+Valdez,"Tue, Nov 3",26,22,21,82,79,
+Valdez,"Wed, Nov 4",27,23,20,70,6,
+Valdez,"Thu, Nov 5",32,26,2,52,6,
+Valdez,"Fri, Nov 6",32,26,15,66,6,
+Nuiqsut,"Fri, Oct 23",31,14,6,85,46,
+Nuiqsut,"Sat, Oct 24",25,15,8,84,51,
+Nuiqsut,"Sun, Oct 25",24,12,6,87,50,
+Nuiqsut,"Mon, Oct 26",11,6,5,81,3,
+Nuiqsut,"Tue, Oct 27",23,9,14,84,52,
+Nuiqsut,"Wed, Oct 28",23,15,16,82,51,
+Nuiqsut,"Thu, Oct 29",18,9,10,95,53,
+Nuiqsut,"Fri, Oct 30",10,2,7,90,51,
+Nuiqsut,"Sat, Oct 31",9,-2,5,96,59,
+Nuiqsut,"Sun, Nov 1",7,-7,10,81,52,
+Nuiqsut,"Mon, Nov 2",8,0,8,95,55,
+Nuiqsut,"Tue, Nov 3",4,-2,7,75,5,
+Nuiqsut,"Wed, Nov 4",22,0,18,95,56,
+Nuiqsut,"Thu, Nov 5",22,12,10,82,52,
+Nuiqsut,"Fri, Nov 6",23,17,20,77,47,
+Juneau,"Fri, Oct 23",36,27,7,44,0,
+Juneau,"Sat, Oct 24",35,24,6,46,2,
+Juneau,"Sun, Oct 25",37,31,12,89,70,0.12
+Juneau,"Mon, Oct 26",47,37,13,89,99,1.64
+Juneau,"Tue, Oct 27",44,41,9,85,78,0.5
+Juneau,"Wed, Oct 28",42,39,11,88,75,0.35
+Juneau,"Thu, Oct 29",42,36,3,96,64,0.26
+Juneau,"Fri, Oct 30",42,37,9,97,82,1.13
+Juneau,"Sat, Oct 31",45,38,9,97,92,1.57
+Juneau,"Sun, Nov 1",37,32,16,87,75,0.71
+Juneau,"Mon, Nov 2",41,37,6,99,77,0.77
+Juneau,"Tue, Nov 3",41,37,6,96,79,1.09
+Juneau,"Wed, Nov 4",41,33,3,97,72,0.47
+Juneau,"Thu, Nov 5",42,30,4,80,58,
+Juneau,"Fri, Nov 6",33,27,2,70,5,
+Point Hope,"Fri, Oct 23",34,31,11,70,3,
+Point Hope,"Sat, Oct 24",32,30,10,77,46,
+Point Hope,"Sun, Oct 25",30,28,9,73,2,
+Point Hope,"Mon, Oct 26",34,28,15,78,52,
+Point Hope,"Tue, Oct 27",33,31,21,65,52,
+Point Hope,"Wed, Oct 28",33,29,20,70,57,
+Point Hope,"Thu, Oct 29",28,25,14,56,56,
+Point Hope,"Fri, Oct 30",28,26,24,66,69,
+Point Hope,"Sat, Oct 31",26,19,19,66,57,
+Point Hope,"Sun, Nov 1",24,23,11,66,51,
+Point Hope,"Mon, Nov 2",25,21,34,89,68,
+Point Hope,"Tue, Nov 3",32,21,33,80,78,
+Point Hope,"Wed, Nov 4",32,23,11,97,90,
+Point Hope,"Thu, Nov 5",33,29,34,79,79,
+Point Hope,"Fri, Nov 6",33,27,20,95,60,
+Haines,"Fri, Oct 23",35,25,13,42,0,
+Haines,"Sat, Oct 24",35,25,9,45,2,
+Haines,"Sun, Oct 25",38,31,8,76,57,0.08
+Haines,"Mon, Oct 26",51,38,25,82,79,0.53
+Haines,"Tue, Oct 27",46,41,13,81,76,0.14
+Haines,"Wed, Oct 28",43,39,16,83,72,0.24
+Haines,"Thu, Oct 29",39,34,6,92,77,0.39
+Haines,"Fri, Oct 30",41,34,15,99,91,1.59
+Haines,"Sat, Oct 31",43,38,20,98,96,2.7
+Haines,"Sun, Nov 1",37,33,19,87,70,0.4
+Haines,"Mon, Nov 2",40,32,4,98,74,0.26
+Haines,"Tue, Nov 3",39,33,8,98,90,0.54
+Haines,"Wed, Nov 4",38,28,14,77,6,
+Haines,"Thu, Nov 5",31,25,13,68,6,
+Haines,"Fri, Nov 6",30,25,10,60,5,
+Yakutat,"Fri, Oct 23",44,30,5,52,0,
+Yakutat,"Sat, Oct 24",44,31,7,66,46,0.01
+Yakutat,"Sun, Oct 25",45,36,10,93,90,1.01
+Yakutat,"Mon, Oct 26",49,43,14,90,99,1.68
+Yakutat,"Tue, Oct 27",46,40,6,83,99,0.81
+Yakutat,"Wed, Oct 28",42,35,6,92,83,0.33
+Yakutat,"Thu, Oct 29",40,34,7,75,58,0.07
+Yakutat,"Fri, Oct 30",46,32,20,91,96,1.4
+Yakutat,"Sat, Oct 31",45,38,22,88,95,1.14
+Yakutat,"Sun, Nov 1",37,33,19,89,85,0.3
+Yakutat,"Mon, Nov 2",40,31,18,92,90,0.89
+Yakutat,"Tue, Nov 3",41,31,16,75,92,0.56
+Yakutat,"Wed, Nov 4",38,31,9,60,52,0.02
+Yakutat,"Thu, Nov 5",37,30,2,51,4,
+Yakutat,"Fri, Nov 6",38,33,5,63,6,
